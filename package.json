@@ -1,0 +1,26 @@
+{
+  "name": "ddv-catalogue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killingsworth-kristen/DDV-catalogue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/killingsworth-kristen/DDV-catalogue/issues"
+  },
+  "homepage": "https://github.com/killingsworth-kristen/DDV-catalogue#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.3"
+  }
+}
