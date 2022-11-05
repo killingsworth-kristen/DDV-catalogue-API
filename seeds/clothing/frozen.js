@@ -1,9 +1,9 @@
 const Set = require(`../../models`)
 const Tag = require(`../../models`)
 
-const frozenFurniture = [
+const frozenClothing = [
     // {
-    //     furnitureName: ``,
+    //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     craftingMaterials: null,
@@ -12,4 +12,4 @@ const frozenFurniture = [
     // },
 ]
 
-module.exports=frozenFurniture
+module.exports=frozenClothing
