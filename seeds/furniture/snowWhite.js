@@ -2,14 +2,14 @@ const Set = require(`../../models`)
 const Tag = require(`../../models`)
 
 const snowWhiteFurniture = [
-    // {
-    //     furnitureName: ``,
-    //     price: ,
-    //     obtainedBy: "Scrooge's Store",
-    //     craftingMaterials: null,
-    //     tagId: [],
-    //     setId: 23
-    // },
+    {
+        furnitureName: `Magic Mirror (On the Wall)`,
+        price: 408,
+        obtainedBy: "Villain's Star Path",
+        craftingMaterials: null,
+        tagId: [1,4,13,19],
+        setId: 23
+    }
 ]
 
 module.exports=snowWhiteFurniture
