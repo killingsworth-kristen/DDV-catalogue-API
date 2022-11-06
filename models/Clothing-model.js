@@ -6,7 +6,7 @@ class Clothing extends Model {}
 
 Clothing.init(
   {
-    clothing_name: {
+    clothingName: {
         type: DataTypes.STRING
     },
     isAcquired: {
@@ -15,6 +15,9 @@ Clothing.init(
     },
     price: {
         type: DataTypes.INTEGER
+    },
+    obtainedBy: {
+        type: DataTypes.STRING,
     }
   },
   {

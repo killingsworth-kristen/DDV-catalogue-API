@@ -8,7 +8,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -16,7 +15,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -24,7 +22,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -32,7 +29,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -40,7 +36,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -48,7 +43,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -56,7 +50,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -64,7 +57,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -72,7 +64,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -80,7 +71,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -88,7 +78,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -96,7 +85,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -104,7 +92,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -112,7 +99,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -120,7 +106,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -128,7 +113,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -136,7 +120,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -144,7 +127,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -152,7 +134,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -160,7 +141,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -168,7 +148,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -176,7 +155,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -184,7 +162,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -192,7 +169,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -200,7 +176,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -208,7 +183,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -216,7 +190,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -224,7 +197,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -232,7 +204,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -240,7 +211,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -248,7 +218,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -256,7 +225,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -264,7 +232,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -272,7 +239,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -280,7 +246,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -288,7 +253,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -296,7 +260,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -304,7 +267,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -312,7 +274,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -320,7 +281,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
@@ -328,7 +288,6 @@ const beatuyBeastFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
     //     tagId: [],
     //     setId: 6
     // },
