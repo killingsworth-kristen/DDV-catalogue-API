@@ -11,7 +11,7 @@ const dreamlightValleyClothing =[
         tagId: [1,2,22],
         setId: 4
     }, 
-       {
+    {
         clothingName: `Lenses of Shadows`,
         price: null,
         obtainedBy: "The Treasure Hunt Part 2 (Scrooge McDuck Level 10)",
