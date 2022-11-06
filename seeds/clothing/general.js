@@ -1,6 +1,8 @@
 const Set = require(`../../models`)
 const Tag = require(`../../models`)
 
+// 251 items
+
 const generalClothing = [
     // {
     //     clothingName: ``,
