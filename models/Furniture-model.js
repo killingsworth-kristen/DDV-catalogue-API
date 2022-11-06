@@ -17,9 +17,8 @@ Furniture.init(
         type: DataTypes.INTEGER,
         allowNull: true
     },
-    craftingIngredients: {
+    obtainedBy: {
         type: DataTypes.STRING,
-        allowNull: true
     }
   },
   {

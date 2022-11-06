@@ -1,12 +1,14 @@
 const Set = require(`../../models`)
 const Tag = require(`../../models`)
 
+// 25 pieces of furniture
+
 const monstersIncFurniture = [
 //     {
 //         furnitureName: ``,
 //         price: ,
 //         obtainedBy: "Scrooge's Store",
-//         craftingMaterials: null,
+//         
 //         tagId: [],
 //         setId: 13
 //     },

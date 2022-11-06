@@ -6,7 +6,7 @@ const SwordStoneFurniture =[
         furnitureName: `Bag of Tricks`,
         price: 3200,
         obtainedBy: "Merlin Friendship Level 2",
-        craftingMaterials: null,
+        
         tagId: [8,11,19],
         setId: 2
     },
@@ -14,7 +14,7 @@ const SwordStoneFurniture =[
         furnitureName: `Big Pile of Books`,
         price: 6400,
         obtainedBy: "Scrooge's Store",
-        craftingMaterials: null,
+        
         tagId: [8,11,19],
         setId: 2
     },
@@ -22,7 +22,7 @@ const SwordStoneFurniture =[
         furnitureName: `Book Pile`,
         price: 900,
         obtainedBy: "Scrooge's Store",
-        craftingMaterials: null,
+        
         tagId: [7,11,13,19],
         setId: 2
     },
@@ -30,7 +30,7 @@ const SwordStoneFurniture =[
         furnitureName: `Book Piles`,
         price: 3200,
         obtainedBy: "Scrooge's Store",
-        craftingMaterials: null,
+        
         tagId: [8,11,19],
         setId: 2
     },
@@ -38,7 +38,7 @@ const SwordStoneFurniture =[
         furnitureName: `Line of Books`,
         price: 480,
         obtainedBy: "Scrooge's Store",
-        craftingMaterials: null,
+        
         tagId: [],
         setId: 2
     },
@@ -46,7 +46,7 @@ const SwordStoneFurniture =[
         furnitureName: `Melted Candles`,
         price: 360,
         obtainedBy: "Scrooge's Store",
-        craftingMaterials: null,
+        
         tagId: [7,11,13,19],
         setId: 2
     },
@@ -54,7 +54,7 @@ const SwordStoneFurniture =[
         furnitureName: `Mortar 'n' Pestle`,
         price: 360,
         obtainedBy: "Scrooge's Store",
-        craftingMaterials: null,
+        
         tagId: [7,8,9,19],
         setId: 2
     },
@@ -62,7 +62,7 @@ const SwordStoneFurniture =[
         furnitureName: `Old Armchair`,
         price: 900,
         obtainedBy: "Scrooge's Store",
-        craftingMaterials: null,
+        
         tagId: [2,8,16,18,19],
         setId: 2
     },
@@ -70,7 +70,7 @@ const SwordStoneFurniture =[
         furnitureName: `Open Book`,
         price: 1200,
         obtainedBy: "Scrooge's Store",
-        craftingMaterials: null,
+        
         tagId: [7,11,13,19],
         setId: 2
     },
@@ -78,7 +78,7 @@ const SwordStoneFurniture =[
         furnitureName: `Orntate Curtain`,
         price: 1200,
         obtainedBy: "Scrooge's Store",
-        craftingMaterials: null,
+        
         tagId: [16,19],
         setId: 2
     },
@@ -86,7 +86,7 @@ const SwordStoneFurniture =[
         furnitureName: `Phial Holder`,
         price: 1200,
         obtainedBy: "Merlin Friendship Level 5",
-        craftingMaterials: null,
+        
         tagId: [7,8,11,18,19],
         setId: 2
     },
@@ -94,7 +94,7 @@ const SwordStoneFurniture =[
         furnitureName: `Potion Cupboard`,
         price: 6400,
         obtainedBy: "Merlin Friendship Level 8",
-        craftingMaterials: null,
+        
         tagId: [8,9,11,18,19],
         setId: 2
     },
@@ -102,7 +102,7 @@ const SwordStoneFurniture =[
         furnitureName: `Round-Bottomed Flask and Holder`,
         price: 900,
         obtainedBy: "Scrooge's Store",
-        craftingMaterials: null,
+        
         tagId: [7,8,18,19],
         setId: 2
     },
@@ -110,7 +110,7 @@ const SwordStoneFurniture =[
         furnitureName: `Small Book Pile`,
         price: 360,
         obtainedBy: "Scrooge's Store",
-        craftingMaterials: null,
+        
         tagId: [7,11,13,19],
         setId: 2
     }

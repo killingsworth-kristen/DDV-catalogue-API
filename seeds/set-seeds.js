@@ -73,6 +73,15 @@ const SetData = [
     },
     {
         setName: "General"
+    },
+    {
+        setName: "Functional Items"
+    },
+    {
+        setName: "Furniture" //crafted furniture only
+    },
+    {
+        setName: "Fences and Paving"
     }
 ]
 
