@@ -6,9 +6,8 @@ const sleepingBeautyClothing = [
     //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     craftingMaterials: null,
     //     tagId: [],
-    //     setId: 22
+    //     setId: 23
     // },
 ]
 

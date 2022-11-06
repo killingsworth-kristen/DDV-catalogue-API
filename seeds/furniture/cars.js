@@ -8,7 +8,7 @@ const carsFurniture = [
         obtainedBy: "Pixar Fest Star Path",
         
         tagId: [1,3,8,10,13],
-        setId: 19
+        setId: 20
     },
     {
         furnitureName: `Piston Cup`,
@@ -16,7 +16,7 @@ const carsFurniture = [
         obtainedBy: "Pixar Fest Star Path",
         
         tagId: [1,6,7,10,13,19],
-        setId: 19
+        setId: 20
     }
 ]
 

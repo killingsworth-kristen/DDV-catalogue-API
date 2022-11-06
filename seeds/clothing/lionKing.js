@@ -6,9 +6,8 @@ const lionKingClothing = [
     //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     craftingMaterials: null,
     //     tagId: [],
-    //     setId: 9
+    //     setId: 10
     // },
 ]
 

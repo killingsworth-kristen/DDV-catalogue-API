@@ -6,9 +6,8 @@ const cinderllaClothing = [
     //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     craftingMaterials: null,
     //     tagId: [],
-    //     setId: 8
+    //     setId: 9
     // },
 ]
 

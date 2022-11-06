@@ -8,7 +8,7 @@ const lightyearFurniture = [
         obtainedBy: "Pixar Fest Star Path",
         
         tagId: [1,5,7,18,19],
-        setId: 20
+        setId: 21
     },
     {
         furnitureName: `XL-15 Spaceship Model`,
@@ -16,7 +16,7 @@ const lightyearFurniture = [
         obtainedBy: "Pixar Fest Star Path",
         
         tagId: [1,5,13,19],
-        setId: 20
+        setId: 21
     }
 ]
 

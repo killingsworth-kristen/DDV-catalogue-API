@@ -12,76 +12,79 @@ const SetData = [
         setName: "WALL-E" //3
     },
     {
-        setName: "Moana" //4
+        setName: "DreamLight Valley" //4
     },
     {
-        setName: "Ratatouille" //5
+        setName: "Moana" //4->5
     },
     {
-        setName: "Beauty and the Beast" //6
+        setName: "Ratatouille" //5->6
     },
     {
-        setName: "Wreck-It Ralph" //7
+        setName: "Beauty and the Beast" //6->7
     },
     {
-        setName: "Cinderella" //8
+        setName: "Wreck-It Ralph" //7->8
     },
     {
-        setName: "The Lion King" //9
+        setName: "Cinderella" //8->9
     },
     {
-        setName: "The Little Mermaid" //10
+        setName: "The Lion King" //9->10
     },
     {
-        setName: "Frozen" //11
+        setName: "The Little Mermaid" //10->11
     },
     {
-        setName: "Tangled" //12
+        setName: "Frozen" //11->12
     },
     {
-        setName: "Monsters, Inc." //13
+        setName: "Tangled" //12->13
     },
     {
-        setName: "Toy Story" //14
+        setName: "Monsters, Inc." //13->14
     },
     {
-        setName: "Lilo & Stitch" //15
+        setName: "Toy Story" //14->15
     },
     {
-        setName: "The Incredibles" //16
+        setName: "Lilo & Stitch" //15->16
     },
     {
-        setName: "Hercules" //17
+        setName: "The Incredibles" //16->17
     },
     {
-        setName: "Coco" //18
+        setName: "Hercules" //17->18
     },
     {
-        setName: "Cars" //19
+        setName: "Coco" //18->19
     },
     {
-        setName: "Lightyear" //20
+        setName: "Cars" //19->20
     },
     {
-        setName: "Up" //21
+        setName: "Lightyear" //20->21
     },
     {
-        setName: "Sleeping Beauty" //22
+        setName: "Up" //21->22
     },
     {
-        setName: "Snow White" //23
+        setName: "Sleeping Beauty" //22->23
     },
     {
-        setName: "General" //24
+        setName: "Snow White" //23->24
     },
     {
-        setName: "Functional Items" //25
+        setName: "General" //24->25
     },
     {
-        setName: "Furniture" //crafted furniture only 26
+        setName: "Functional Items" //25->26
     },
     {
-        setName: "Fences and Paving" //27
+        setName: "Furniture" //crafted furniture only 26->27
+    },
+    {
+        setName: "Fences and Paving" //27->28
     }
 ]
 

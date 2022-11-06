@@ -6,9 +6,8 @@ const upClothing = [
     //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     craftingMaterials: null,
     //     tagId: [],
-    //     setId: 21
+    //     setId: 22
     // },
 ]
 

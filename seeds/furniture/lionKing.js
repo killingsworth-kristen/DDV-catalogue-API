@@ -10,7 +10,7 @@ const lionKingFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 9
+    //     setId: 10
     // },
 ]
 

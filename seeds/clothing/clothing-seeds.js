@@ -22,6 +22,10 @@ ClothingData.push(SwordStoneClothing);
 const walleClothing = require(`./walle`);
 ClothingData.push(walleClothing);
 
+// Dreamlight Valley
+const dreamlightValleyClothing = require(`./dreamlightValley`);
+ClothingData.push(dreamlightValleyClothing);
+
 // Moana
 const moanaClothing = require(`./moana`);
 ClothingData.push(moanaClothing);

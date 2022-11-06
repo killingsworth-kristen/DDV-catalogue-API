@@ -6,9 +6,8 @@ const littleMermaidClothing = [
     //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     craftingMaterials: null,
     //     tagId: [],
-    //     setId: 10
+    //     setId: 11
     // },
 ]
 

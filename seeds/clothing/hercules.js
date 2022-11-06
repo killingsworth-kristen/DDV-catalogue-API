@@ -6,9 +6,8 @@ const herculesClothing = [
     //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     craftingMaterials: null,
     //     tagId: [],
-    //     setId: 17
+    //     setId: 18
     // },
 ]
 

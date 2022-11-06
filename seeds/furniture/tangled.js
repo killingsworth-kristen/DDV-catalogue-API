@@ -8,7 +8,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [1,9,13,16,19],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Bear Armchair`,
@@ -16,7 +16,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [1,14,16,18,19],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Cozy Couch`,
@@ -24,7 +24,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [2,3,8,13,16,18],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Day & Night Paintings`,
@@ -32,7 +32,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [2,3,8,18,19],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Easel`,
@@ -40,7 +40,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [2,3,8,18,19],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Guitar`,
@@ -48,7 +48,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [2,3,8,18,19],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Helmet Lamp`,
@@ -56,7 +56,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [1,9,16,18,19],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Homey Rug`,
@@ -64,7 +64,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [1,9,13,16,19],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Horned Tavern Fireplace`,
@@ -72,7 +72,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [1,9,14,16,18],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Lantern Garland`,
@@ -80,7 +80,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [2,3,8,13,18],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Lounge Pillows`,
@@ -88,7 +88,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [2,3,8,13,16,18],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Mother Gothel's Standing Mirror`,
@@ -96,7 +96,7 @@ const tangledFurniture = [
         obtainedBy: "Village Project: Restoring the Sunstone (Mother Gothel Level 10)",
         
         tagId: [4,11,12,13],
-        setId: 12
+        setId: 13
     },
     // needs pricing data
     {
@@ -105,7 +105,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [2,3,8,18,19],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Plain Bed`,
@@ -113,7 +113,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [1,9,13],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Provincial Window`,
@@ -121,7 +121,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [1,9,13,15,16],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Pub Sign`,
@@ -129,7 +129,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [3,8,9,12,15,18],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Rustic Chandelier`,
@@ -137,7 +137,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [1,9,14,15,16],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Simple Stool`,
@@ -145,7 +145,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [1,9,14,16,19],
-        setId: 12
+        setId: 13
     },
     {
         furnitureName: `Spray-Painted Window`,
@@ -153,7 +153,7 @@ const tangledFurniture = [
         obtainedBy: "Scrooge's Store",
         
         tagId: [2,3,8,18,19],
-        setId: 12
+        setId: 13
     }
 ]
 

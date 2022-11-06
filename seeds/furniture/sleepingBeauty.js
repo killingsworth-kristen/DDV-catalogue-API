@@ -8,7 +8,7 @@ const sleepingBeautyFurniture = [
         obtainedBy: "Villain's Star Path",
         
         tagId: [1,4,16,19],
-        setId: 22
+        setId: 23
     }
 ]
 

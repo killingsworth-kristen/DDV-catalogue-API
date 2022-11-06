@@ -10,7 +10,7 @@ const liloStitchFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 15
+    //     setId: 16
     // },
 ]
 

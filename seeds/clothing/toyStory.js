@@ -6,9 +6,8 @@ const toyStoryClothing = [
     //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     craftingMaterials: null,
     //     tagId: [],
-    //     setId: 14
+    //     setId: 15
     // },
 ]
 

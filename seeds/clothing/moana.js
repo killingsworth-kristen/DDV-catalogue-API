@@ -6,7 +6,6 @@ const moanaClothing = [
     //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     craftingMaterials: null,
     //     tagId: [],
     //     setId: 4
     // },

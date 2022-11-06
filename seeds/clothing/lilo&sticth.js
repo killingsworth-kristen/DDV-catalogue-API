@@ -6,9 +6,8 @@ const liloStitchClothing = [
     //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     craftingMaterials: null,
     //     tagId: [],
-    //     setId: 15
+    //     setId: 16
     // },
 ]
 

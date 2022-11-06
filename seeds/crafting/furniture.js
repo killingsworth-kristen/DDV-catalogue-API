@@ -10,7 +10,7 @@ const furnitureCrafting = [
 //     obtainedBy: "Collecting all necessary crafting materials",
 //     craftingMaterials: [],
 //     tagId: [],
-//     setId: 26
+//     setId: 27
 // },
 ]
 

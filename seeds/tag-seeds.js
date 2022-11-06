@@ -60,7 +60,61 @@ const TagData = [
     },
     {
         tagName: "Study" //19
-    }
+    },
+    // clothing types
+    {
+        tagName: "Back" //20
+    },
+    {
+        tagName: "Bracelets" //21
+    },
+    {
+        tagName: "Coats" //22
+    },
+    {
+        tagName: "Costumes" //23
+    },
+    {
+        tagName: "Dresses" //24
+    },
+    {
+        tagName: "Earrings" //25
+    },
+    {
+        tagName: "Glasses" //26
+    },
+    {
+        tagName: "Gloves" //27
+    },
+    {
+        tagName: "Hairstyle" //28
+    },
+    {
+        tagName: "Hats" //29
+    },
+    {
+        tagName: "Masks" //30
+    },
+    {
+        tagName: "Neckwear" //31
+    },
+    {
+        tagName: "Pants" //32
+    },
+    {
+        tagName: "Shoes" //33
+    },
+    {
+        tagName: "Shorts" //34
+    },
+    {
+        tagName: "Skirts" //35
+    },
+    {
+        tagName: "Tops" //36
+    },
+
+
 ]
 
 const seedTags = () => Tag.bulkCreate(TagData);

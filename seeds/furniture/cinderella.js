@@ -10,7 +10,7 @@ const cinderllaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 8
+    //     setId: 9
     // },
 ]
 

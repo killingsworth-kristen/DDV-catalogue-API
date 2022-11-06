@@ -6,9 +6,8 @@ const incrediblesClothing = [
     //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     craftingMaterials: null,
     //     tagId: [],
-    //     setId: 16
+    //     setId: 17
     // },
 ]
 

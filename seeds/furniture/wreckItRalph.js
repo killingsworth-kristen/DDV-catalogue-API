@@ -10,7 +10,7 @@ const wreckItRaplhFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 7
+    //     setId: 8
     // },
 ]
 

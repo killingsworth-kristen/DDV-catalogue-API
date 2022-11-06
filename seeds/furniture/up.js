@@ -8,7 +8,7 @@ const upFurniture = [
         obtainedBy: "Pixar Fest Star Path",
         
         tagId: [3,8,17],
-        setId: 21
+        setId: 22
     },
     {
         furnitureName: `Fredricksen Fireplace`,
@@ -16,7 +16,7 @@ const upFurniture = [
         obtainedBy: "Pixar Fest Star Path",
         
         tagId: [2,3,9,14,16,19],
-        setId: 21
+        setId: 22
     }
 ]
 

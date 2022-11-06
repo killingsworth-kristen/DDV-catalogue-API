@@ -10,7 +10,7 @@ const generalFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 24
+    //     setId: 25
     // },
 ]
 

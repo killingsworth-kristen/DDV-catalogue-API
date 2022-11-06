@@ -11,7 +11,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`sand`,`pebbles`,`coal`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Brick Road`,
@@ -19,7 +19,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`x2 Stone`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Dark Wire Mesh Fence`,
@@ -27,7 +27,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`x2 Iron Ingot`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Dark Wood Fence`,
@@ -35,7 +35,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`x5 Dark Wood`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Gem & Opal Road`,
@@ -43,7 +43,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`Aquamarine`,`Tourmaline`,`Alexandrite`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Gold & Opal Road`,
@@ -51,7 +51,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`Stone`,`Gold Ingot`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Golden Brick Road`,
@@ -59,7 +59,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`Gold Ingot`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Green Bamboo Fence`,
@@ -67,7 +67,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`x5 Softwood`,`x5 Fiber`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Iron Spike and Brick Fence`,
@@ -75,7 +75,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`x2 Iron Ingot`,`x3 Brick`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Leaf-Strewn Path`,
@@ -83,7 +83,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`Hardwood`,`Soil`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Loose Gravel Path`,
@@ -91,7 +91,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`Soil`,`Pebbles`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Metal Spike Fence`,
@@ -99,7 +99,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`x2 Brick`, `x3 Iron Ingot`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Muddy Path`,
@@ -107,7 +107,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`Soil`,`Hardwood`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Natural Rock Path`,
@@ -115,7 +115,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`Pebbles`,`Sand`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Sinister Brick Road`,
@@ -123,7 +123,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`Stone`,`Soil`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Snowy Brick Road`,
@@ -131,7 +131,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`Stone`,`Snowball`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Sun-Baked Earthen Road`,
@@ -139,7 +139,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`Soil`,`Clay`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `White Bamboo Fence`,
@@ -147,7 +147,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`x5 Softwood`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `White Picket Fence`,
@@ -155,7 +155,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`x5 Softwood`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
     {
         craftingName: `Wire Mesh Fence`,
@@ -163,7 +163,7 @@ const fencesPavingCrafting = [
         obtainedBy: "Collecting all necessary crafting materials",
         craftingMaterials: [`x2 Iron Ingots`],
         tagId: [],
-        setId: 27
+        setId: 28
     },
    
 ]

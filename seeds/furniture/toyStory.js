@@ -10,7 +10,7 @@ const toyStoryFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 14
+    //     setId: 15
     // },
 ]
 

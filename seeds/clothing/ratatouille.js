@@ -6,9 +6,8 @@ const ratatouilleClothing = [
     //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     craftingMaterials: null,
     //     tagId: [],
-    //     setId: 5
+    //     setId: 6
     // },
 ]
 

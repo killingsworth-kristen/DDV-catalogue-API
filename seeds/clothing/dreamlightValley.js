@@ -1,14 +1,16 @@
 const Set = require(`../../models`)
 const Tag = require(`../../models`)
 
-const beatuyBeastClothing = [
+// 2 items
+
+const dreamlightValleyClothing =[
     // {
     //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
-    // },
+    //     setId: 3
+    // },  
 ]
 
-module.exports=beatuyBeastClothing
+module.exports=dreamlightValleyClothing

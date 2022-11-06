@@ -6,9 +6,8 @@ const lightyearClothing = [
     //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     craftingMaterials: null,
     //     tagId: [],
-    //     setId: 20
+    //     setId: 21
     // },
 ]
 

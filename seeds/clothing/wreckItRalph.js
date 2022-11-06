@@ -6,9 +6,8 @@ const wreckItRaplhClothing = [
     //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     craftingMaterials: null,
     //     tagId: [],
-    //     setId: 7
+    //     setId: 8
     // },
 ]
 

@@ -9,287 +9,287 @@ const beatuyBeastFurniture = [
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 6
+    //     setId: 7
     // },
 
 ]

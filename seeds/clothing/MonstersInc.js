@@ -6,9 +6,8 @@ const monstersIncClothing = [
 //         clothingName: ``,
 //         price: ,
 //         obtainedBy: "Scrooge's Store",
-//         craftingMaterials: null,
 //         tagId: [],
-//         setId: 13
+//         setId: 14
 //     },
 ]
 

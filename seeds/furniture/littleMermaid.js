@@ -10,7 +10,7 @@ const littleMermaidFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 10
+    //     setId: 11
     // },
 ]
 

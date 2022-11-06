@@ -8,7 +8,7 @@ const cocoFurniture = [
         obtainedBy: "Pixar Fest Star Path",
         
         tagId: [3,6,17,18],
-        setId: 18
+        setId: 20
     },
     {
         furnitureName: `Miguel's Guitar`,
@@ -16,7 +16,7 @@ const cocoFurniture = [
         obtainedBy: "Pixar Fest Star Path",
         
         tagId: [1,11,13,17,18,19],
-        setId: 18
+        setId: 20
     },
     {
         furnitureName: `Papel Picados`,
@@ -24,7 +24,7 @@ const cocoFurniture = [
         obtainedBy: "Pixar Fest Star Path",
         
         tagId: [3,11,17],
-        setId: 18
+        setId: 20
     },
 ]
 module.exports=cocoFurniture

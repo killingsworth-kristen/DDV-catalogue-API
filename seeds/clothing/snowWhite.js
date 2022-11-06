@@ -6,9 +6,8 @@ const snowWhiteClothing = [
     //     clothingName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     craftingMaterials: null,
     //     tagId: [],
-    //     setId: 23
+    //     setId: 24
     // },
 ]
 

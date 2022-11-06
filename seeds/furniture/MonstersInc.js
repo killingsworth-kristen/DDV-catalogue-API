@@ -10,7 +10,7 @@ const monstersIncFurniture = [
 //         obtainedBy: "Scrooge's Store",
 //         
 //         tagId: [],
-//         setId: 13
+//         setId: 14
 //     },
 ]
 
