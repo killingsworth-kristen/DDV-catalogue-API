@@ -9,6 +9,7 @@ Clothing.init(
     clothingName: {
         type: DataTypes.STRING
     },
+    // move to user model (have 3 Foriegn keys pointing to clothing, crafting, furniture items (many-many relationship)
     isAcquired: {
         type: DataTypes.BOOLEAN,
         defaultValue: false
