@@ -8,7 +8,6 @@ const carsClothing = [
         style: [],
         clothingCategory: "Coats",
         color: [],
-        tagId: [22],
         set: "Cars"
     },
 ]
