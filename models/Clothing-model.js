@@ -1,6 +1,6 @@
 const { Schema, model } = require('mongoose');
 
-// Schema to create Post model
+// Schema to create clothing model
 const clothingSchema = new Schema({
     clothingName: {
         type: String,

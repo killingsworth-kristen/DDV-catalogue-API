@@ -1,33 +1,40 @@
-const { Model, DataTypes } = require('sequelize');
+const { Schema, model } = require('mongoose');
 
-const sequelize = require('../config/connection.js');
-
-class Crafting extends Model {}
-
-Crafting.init(
-  {
+// Schema to create clothing model
+const craftingSchema = new Schema({
     craftingName: {
-      type: DataTypes.STRING
-    },
-    isAcquired: {
-        type: DataTypes.BOOLEAN,
-        defaultValue: false
-    },
-    price: {
-        type: DataTypes.INTEGER,
-        allowNull: true
+        type: String,
+        required: true
     },
     obtainedBy: {
-        type: DataTypes.STRING,
+        type: String,
+        required: false,
+        default: `Collecting all necessary crafting materials`
     },
-    craftingIngredients: {
-        type: DataTypes.STRING,
-        allowNull: true
-    }
+    // style: [styleSchema]
+    style: [{
+      type: Schema.Types.ObjectId,
+      ref: 'Style',
+    }],
+    // clothingCategory: [clothingCategorySchema]
+    clothingCategory: [{
+      type: Schema.Types.ObjectId,
+      ref: 'clothingCategory',
+    }],
+    // color: [colorSchema]
+    color: [{
+      type: Schema.Types.ObjectId,
+      ref: 'color',
+    }],
+    craftingIngredients: [craftingIngredientsList]
   },
   {
-    sequelize
+    toJSON: {
+      virtuals: true,
+    },
+    id: false,
   }
 );
+ const Crafting = model(`Crafting`,craftingSchema);
 
-module.exports = Crafting;
+ module.exports = Crafting;
