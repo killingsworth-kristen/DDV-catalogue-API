@@ -1,29 +1,30 @@
-const Set = require(`../../models`)
-const Tag = require(`../../models`)
 
 // 3 items
 
 const incrediblesClothing = [
     {
         clothingName: `High-Boot Incredibles Suit`,
-        price: null,
-        obtainedBy: "Scrooge's Store",
-        tagId: [23],
-        setId: 17
+        obtainedBy: "Pixar Fest Star Path",
+        style: ["Bold","Quirky","Sporty"],
+        clothingCategory: "Costumes",
+        color: [],
+        set: "The Incredibles"
     },
        {
         clothingName: `Incredibles Super-Mask`,
-        price: null,
-        obtainedBy: "Scrooge's Store",
-        tagId: [30],
-        setId: 17
+        obtainedBy: "Villain's Star Path",
+        style: ["Bold","Modern","Sporty"],
+        clothingCategory: "Masks",
+        color: [],
+        set: "The Incredibles"
     },
        {
         clothingName: `Low-Boot Incredibles Suit`,
-        price: null,
-        obtainedBy: "Scrooge's Store",
-        tagId: [23],
-        setId: 17
+        obtainedBy: "Pixar Fest Star Path",
+        style: ["Bold","Quirky","Sporty"],
+        clothingCategory: "Costumes",
+        color: [],
+        set: "The Incredibles"
     },
 ]
 
