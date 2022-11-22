@@ -1,29 +1,44 @@
-const { Model, DataTypes } = require('sequelize');
+const { Schema, model } = require('mongoose');
 
-const sequelize = require('../config/connection.js');
-
-class Clothing extends Model {}
-
-Clothing.init(
-  {
+// Schema to create Post model
+const clothingSchema = new Schema({
     clothingName: {
-        type: DataTypes.STRING
-    },
-    // move to user model (have 3 Foriegn keys pointing to clothing, crafting, furniture items (many-many relationship)
-    isAcquired: {
-        type: DataTypes.BOOLEAN,
-        defaultValue: false
+        type: String,
+        required: true
     },
     price: {
-        type: DataTypes.INTEGER
+        type: Number,
+        required: false
     },
     obtainedBy: {
-        type: DataTypes.STRING,
-    }
+        type: String,
+        required: true,
+        default: `Scrooge's Store`
+    },
+    // style: [styleSchema]
+    style: [{
+      type: Schema.Types.ObjectId,
+      ref: 'Style',
+    }],
+    // clothingCategory: [clothingCategorySchema]
+    clothingCategory: [{
+      type: Schema.Types.ObjectId,
+      ref: 'clothingCategory',
+    }],
+    // color: [colorSchema]
+    color: [{
+      type: Schema.Types.ObjectId,
+      ref: 'color',
+    }]
   },
   {
-    sequelize
+    toJSON: {
+      virtuals: true,
+    },
+    id: false,
   }
 );
+
+const Clothing = model(`Clothing`,clothingSchema)
 
 module.exports = Clothing;
