@@ -113,6 +113,9 @@ const TagData = [
     {
         tagName: "Tops" //36
     },
+// add colors?
+// add categories (i.e. essentials, etc.)?
+// add sizes (i.e. 1x1, 2x2 etc.)?
 
 
 ]
