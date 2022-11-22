@@ -1,19 +1,20 @@
 const { Schema, model } = require('mongoose');
+const 
 
 // Schema to create clothing model
-const furnitureSchema = new Schema({
-    furnituregName: {
+const clothingSchema = new Schema({
+    clothingName: {
         type: String,
         required: true
     },
     price: {
-      type: Number,
-      required: false
+        type: Number,
+        required: false
     },
     obtainedBy: {
         type: String,
-        required: false,
-        default: `Collecting all necessary crafting materials`
+        required: true,
+        default: `Scrooge's Store`
     },
     // style: [styleSchema]
     style: [{
@@ -21,14 +22,14 @@ const furnitureSchema = new Schema({
       ref: 'Style',
     }],
     // clothingCategory: [clothingCategorySchema]
-    furnitureCategory: [{
+    clothingCategory: [{
       type: Schema.Types.ObjectId,
-      ref: 'furnitureCategory',
+      ref: 'ClothingCategory',
     }],
     // color: [colorSchema]
     color: [{
       type: Schema.Types.ObjectId,
-      ref: 'color',
+      ref: 'Color',
     }],
     set: {
       type: String,
@@ -42,6 +43,7 @@ const furnitureSchema = new Schema({
     id: false,
   }
 );
- const Furniture = model(`Furniture`,furnitureSchema);
 
- module.exports = Furniture;
+const Clothing = model(`Clothing`,clothingSchema)
+
+module.exports = Clothing;
