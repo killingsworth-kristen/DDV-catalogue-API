@@ -7,9 +7,11 @@ const generalClothing = [
     // {
     //     clothingName: ``,
     //     price: ,
-    //     obtainedBy: "Scrooge's Store",
-    //     tagId: [],
-    //     setId: 25
+    //     obtainedBy: "",
+    //     style: [],
+    //     clothingCategory: "",
+    //     color: [],
+    //     setId: "General"
     // },
 ]
 
