@@ -1,4 +1,3 @@
-const { mainModule } = require('process');
 const { Clothing } = require('../../models');
 
 const ClothingData = [];
@@ -110,6 +109,4 @@ ClothingData.push(snowWhiteClothing);
 const generalClothing = require(`./general`)
 ClothingData.push(generalClothing)
 
-const seedClothing = () => Clothing.bulkCreate(ClothingData);
-
-Module.exports = seedClothing;
+module.exports = ClothingData;

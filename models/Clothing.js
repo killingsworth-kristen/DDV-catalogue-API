@@ -1,5 +1,4 @@
 const { Schema, model } = require('mongoose');
-const 
 
 // Schema to create clothing model
 const clothingSchema = new Schema({
@@ -21,11 +20,9 @@ const clothingSchema = new Schema({
       type: Schema.Types.ObjectId,
       ref: 'Style',
     }],
-    // clothingCategory: [clothingCategorySchema]
-    clothingCategory: [{
-      type: Schema.Types.ObjectId,
-      ref: 'ClothingCategory',
-    }],
+    clothingCategory: {
+      type: String
+    },
     // color: [colorSchema]
     color: [{
       type: Schema.Types.ObjectId,
