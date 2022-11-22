@@ -8,7 +8,7 @@ const cocoClothing = [
         style: [],
         clothingCategory: "Tops",
         color: [],
-        setId: `Coco`
+        set: `Coco`
     },
     {
         clothingName: `Skeleton Onesie`,
@@ -16,7 +16,7 @@ const cocoClothing = [
         style: [],
         clothingCategory: "Costumes",
         color: [],
-        setId: `Coco`
+        set: `Coco`
     },
 ]
 module.exports = cocoClothing

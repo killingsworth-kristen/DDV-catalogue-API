@@ -8,7 +8,7 @@ const dreamlightValleyClothing =[
         style: ["Bold","Casual"],
         clothingCategory: "Coats",
         color: [],
-        setId: "Dreamlight Valley"
+        set: "Dreamlight Valley"
     }, 
     {
         clothingName: `Lenses of Shadows`,
@@ -16,7 +16,7 @@ const dreamlightValleyClothing =[
         style: ["Bold","Modern"],
         clothingCategory: "Glasses",
         color: [],
-        setId: "Dreamlight Valley"
+        set: "Dreamlight Valley"
     }
 ]
 
