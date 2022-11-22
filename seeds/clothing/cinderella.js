@@ -1,5 +1,3 @@
-const Set = require(`../../models`)
-const Tag = require(`../../models`)
 
 // 29 items
 

@@ -1,22 +1,22 @@
-const Set = require(`../../models`)
-const Tag = require(`../../models`)
 
 // 2 items
 
 const cocoClothing = [
     {
         clothingName: `"Live the Music" Shirt`,
-        price: null,
         obtainedBy: "Pixar Fest Star Path",
-        tagId: [36],
-        setId: 19
+        style: [],
+        clothingCategory: "Tops",
+        color: [],
+        setId: `Coco`
     },
     {
         clothingName: `Skeleton Onesie`,
-        price: null,
         obtainedBy: "Villain's Star Path",
-        tagId: [23],
-        setId: 19
+        style: [],
+        clothingCategory: "Costumes",
+        color: [],
+        setId: `Coco`
     },
 ]
-module.exports=cocoClothing
+module.exports = cocoClothing
