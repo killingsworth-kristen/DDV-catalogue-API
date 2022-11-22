@@ -17,9 +17,9 @@ const craftingSchema = new Schema({
       ref: 'Style',
     }],
     // clothingCategory: [clothingCategorySchema]
-    clothingCategory: [{
+    craftingCategory: [{
       type: Schema.Types.ObjectId,
-      ref: 'clothingCategory',
+      ref: 'craftingCategory',
     }],
     // color: [colorSchema]
     color: [{

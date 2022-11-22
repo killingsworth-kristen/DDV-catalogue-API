@@ -29,7 +29,11 @@ const clothingSchema = new Schema({
     color: [{
       type: Schema.Types.ObjectId,
       ref: 'color',
-    }]
+    }],
+    set: {
+      type: String,
+      required: true
+    }
   },
   {
     toJSON: {
