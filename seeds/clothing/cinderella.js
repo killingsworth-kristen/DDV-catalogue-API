@@ -4,13 +4,15 @@ const Tag = require(`../../models`)
 // 29 items
 
 const cinderllaClothing = [
-    // {
-    //     clothingName: ``,
-    //     price: ,
-    //     obtainedBy: "Scrooge's Store",
-    //     tagId: [],
-    //     setId: 9
-    // },
+    {
+        clothingName: ``,
+        price: ``,
+        obtainedBy: "",
+        style: [],
+        clothingCategory: "",
+        color: [],
+        set: "Cinderella"
+    },
 ]
 
 module.exports=cinderllaClothing
