@@ -7,7 +7,7 @@ const functionItemsCrafting = [
 
 {
     craftingName: `Black Flat-Top Stove`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Iron Ingot`,`x3 Glass`,`Black Passion Lily`],
     tagId: [],
@@ -15,7 +15,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `Black Gas Stove`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x12 Iron Ingot`,`x2 Glass`],
     tagId: [],
@@ -23,7 +23,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `Black Retro Portable Radio`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x5 Softwood`,`x2 Iron Ingot`],
     tagId: [],
@@ -31,7 +31,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `Blue Retro Portable Radio`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x5 Softwood`,`Iron Ingot`,`Blue Star Lily`],
     tagId: [],
@@ -39,7 +39,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `Brown Retro Portable Radio`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Softwod`,`Iron Ingot`],
     tagId: [],
@@ -47,7 +47,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `Chest`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x25 Softwood`,`x25 Stone`],
     tagId: [],
@@ -55,7 +55,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `Gray Flat-Top Stove`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Iron Ingot`,`x3 Glass`],
     tagId: [],
@@ -63,7 +63,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `Gray Gas Stove`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x12 Iron Ingot`,`x2 Glass`],
     tagId: [],
@@ -71,7 +71,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `Gray Mailbox`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x2 Iron Ingot`,`x10 Hardwood`,`White Bell Flower`],
     tagId: [],
@@ -79,7 +79,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `Iron Crafting Station`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Iron Ingot`,`x10 Hardwood`,`Topaz`],
     tagId: [],
@@ -87,7 +87,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `Pale Gray Flat-Top Stove`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Iron Ingot`,`x3 Glass`],
     tagId: [],
@@ -95,7 +95,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `Pale Gray Gas Stove`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x12 Iron Ingot`,`x2 Glass`],
     tagId: [],
@@ -103,7 +103,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `Pink Flat-Top Stove`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Iron Ingot`,`x3 Glass`,`Pink Houseleek`],
     tagId: [],
@@ -111,7 +111,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `Pink Gas Stove`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x12 Iron Ingot`,`x2 Glass`,`Pink Houseleek`],
     tagId: [],
@@ -119,7 +119,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `Red Mailbox`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x2 Iron Ingot`,`x10 Hardwood`,`Red Bromeliad`],
     tagId: [],
@@ -127,7 +127,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `White Flat-Top Stove`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Iron Ingot`,`x3 Glass`],
     tagId: [],
@@ -135,7 +135,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `White Gas Stove`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x12 Iron Ingot`,`x2 Glass`,`Black Passion Lily`],
     tagId: [],
@@ -143,7 +143,7 @@ const functionItemsCrafting = [
 },
 {
     craftingName: `Wooden Crafting Station`,
-    price: null,
+    ,
     obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Iron Ingot`,`x10 Hardwood`,`Topaz`,`Red Falling Penstemon`],
     tagId: [],

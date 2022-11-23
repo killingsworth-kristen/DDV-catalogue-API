@@ -6,7 +6,7 @@ const Tag = require(`../../models`)
 const furnitureCrafting = [
 // {
 //     craftingName: ``,
-//     price: null,
+//     ,
 //     obtainedBy: "Collecting all necessary crafting materials",
 //     craftingMaterials: [],
 //     tagId: [],

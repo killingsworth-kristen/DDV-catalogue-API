@@ -25,7 +25,9 @@ const craftingSchema = new Schema({
       type: Schema.Types.ObjectId,
       ref: 'Color',
     }],
-    craftingIngredients: [craftingIngredientsList],
+    craftingIngredients: [{
+      type: String
+    }],
     furnitureCategory: [{
       type: Schema.Types.ObjectId,
       ref: 'FurnitureCategory',
