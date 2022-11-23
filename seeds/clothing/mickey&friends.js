@@ -9,7 +9,7 @@ const MickeyClothing = [
     //     style: [],
     //     clothingCategory: "",
     //     color: [],
-    //     set: Mickey & Friends
+    //     universe: Mickey & Friends
     // },
 ]
 

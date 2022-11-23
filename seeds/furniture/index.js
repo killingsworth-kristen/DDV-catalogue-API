@@ -1,5 +1,3 @@
-const { Furniture } = require('../../models');
-
 
 const FurnitureData = []
 
@@ -99,7 +97,4 @@ FurnitureData.push(snowWhiteFurniture);
 const generalFurniture = require(`./general`)
 FurnitureData.push(generalFurniture)
 
-
-const seedFurniture = () => Furniture.bulkCreate(FurnitureData);
-
-Module.exports = seedFurniture;
+module.exports = FurnitureData;

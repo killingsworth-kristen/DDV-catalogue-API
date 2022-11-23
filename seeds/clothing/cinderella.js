@@ -8,7 +8,7 @@ const cinderellaClothing = [
         style: ["Cute","Elegant"],
         clothingCategory: "Dresses",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Blue-Green Bandana`,
@@ -16,7 +16,7 @@ const cinderellaClothing = [
         style: ["Casual","cute","Professional"],
         clothingCategory: "Hats",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Burgundy Gold Lock Skirt`,
@@ -24,7 +24,7 @@ const cinderellaClothing = [
         style: ["Elegant","Quirky"],
         clothingCategory: "Skirts",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Enchanting Blue Pumpkin Ring`,
@@ -32,7 +32,7 @@ const cinderellaClothing = [
         style: ["Traditional","Elegant","Cute"],
         clothingCategory: "Gloves",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Enchanting Pick Pumpkin Ring`,
@@ -40,7 +40,7 @@ const cinderellaClothing = [
         style: ["Traditional","Elegant","Cute"],
         clothingCategory: "Gloves",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Enchanting White Pumpkin RIng`,
@@ -48,7 +48,7 @@ const cinderellaClothing = [
         style: ["Traditional","Elegant","Cute"],
         clothingCategory: "Gloves",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Fancy Black and Orange Hat`,
@@ -56,7 +56,7 @@ const cinderellaClothing = [
         style: ["Elegant","Traditional"],
         clothingCategory: "Hats",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Fancy Black Hat`,
@@ -64,7 +64,7 @@ const cinderellaClothing = [
         style: ["Elegant","Traditional"],
         clothingCategory: "Hats",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Fancy Bronze Bracelet`,
@@ -72,7 +72,7 @@ const cinderellaClothing = [
         style: ["Elegant","Traditional"],
         clothingCategory: "Bracelets",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Fancy Gold Bracelet`,
@@ -80,7 +80,7 @@ const cinderellaClothing = [
         style: ["Elegant","Traditional"],
         clothingCategory: "Bracelets",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Fancy Gold Jeweled Gloves`,
@@ -88,7 +88,7 @@ const cinderellaClothing = [
         style: ["Bold","Elegant","Traditional"],
         clothingCategory: "Gloves",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Fancy Silver Bracelet`,
@@ -96,7 +96,7 @@ const cinderellaClothing = [
         style: ["Elegant","Traditional"],
         clothingCategory: "Bracelets",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Fancy Silver Jeweled Gloves`,
@@ -104,7 +104,7 @@ const cinderellaClothing = [
         style: ["Bold","Elegant","Traditional"],
         clothingCategory: "Gloves",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Green Bandana`,
@@ -112,7 +112,7 @@ const cinderellaClothing = [
         style: ["Casual","cute","Professional"],
         clothingCategory: "Hats",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Green Pearls of Freedom Necklace`,
@@ -120,7 +120,7 @@ const cinderellaClothing = [
         style: ["Cute","Elegant"],
         clothingCategory: "Neckwear",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Green Silver Lock Skirt`,
@@ -128,7 +128,7 @@ const cinderellaClothing = [
         style: ["Elegant","Quirky"],
         clothingCategory: "Skirts",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Once Upon a Ball Gown`,
@@ -136,7 +136,7 @@ const cinderellaClothing = [
         style: [],
         clothingCategory: "Dresses",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Pastel Blue Bandana`,
@@ -144,7 +144,7 @@ const cinderellaClothing = [
         style: ["Casual","cute","Professional"],
         clothingCategory: "Hats",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Pearl-Laced Updo`,
@@ -152,7 +152,7 @@ const cinderellaClothing = [
         style: [],
         clothingCategory: "Hairstyle",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Pink Bandana`,
@@ -160,7 +160,7 @@ const cinderellaClothing = [
         style: ["Casual","cute","Professional"],
         clothingCategory: "Hats",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Pink Jewel-Collared Button-Up`,
@@ -168,7 +168,7 @@ const cinderellaClothing = [
         style: ["Elegant","Traditional"],
         clothingCategory: "Tops",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Pink Mice-Sewn Pearl-Strung Gown`,
@@ -176,7 +176,7 @@ const cinderellaClothing = [
         style: ["Cute","Elegant"],
         clothingCategory: "Dresses",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Pink Pearls of Freedom Necklace`,
@@ -184,7 +184,7 @@ const cinderellaClothing = [
         style: ["Cute","Elegant"],
         clothingCategory: "Neckwear",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Purple Jewel-Collared Button-Up`,
@@ -192,7 +192,7 @@ const cinderellaClothing = [
         style: ["Elegant","Traditional"],
         clothingCategory: "Tops",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Sturdy Blue Overalls`,
@@ -200,7 +200,7 @@ const cinderellaClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Costumes",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Sturdy Brown Overalls`,
@@ -208,7 +208,7 @@ const cinderellaClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Costumes",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Sturdy White Overalls`,
@@ -216,7 +216,7 @@ const cinderellaClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Costumes",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `Till the Stroke of Midnight Ensemble`,
@@ -224,7 +224,7 @@ const cinderellaClothing = [
         style: [],
         clothingCategory: "Costumes",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     },
     {
         clothingName: `White Pearls of Freedom Necklace`,
@@ -232,7 +232,7 @@ const cinderellaClothing = [
         style: ["Cute","Elegant"],
         clothingCategory: "Neckwear",
         color: [],
-        set: "Cinderella"
+        universe: "Cinderella"
     }
 ]
 

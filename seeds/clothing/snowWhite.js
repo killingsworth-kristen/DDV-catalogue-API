@@ -9,7 +9,7 @@ const snowWhiteClothing = [
     //     style: [],
         // clothingCategory: "",
         // color: [],
-    //     set: "Snow White"
+    //     universe: "Snow White"
     // },
 ]
 

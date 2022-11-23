@@ -9,7 +9,7 @@ const lightyearClothing = [
     //     style: [],
     //     clothingCategory: "",
     //     color: [],
-    //     set: "Lightyear"
+    //     universe: "Lightyear"
     // },
 ]
 

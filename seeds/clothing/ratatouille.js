@@ -9,7 +9,7 @@ const ratatouilleClothing = [
     //     style: [],
         // clothingCategory: "",
         // color: [],
-    //     set: "Ratatouille"
+    //     universe: "Ratatouille"
     // },
 ]
 

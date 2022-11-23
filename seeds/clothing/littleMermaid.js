@@ -8,7 +8,7 @@ const littleMermaidClothing = [
         style: ["Elegant"],
         clothingCategory: "Dresses",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Areil's Seafoam Suit`,
@@ -16,7 +16,7 @@ const littleMermaidClothing = [
         style: ["Elegant","Modern"],
         clothingCategory: "Costumes",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Blue Button-Up Vest`,
@@ -24,7 +24,7 @@ const littleMermaidClothing = [
         style: ["Casual","Elegnat"],
         clothingCategory: "Tops",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Blue Cummerbund Pants`,
@@ -32,7 +32,7 @@ const littleMermaidClothing = [
         style: ["Elegant","Traditional"],
         clothingCategory: "Pants",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Buttoned Boots`,
@@ -40,7 +40,7 @@ const littleMermaidClothing = [
         style: [],
         clothingCategory: "Shoes",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Cream Silk Gloves`,
@@ -48,7 +48,7 @@ const littleMermaidClothing = [
         style: ["Elegant","Traditional"],
         clothingCategory: "Gloves",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Dark Blue Button-Up Vest`,
@@ -56,7 +56,7 @@ const littleMermaidClothing = [
         style: ["Casual","Elegant"],
         clothingCategory: "Tops",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Gold Mariner's Watch`,
@@ -64,7 +64,7 @@ const littleMermaidClothing = [
         style: ["Bold","Elegant","Sporty"],
         clothingCategory: "Bracelets",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Gray Button-Up Vest`,
@@ -72,7 +72,7 @@ const littleMermaidClothing = [
         style: ["Casual","Elegant"],
         clothingCategory: "Tops",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Green Off-the-Shoulder Shell Shirt`,
@@ -80,7 +80,7 @@ const littleMermaidClothing = [
         style: ["Casual","Cute","Modern"],
         clothingCategory: "Tops",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Pink Off-the-Shoulder Shell Shirt`,
@@ -88,7 +88,7 @@ const littleMermaidClothing = [
         style: ["Casual","Cute","Modern"],
         clothingCategory: "Tops",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Purple and Tan Seashell Satchel`,
@@ -96,7 +96,7 @@ const littleMermaidClothing = [
         style: ["Cute","Elegant","Quirky"],
         clothingCategory: "Back",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Purple Scaled Stilettos`,
@@ -104,7 +104,7 @@ const littleMermaidClothing = [
         style: ["Elegant","Quirky"],
         clothingCategory: "Shoes",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Red Cummerbund Pants`,
@@ -112,7 +112,7 @@ const littleMermaidClothing = [
         style: ["Elegant","Traditional"],
         clothingCategory: "Pants",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Sea Witch's Gown`,
@@ -120,7 +120,7 @@ const littleMermaidClothing = [
         style: ["Bold","Elegant","Quirky"],
         clothingCategory: "Dresses",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Seaside Prince Side Part`,
@@ -128,7 +128,7 @@ const littleMermaidClothing = [
         style: [],
         clothingCategory: "Hairstyle",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Sea-Swept Pearl Pinned Hairdo`,
@@ -136,7 +136,7 @@ const littleMermaidClothing = [
         style: [],
         clothingCategory: "Hairstyle",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Shimmering Pink Scaled Pants`,
@@ -144,7 +144,7 @@ const littleMermaidClothing = [
         style: ["Cute","Modern"],
         clothingCategory: "Pants",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `Silver Mariner's Watch`,
@@ -152,7 +152,7 @@ const littleMermaidClothing = [
         style: ["Bold","Elegant","Sporty"],
         clothingCategory: "Bracelets",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `White and Blue Officer Jacket`,
@@ -160,7 +160,7 @@ const littleMermaidClothing = [
         style: ["Elegant","Professional","Traditional"],
         clothingCategory: "Coats",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `White and Red Officer Jacket`,
@@ -168,7 +168,7 @@ const littleMermaidClothing = [
         style: ["Elegant","Professional","Traditional"],
         clothingCategory: "Coats",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
     {
         clothingName: `White Silk Gloves`,
@@ -176,7 +176,7 @@ const littleMermaidClothing = [
         style: ["Elegant","Traditional"],
         clothingCategory: "Gloves",
         color: [],
-        set: "The Little Mermaid"
+        universe: "The Little Mermaid"
     },
 ]
 

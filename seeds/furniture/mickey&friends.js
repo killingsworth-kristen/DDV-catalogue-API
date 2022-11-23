@@ -10,7 +10,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -18,7 +18,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -26,7 +26,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -34,7 +34,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -42,7 +42,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -50,7 +50,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -58,7 +58,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -66,7 +66,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -74,7 +74,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -82,7 +82,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     // {
     //     furnitureName: ``,
@@ -90,7 +90,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -98,7 +98,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -106,7 +106,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -114,7 +114,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -122,7 +122,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -130,7 +130,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -138,7 +138,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -146,7 +146,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -154,7 +154,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -162,7 +162,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
 
     // {
@@ -171,7 +171,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -179,7 +179,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -187,7 +187,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -195,7 +195,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -203,7 +203,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -211,7 +211,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -219,7 +219,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -227,7 +227,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -235,7 +235,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -243,7 +243,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
 
     // {
@@ -252,7 +252,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -260,7 +260,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -268,7 +268,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -276,7 +276,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -284,7 +284,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -292,7 +292,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -300,7 +300,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -308,7 +308,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -316,7 +316,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -324,7 +324,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
 
     // {
@@ -333,7 +333,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -341,7 +341,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -349,7 +349,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -357,7 +357,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -365,7 +365,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -373,7 +373,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -381,7 +381,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -389,7 +389,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -397,7 +397,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -405,7 +405,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
 
     // {
@@ -414,7 +414,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -422,7 +422,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -430,7 +430,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -438,7 +438,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -446,7 +446,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -454,7 +454,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -462,7 +462,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -470,7 +470,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -478,7 +478,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -486,7 +486,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
 
     // {
@@ -495,7 +495,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -503,7 +503,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -511,7 +511,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -519,7 +519,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -527,7 +527,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -535,7 +535,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -543,7 +543,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -551,7 +551,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -559,7 +559,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -567,7 +567,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
      //   {
     //     furnitureName: ``,
@@ -575,7 +575,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // },
     //   {
     //     furnitureName: ``,
@@ -583,7 +583,7 @@ const MickeyFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 1
+    //     universe: "Mickey & Friends"
     // }
 ]
 

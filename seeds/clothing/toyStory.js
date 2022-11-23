@@ -9,7 +9,7 @@ const toyStoryClothing = [
     //     style: [],
         // clothingCategory: "",
         // color: [],
-    //     set: "Toy Story"
+    //     universe: "Toy Story"
     // },
 ]
 

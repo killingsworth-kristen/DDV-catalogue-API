@@ -8,7 +8,7 @@ const snowWhiteFurniture = [
         obtainedBy: "Villain's Star Path",
         
         tagId: [1,4,13,19],
-        setId: 24
+        universe: "Snow White"
     }
 ]
 

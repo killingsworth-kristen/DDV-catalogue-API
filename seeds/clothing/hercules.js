@@ -8,7 +8,7 @@ const herculesClothing = [
     //     style: [],
     //     clothingCategory: "",
     //     color: [],
-    //     set: "Hercules"
+    //     universe: "Hercules"
     // },
 ]
 

@@ -28,7 +28,7 @@ const clothingSchema = new Schema({
       type: Schema.Types.ObjectId,
       ref: 'Color',
     }],
-    set: {
+    universe: {
       type: String,
       required: true
     }

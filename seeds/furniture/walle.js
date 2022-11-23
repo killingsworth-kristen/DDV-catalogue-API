@@ -10,7 +10,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },
     //   {
     //     furnitureName: ``,
@@ -18,7 +18,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -26,7 +26,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -34,7 +34,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -42,7 +42,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -50,7 +50,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -58,7 +58,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -66,7 +66,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -74,7 +74,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -82,7 +82,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -90,7 +90,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -98,7 +98,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -106,7 +106,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -114,7 +114,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -122,7 +122,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -130,7 +130,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -138,7 +138,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -146,7 +146,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -154,7 +154,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -162,7 +162,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -170,7 +170,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -178,7 +178,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -186,7 +186,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -194,7 +194,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -202,7 +202,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -210,7 +210,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -218,7 +218,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -226,7 +226,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -234,7 +234,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -242,7 +242,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -250,7 +250,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -258,7 +258,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -266,7 +266,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // },  
     //   {
     //     furnitureName: ``,
@@ -274,7 +274,7 @@ const walleFurniture =[
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 3
+    //     universe: "WALL-E"
     // }
 ]
 

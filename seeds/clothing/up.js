@@ -9,7 +9,7 @@ const upClothing = [
     //     style: [],
         // clothingCategory: "",
         // color: [],
-    //     set: "Up"
+    //     universe: "Up"
     // },
 ]
 

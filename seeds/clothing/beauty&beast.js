@@ -9,7 +9,7 @@ const beatuyBeastClothing = [
     //     style: [],
     //     clothingCategory: "",
     //     color: [],
-    //     set: "Beauty & the Beast"
+    //     universe: "Beauty & the Beast"
     // },
 ]
 

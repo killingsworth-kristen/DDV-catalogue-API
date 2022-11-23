@@ -10,7 +10,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -18,7 +18,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -26,7 +26,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -34,7 +34,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -42,7 +42,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -50,7 +50,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -58,7 +58,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -66,7 +66,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -74,7 +74,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -82,7 +82,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -90,7 +90,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -98,7 +98,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -106,7 +106,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -114,7 +114,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -122,7 +122,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -130,7 +130,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -138,7 +138,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -146,7 +146,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -154,7 +154,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -162,7 +162,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -170,7 +170,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -178,7 +178,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -186,7 +186,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -194,7 +194,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -202,7 +202,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -210,7 +210,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -218,7 +218,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -226,7 +226,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -234,7 +234,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -242,7 +242,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
     //   {
     //     furnitureName: ``,
@@ -250,7 +250,7 @@ const ratatouilleFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 6
+    //     universe: "Ratatouille"
     // },
 ]
 

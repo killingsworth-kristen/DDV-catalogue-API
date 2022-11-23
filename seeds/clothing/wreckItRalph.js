@@ -8,7 +8,7 @@ const wreckItRaplhClothing = [
         style: [],
         clothingCategory: "Hairstyle",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Black BFF T-Shirt`,
@@ -17,7 +17,7 @@ const wreckItRaplhClothing = [
         clothingCategory: "Tops",
         color: [],
         tagId: [6,36],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Black Lace-Up Combat Boots`,
@@ -26,7 +26,7 @@ const wreckItRaplhClothing = [
         style: ["Bold","Sporty"],
         clothingCategory: "Shoes",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Blue and Gold Tech Bracelets`,
@@ -34,7 +34,7 @@ const wreckItRaplhClothing = [
         style: ["Bold","Futuristic"],
         clothingCategory: "Bracelets",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Candy Racer Helmet`,
@@ -42,7 +42,7 @@ const wreckItRaplhClothing = [
         style: ["Bold","Quirky","Sporty"],
         clothingCategory: "Hats",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Candy-Encrusted Pigtails`,
@@ -50,7 +50,7 @@ const wreckItRaplhClothing = [
         style: [],
         clothingCategory: "Hairstyle",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Dark Green Cropped Camo Hoodie`,
@@ -58,7 +58,7 @@ const wreckItRaplhClothing = [
         style: ["Bold","Sporty"],
         clothingCategory: "Tops",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Dark Green Pixel Camo Pants`,
@@ -66,7 +66,7 @@ const wreckItRaplhClothing = [
         style: ["Bold","Sporty"],
         clothingCategory: "Pants",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Green "What's the Glitch" Shirt`,
@@ -74,7 +74,7 @@ const wreckItRaplhClothing = [
         style: ["Cute"],
         clothingCategory: "Tops",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Green Cropped Camo Hoodie`,
@@ -82,7 +82,7 @@ const wreckItRaplhClothing = [
         style: ["Bold","Sporty"],
         clothingCategory: "Tops",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Green Dog Tags`,
@@ -90,7 +90,7 @@ const wreckItRaplhClothing = [
         style: [],
         clothingCategory: "Neckwear",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Green Lace-Up Combat Boots`,
@@ -99,7 +99,7 @@ const wreckItRaplhClothing = [
         style: ["Bold","Sporty"],
         clothingCategory: "Shoes",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Green Pixel Camo Pants`,
@@ -107,7 +107,7 @@ const wreckItRaplhClothing = [
         style: ["Bold","Sporty"],
         clothingCategory: "Pants",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Orange Dog Tags`,
@@ -115,7 +115,7 @@ const wreckItRaplhClothing = [
         style: [],
         clothingCategory: "Neckwear",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Pink "What's the Glitch" Shirt`,
@@ -123,7 +123,7 @@ const wreckItRaplhClothing = [
         style: ["Cute"],
         clothingCategory: "Tops",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Pink Candy-Laden Skirt`,
@@ -131,7 +131,7 @@ const wreckItRaplhClothing = [
         style: ["Cute","Quirky"],
         clothingCategory: "Skirts",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Pink Ita Bag`,
@@ -139,7 +139,7 @@ const wreckItRaplhClothing = [
         style: ["Cute","Modern","Quirky"],
         clothingCategory: "Back",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Purple Candy-Laden Skirt`,
@@ -147,7 +147,7 @@ const wreckItRaplhClothing = [
         style: ["Cute","Quirky"],
         clothingCategory: "Skirts",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Purple Ita Bag`,
@@ -155,7 +155,7 @@ const wreckItRaplhClothing = [
         style: ["Cute","Modern","Quirky"],
         clothingCategory: "Back",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Ralph's Sturdy Overalls`,
@@ -163,7 +163,7 @@ const wreckItRaplhClothing = [
         style: ["Bold","Casual","Modern"],
         clothingCategory: "Costumes",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Shank's Squad Jacket`,
@@ -171,7 +171,7 @@ const wreckItRaplhClothing = [
         style: ["Bold","Casual"],
         clothingCategory: "Coats",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Silver and Gold Tech Bracelets`,
@@ -179,7 +179,7 @@ const wreckItRaplhClothing = [
         style: ["Bold","Futuristic"],
         clothingCategory: "Bracelets",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Teal Cargo Shorts`,
@@ -187,7 +187,7 @@ const wreckItRaplhClothing = [
         style: ["Bold","Sporty"],
         clothingCategory: "Shorts",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Turquiose Candy-Laden Skirt`,
@@ -195,7 +195,7 @@ const wreckItRaplhClothing = [
         style: ["Cute","Quirky"],
         clothingCategory: "Skirts",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Turquiose Ita Bag`,
@@ -203,7 +203,7 @@ const wreckItRaplhClothing = [
         style: ["Cute","Modern","Quirky"],
         clothingCategory: "Back",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `White BFF Shirt`,
@@ -211,7 +211,7 @@ const wreckItRaplhClothing = [
         style: ["Modern"],
         clothingCategory: "Tops",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
     {
         clothingName: `Yesss's "Run the Net" Dress`,
@@ -219,7 +219,7 @@ const wreckItRaplhClothing = [
         style: ["Bold","Elegant","Futuristic"],
         clothingCategory: "Dresses",
         color: [],
-        set: "Wreck it Ralph"
+        universe: "Wreck it Ralph"
     },
 
     

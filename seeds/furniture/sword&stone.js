@@ -8,7 +8,7 @@ const SwordStoneFurniture =[
         obtainedBy: "Merlin Friendship Level 2",
         
         tagId: [8,11,19],
-        setId: 2
+        universe: "The Sword and the Stone"
     },
     {
         furnitureName: `Big Pile of Books`,
@@ -16,7 +16,7 @@ const SwordStoneFurniture =[
         obtainedBy: "Scrooge's Store",
         
         tagId: [8,11,19],
-        setId: 2
+        universe: "The Sword and the Stone"
     },
     {
         furnitureName: `Book Pile`,
@@ -24,7 +24,7 @@ const SwordStoneFurniture =[
         obtainedBy: "Scrooge's Store",
         
         tagId: [7,11,13,19],
-        setId: 2
+        universe: "The Sword and the Stone"
     },
     {
         furnitureName: `Book Piles`,
@@ -32,7 +32,7 @@ const SwordStoneFurniture =[
         obtainedBy: "Scrooge's Store",
         
         tagId: [8,11,19],
-        setId: 2
+        universe: "The Sword and the Stone"
     },
     {
         furnitureName: `Line of Books`,
@@ -40,7 +40,7 @@ const SwordStoneFurniture =[
         obtainedBy: "Scrooge's Store",
         
         tagId: [],
-        setId: 2
+        universe: "The Sword and the Stone"
     },
     {
         furnitureName: `Melted Candles`,
@@ -48,7 +48,7 @@ const SwordStoneFurniture =[
         obtainedBy: "Scrooge's Store",
         
         tagId: [7,11,13,19],
-        setId: 2
+        universe: "The Sword and the Stone"
     },
     {
         furnitureName: `Mortar 'n' Pestle`,
@@ -56,7 +56,7 @@ const SwordStoneFurniture =[
         obtainedBy: "Scrooge's Store",
         
         tagId: [7,8,9,19],
-        setId: 2
+        universe: "The Sword and the Stone"
     },
     {
         furnitureName: `Old Armchair`,
@@ -64,7 +64,7 @@ const SwordStoneFurniture =[
         obtainedBy: "Scrooge's Store",
         
         tagId: [2,8,16,18,19],
-        setId: 2
+        universe: "The Sword and the Stone"
     },
     {
         furnitureName: `Open Book`,
@@ -72,7 +72,7 @@ const SwordStoneFurniture =[
         obtainedBy: "Scrooge's Store",
         
         tagId: [7,11,13,19],
-        setId: 2
+        universe: "The Sword and the Stone"
     },
     {
         furnitureName: `Orntate Curtain`,
@@ -80,7 +80,7 @@ const SwordStoneFurniture =[
         obtainedBy: "Scrooge's Store",
         
         tagId: [16,19],
-        setId: 2
+        universe: "The Sword and the Stone"
     },
     {
         furnitureName: `Phial Holder`,
@@ -88,7 +88,7 @@ const SwordStoneFurniture =[
         obtainedBy: "Merlin Friendship Level 5",
         
         tagId: [7,8,11,18,19],
-        setId: 2
+        universe: "The Sword and the Stone"
     },
     {
         furnitureName: `Potion Cupboard`,
@@ -96,7 +96,7 @@ const SwordStoneFurniture =[
         obtainedBy: "Merlin Friendship Level 8",
         
         tagId: [8,9,11,18,19],
-        setId: 2
+        universe: "The Sword and the Stone"
     },
     {
         furnitureName: `Round-Bottomed Flask and Holder`,
@@ -104,7 +104,7 @@ const SwordStoneFurniture =[
         obtainedBy: "Scrooge's Store",
         
         tagId: [7,8,18,19],
-        setId: 2
+        universe: "The Sword and the Stone"
     },
     {
         furnitureName: `Small Book Pile`,
@@ -112,7 +112,7 @@ const SwordStoneFurniture =[
         obtainedBy: "Scrooge's Store",
         
         tagId: [7,11,13,19],
-        setId: 2
+        universe: "The Sword and the Stone"
     }
 ]
 

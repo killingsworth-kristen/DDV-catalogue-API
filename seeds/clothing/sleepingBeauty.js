@@ -8,7 +8,7 @@ const sleepingBeautyClothing = [
         style: [],
         clothingCategory: "Hats",
         color: [],
-        set: "Sleeping Beauty"
+        universe: "Sleeping Beauty"
     },
 ]
 

@@ -1,5 +1,3 @@
-const Set = require(`../../models`)
-const Tag = require(`../../models`)
 
 const cocoFurniture = [
     {
@@ -8,7 +6,7 @@ const cocoFurniture = [
         obtainedBy: "Pixar Fest Star Path",
         
         tagId: [3,6,17,18],
-        setId: 20
+        universe: "Coco"
     },
     {
         furnitureName: `Miguel's Guitar`,
@@ -16,7 +14,7 @@ const cocoFurniture = [
         obtainedBy: "Pixar Fest Star Path",
         
         tagId: [1,11,13,17,18,19],
-        setId: 20
+        universe: "Coco"
     },
     {
         furnitureName: `Papel Picados`,
@@ -24,7 +22,7 @@ const cocoFurniture = [
         obtainedBy: "Pixar Fest Star Path",
         
         tagId: [3,11,17],
-        setId: 20
+        universe: "Coco"
     },
 ]
 module.exports=cocoFurniture

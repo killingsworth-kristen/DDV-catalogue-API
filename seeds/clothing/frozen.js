@@ -8,7 +8,7 @@ const frozenClothing = [
         style: ["Elegant","Rustic","Traditional"],
         clothingCategory: "Dresses",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Arendelle Braided Updo`,
@@ -16,7 +16,7 @@ const frozenClothing = [
         style: [],
         clothingCategory: "Hairstyle",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Black Winter Jacket`,
@@ -24,7 +24,7 @@ const frozenClothing = [
         style: ["Modern","Sporty"],
         clothingCategory: "Coats",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Blue "Frosty Finery" Evening Gloves`,
@@ -32,7 +32,7 @@ const frozenClothing = [
         style: ["Elegant"],
         clothingCategory: "Gloves",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Blue Ice Shard Earrings`,
@@ -40,7 +40,7 @@ const frozenClothing = [
         style: ["Bold","Elegant"],
         clothingCategory: "Earrings",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Blue Reindeer-Cinched Scarf`,
@@ -48,7 +48,7 @@ const frozenClothing = [
         style: ["Elegant","Quirky","Traditional"],
         clothingCategory: "Neckwear",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Cozy Blue Sweater`,
@@ -56,7 +56,7 @@ const frozenClothing = [
         style: ["Casual","Rustic"],
         clothingCategory: "Coats",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Cozy Blue-Green Sweater`,
@@ -64,7 +64,7 @@ const frozenClothing = [
         style: ["Casual","Rustic"],
         clothingCategory: "Coats",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Cozy Orange Sweater`,
@@ -72,7 +72,7 @@ const frozenClothing = [
         style: ["Casual","Rustic"],
         clothingCategory: "Coats",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Dark Green Reindeer-Cinched Scarf`,
@@ -80,7 +80,7 @@ const frozenClothing = [
         style: ["Elegant","Quirky","Traditional"],
         clothingCategory: "Neckwear",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Elemental Blue Hoodie`,
@@ -88,7 +88,7 @@ const frozenClothing = [
         style: ["Bold","Casual"],
         clothingCategory: "Coats",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Elemental Purple Hoodie`,
@@ -96,7 +96,7 @@ const frozenClothing = [
         style: ["Bold","Casual"],
         clothingCategory: "Coats",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Fancy Black and Gold Boots`,
@@ -104,7 +104,7 @@ const frozenClothing = [
         style: ["Elegant","Traditional"],
         clothingCategory: "Shoes",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Fancy Black Boots`,
@@ -112,7 +112,7 @@ const frozenClothing = [
         style: ["Elegant","Traditional"],
         clothingCategory: "Shoes",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Fireproof Gloves`,
@@ -120,7 +120,7 @@ const frozenClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Gloves",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Frosted Hair`,
@@ -128,7 +128,7 @@ const frozenClothing = [
         style: [],
         clothingCategory: "Hairstyle",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Gleaming Ice Gown`,
@@ -136,7 +136,7 @@ const frozenClothing = [
         style: ["Elegant"],
         clothingCategory: "Dresses",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Gray Snow Gloves`,
@@ -144,7 +144,7 @@ const frozenClothing = [
         style: ["Bold","Modern","Rustic"],
         clothingCategory: "Gloves",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Hat Hair`,
@@ -152,7 +152,7 @@ const frozenClothing = [
         style: [],
         clothingCategory: "Hairstyle",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Pink and Blue "Frosty Finery" Evening GLoves`,
@@ -160,7 +160,7 @@ const frozenClothing = [
         style: ["Elegant"],
         clothingCategory: "Gloves",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Purple Ice Shard Earrings`,
@@ -168,7 +168,7 @@ const frozenClothing = [
         style: ["Bold","Elegant"],
         clothingCategory: "Earrings",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Purple Winter Jacket`,
@@ -176,7 +176,7 @@ const frozenClothing = [
         style: ["Modern","Sporty"],
         clothingCategory: "Coats",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Red Reindeer-Cinched Scarf`,
@@ -184,7 +184,7 @@ const frozenClothing = [
         style: ["Elegant","Quirky","Traditional"],
         clothingCategory: "Neckwear",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Red Snow Gloves`,
@@ -192,7 +192,7 @@ const frozenClothing = [
         style: ["Bold","Modern","Rustic"],
         clothingCategory: "Gloves",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Red Winter Jacket`,
@@ -200,7 +200,7 @@ const frozenClothing = [
         style: ["Modern","Sporty"],
         clothingCategory: "Coats",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Snow Boots`,
@@ -208,7 +208,7 @@ const frozenClothing = [
         style: ["Casual","Modern","Sporty"],
         clothingCategory: "Shoes",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
     {
         clothingName: `Sparkling Ice Gown`,
@@ -216,7 +216,7 @@ const frozenClothing = [
         style: ["Bold","Elegant","Quirky"],
         clothingCategory: "Dresses",
         color: [],
-        set: "Frozen"
+        universe: "Frozen"
     },
 ]
 

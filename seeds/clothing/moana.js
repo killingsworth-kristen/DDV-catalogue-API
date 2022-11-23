@@ -8,7 +8,7 @@ const moanaClothing = [
         style: ["Casual"],
         clothingCategory: "Shorts",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     },
     {
         clothingName: `Blue Gradient Shades`,
@@ -16,7 +16,7 @@ const moanaClothing = [
         style: ["casual","Modern"],
         clothingCategory: "Glasses",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     },  
     {
         clothingName: `Blue Tassel Earrings`,
@@ -25,7 +25,7 @@ const moanaClothing = [
         clothingCategory: "Earrings",
         color: [],
         tagId: [2,4,25],
-        set: "Moana"
+        universe: "Moana"
     },  
     {
         clothingName: `Blue Woven Top`,
@@ -34,7 +34,7 @@ const moanaClothing = [
         clothingCategory: "Tops",
         color: [],
         tagId: [2,9,36],
-        set: "Moana"
+        universe: "Moana"
     },  
     {
         clothingName: `Green Beach Shorts`,
@@ -43,7 +43,7 @@ const moanaClothing = [
         clothingCategory: "Shorts",
         color: [],
         tagId: [2,34],
-        set: "Moana"
+        universe: "Moana"
     },  
     {
         clothingName: `Green Gradient Shades`,
@@ -51,7 +51,7 @@ const moanaClothing = [
         style: ["casual","Modern"],
         clothingCategory: "Glasses",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     },    
     {
         clothingName: `Green Tassel Earrings`,
@@ -59,7 +59,7 @@ const moanaClothing = [
         style: ["Casual","Elegant"],
         clothingCategory: "Earrings",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     },   
     {
         clothingName: `Green Woven Shorts`,
@@ -67,7 +67,7 @@ const moanaClothing = [
         style: ["Casual","Cute","Rustic"],
         clothingCategory: "Shorts",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     },
     {
         clothingName: `Green Woven Top`,
@@ -75,7 +75,7 @@ const moanaClothing = [
         style: ["Casual","Rustic"],
         clothingCategory: "Tops",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     },  
     {
         clothingName: `Hooked Curly Topknot`,
@@ -83,7 +83,7 @@ const moanaClothing = [
         style: ["Bold","Quirky","Rustic"],
         clothingCategory: "Hairstyle",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     },
     {
         clothingName: `Lava Pleather Jacket`,
@@ -91,7 +91,7 @@ const moanaClothing = [
         style: ["Bold","Casual","Modern"],
         clothingCategory: "Coats",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     },
     {
         clothingName: `Lush Blue Earrings`,
@@ -99,7 +99,7 @@ const moanaClothing = [
         style: ["Bold","Cute"],
         clothingCategory: "Earrings",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     },  
     {
         clothingName: `Lush Green Earrings`,
@@ -107,7 +107,7 @@ const moanaClothing = [
         style: ["Bold","Cute"],
         clothingCategory: "Earrings",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     },  
     {
         clothingName: `Orange "Heart of Te Fiti" Shirt`,
@@ -115,7 +115,7 @@ const moanaClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Tops",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     },  
     {
         clothingName: `Orange Gradient Shades`,
@@ -123,7 +123,7 @@ const moanaClothing = [
         style: ["casual","Modern"],
         clothingCategory: "Glasses",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     }, 
     {
         clothingName: `Pink Woven Top`,
@@ -131,7 +131,7 @@ const moanaClothing = [
         style: ["Casual","Rustic","Simple","Playful","Delicate","Wondrous"],
         clothingCategory: "Tops",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     },  
     {
         clothingName: `Purple Woven Shorts`,
@@ -139,7 +139,7 @@ const moanaClothing = [
         style: ["Casual","Cute","Rustic"],
         clothingCategory: "Shorts",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     }, 
     {
         clothingName: `Straw Sunhat with Yellow and Red Band`,
@@ -147,7 +147,7 @@ const moanaClothing = [
         style: [],
         clothingCategory: "Hats",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     },  
     {
         clothingName: `Tan "Heart of Te Fiti" Shirt`,
@@ -155,7 +155,7 @@ const moanaClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Tops",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     },  
     {
         clothingName: `Tan Beach Shorts`,
@@ -163,7 +163,7 @@ const moanaClothing = [
         style: ["Casual","Modern","Simple","Playful","Delicate","Wondrous"],
         clothingCategory: "Shorts",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     },
     {
         clothingName: `Turquiose Woven Shorts`,
@@ -171,7 +171,7 @@ const moanaClothing = [
         style: ["Casual","Cute","Rustic"],
         clothingCategory: "Shorts",
         color: [],
-        set: "Moana"
+        universe: "Moana"
     }, 
 ]
 

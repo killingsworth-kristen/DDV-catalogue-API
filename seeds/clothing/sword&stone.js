@@ -9,7 +9,7 @@ const SwordStoneClothing =[
         style: [],
         clothingCategory: "Hats",
         color: [],
-        set: "The Sword and the Stone"
+        universe: "The Sword and the Stone"
     }
 ]
 

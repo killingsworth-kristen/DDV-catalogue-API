@@ -9,7 +9,7 @@ const liloStitchClothing = [
     //     style: [],
     //     clothingCategory: "",
     //     color: [],
-    //     set: "Lilo & Stitch"
+    //     universe: "Lilo & Stitch"
     // },
 ]
 

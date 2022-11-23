@@ -9,7 +9,7 @@ const monstersIncClothing = [
 //         style: [],
         // clothingCategory: "",
         // color: [],
-//         set: "Monsters Inc."
+//         universe: "Monsters Inc."
 //     },
 ]
 

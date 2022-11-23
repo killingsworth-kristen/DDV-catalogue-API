@@ -8,7 +8,7 @@ const lionKingClothing = [
         style: ["Bold","Elegant","Quirky"],
         clothingCategory: "Shoes",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Black and Gray Claw Shoes`,
@@ -16,7 +16,7 @@ const lionKingClothing = [
         style: ["Bold","Elegant","Quirky"],
         clothingCategory: "Shoes",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Black Claw-Tipped Gloves`,
@@ -24,7 +24,7 @@ const lionKingClothing = [
         style: ["Bold","Elegant"],
         clothingCategory: "Gloves",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Blue Baby-Simba Crop Top`,
@@ -32,7 +32,7 @@ const lionKingClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Tops",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Blue Earrings`,
@@ -40,7 +40,7 @@ const lionKingClothing = [
         style: ["Bold","Casual","Traditional"],
         clothingCategory: "Earrings",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Blue Silk Shirt`,
@@ -48,7 +48,7 @@ const lionKingClothing = [
         style: ["Elegant","Quirky"],
         clothingCategory: "Tops",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Blue Sunrise Bracelet`,
@@ -56,7 +56,7 @@ const lionKingClothing = [
         style: ["Bold","Elegant","Modern"],
         clothingCategory: "Bracelets",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Brown Claw-Tipped Gloves`,
@@ -64,7 +64,7 @@ const lionKingClothing = [
         style: ["Bold","Elegant"],
         clothingCategory: "Gloves",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Brown Faux-Fur-Trimmed Jacket`,
@@ -72,7 +72,7 @@ const lionKingClothing = [
         style: ["Bold"],
         clothingCategory: "Coats",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Classy Blue Dress Shoes`,
@@ -80,14 +80,14 @@ const lionKingClothing = [
         style: ["Elegant","Modern","Professional"],
         clothingCategory: "Shoes",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },{
         clothingName: `Classy Purple Dress Shoes`,
         price: 4000,
         style: ["Elegant","Modern","Professional"],
         clothingCategory: "Shoes",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Gold and Purple Watch`,
@@ -95,7 +95,7 @@ const lionKingClothing = [
         style: [],
         clothingCategory: "Bracelets",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Gray Claw Top`,
@@ -103,7 +103,7 @@ const lionKingClothing = [
         style: ["Bold"],
         clothingCategory: "Coats",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Green Claw Top`,
@@ -111,7 +111,7 @@ const lionKingClothing = [
         style: ["Bold"],
         clothingCategory: "Coats",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Orange "Time Flies" Shirt`,
@@ -119,7 +119,7 @@ const lionKingClothing = [
         style: ["Modern"],
         clothingCategory: "Tops",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Orange Earrings`,
@@ -127,7 +127,7 @@ const lionKingClothing = [
         style: ["Bold","Casual","Traditional"],
         clothingCategory: "Earrings",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Orange Sunrise Bracelet`,
@@ -135,7 +135,7 @@ const lionKingClothing = [
         style: ["Bold","Elegant","Modern"],
         clothingCategory: "Bracelets",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Purple and Gray Silk Shirt`,
@@ -143,7 +143,7 @@ const lionKingClothing = [
         style: ["Elegant","Quirky"],
         clothingCategory: "Tops",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Purple Baby-Simba Crop Top`,
@@ -151,7 +151,7 @@ const lionKingClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Tops",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Purple Silk Shirt`,
@@ -159,7 +159,7 @@ const lionKingClothing = [
         style: ["Elegant","Quirky"],
         clothingCategory: "Tops",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Red Faux-Fur-Trimmed Jacket`,
@@ -167,7 +167,7 @@ const lionKingClothing = [
         style: ["Bold"],
         clothingCategory: "Coats",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Red Headwrap`,
@@ -175,7 +175,7 @@ const lionKingClothing = [
         style: ["Bold","Modern"],
         clothingCategory: "Hats",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Silver and Purple Watch`,
@@ -183,7 +183,7 @@ const lionKingClothing = [
         style: [],
         clothingCategory: "Bracelets",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Tan Sunny Slacks`,
@@ -191,7 +191,7 @@ const lionKingClothing = [
         style: ["Modern","Professional"],
         clothingCategory: "Pants",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `White Sunny Slacks`,
@@ -199,7 +199,7 @@ const lionKingClothing = [
         style: ["Modern","Professional"],
         clothingCategory: "Pants",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Yellow "Time Flies" Shirt`,
@@ -207,7 +207,7 @@ const lionKingClothing = [
         style: ["Modern"],
         clothingCategory: "Tops",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
     {
         clothingName: `Yellow Headwrap`,
@@ -215,7 +215,7 @@ const lionKingClothing = [
         style: ["Bold","Modern"],
         clothingCategory: "Hats",
         color: [],
-        set: "The Lion King"
+        universe: "The Lion King"
     },
 ]
 

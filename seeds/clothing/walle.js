@@ -9,7 +9,7 @@ const walleClothing =[
     //     style: [],
         // clothingCategory: "",
         // color: [],
-    //     set: "WALL-E"
+    //     universe: "WALL-E"
     // },  
 ]
 

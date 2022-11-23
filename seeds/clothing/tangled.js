@@ -8,7 +8,7 @@ const tangledClothing = [
         style: ["Bold","Rustic"],
         clothingCategory: "Shoes",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Blue Floral Jumpsuit`,
@@ -16,7 +16,7 @@ const tangledClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Costumes",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Blue Floral Scarf`,
@@ -24,7 +24,7 @@ const tangledClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Neckwear",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Brown Adventurer Boots`,
@@ -32,7 +32,7 @@ const tangledClothing = [
         style: ["Bold","Rustic"],
         clothingCategory: "Shoes",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Brown Artist's Satchel`,
@@ -40,7 +40,7 @@ const tangledClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Back",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Crisp Blue Button-Up`,
@@ -48,7 +48,7 @@ const tangledClothing = [
         style: ["Bold","Modern","Professional"],
         clothingCategory: "Tops",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Crisp White Button-Up`,
@@ -56,7 +56,7 @@ const tangledClothing = [
         style: ["Bold","Modern","Professional"],
         clothingCategory: "Tops",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Floral Braid`,
@@ -64,7 +64,7 @@ const tangledClothing = [
         style: [],
         clothingCategory: "Hairstyle",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Golden "Dagger of Betrayal" Earrings`,
@@ -72,7 +72,7 @@ const tangledClothing = [
         style: ["Bold","Elegant"],
         clothingCategory: "Earrings",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Golden Dagger Sharp Nails`,
@@ -80,7 +80,7 @@ const tangledClothing = [
         style: ["Bold","Elegant"],
         clothingCategory: "Gloves",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Golden Tower Necklace`,
@@ -89,7 +89,7 @@ const tangledClothing = [
         style: ["Bold","Elegant"],
         clothingCategory: "Neckwear",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Green Artist's Satchel`,
@@ -97,7 +97,7 @@ const tangledClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Back",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Green Floral Cardigan`,
@@ -105,7 +105,7 @@ const tangledClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Coats",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Green Floral Jumpsuit`,
@@ -113,7 +113,7 @@ const tangledClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Costumes",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Green Floral Scarf`,
@@ -121,7 +121,7 @@ const tangledClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Neckwear",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Khaki Jodhpurs`,
@@ -129,7 +129,7 @@ const tangledClothing = [
         style: ["Bold","Quirky","Traditional"],
         clothingCategory: "Pants",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Long Curly Hair`,
@@ -137,7 +137,7 @@ const tangledClothing = [
         style: [],
         clothingCategory: "Hairstyle",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Pink & Purple Floral Cardigan`,
@@ -145,7 +145,7 @@ const tangledClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Coats",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Purple Artist's Satchel`,
@@ -153,7 +153,7 @@ const tangledClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Back",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Purple Floral Jumpsuit`,
@@ -161,7 +161,7 @@ const tangledClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Costumes",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Purple Floral Scarf`,
@@ -169,7 +169,7 @@ const tangledClothing = [
         style: ["Casual","Cute"],
         clothingCategory: "Neckwear",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Rapunzel's Summer Sundrop Gown`,
@@ -177,7 +177,7 @@ const tangledClothing = [
         style: ["Cute","Elegant"],
         clothingCategory: "Dresses",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Sharp Heels`,
@@ -185,7 +185,7 @@ const tangledClothing = [
         style: ["Bold","Elegant"],
         clothingCategory: "Shoes",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Silver "Dagger of Betrayal" Earrings`,
@@ -193,7 +193,7 @@ const tangledClothing = [
         style: ["Bold","Elegant"],
         clothingCategory: "Earrings",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Silver Dagger-Sharp Nails`,
@@ -201,7 +201,7 @@ const tangledClothing = [
         style: ["Bold","Elegant"],
         clothingCategory: "Gloves",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     // {
     //     clothingName: `Silver Tower Necklace`,
@@ -210,7 +210,7 @@ const tangledClothing = [
     //     style: ["Bold","Elegant"],
         // clothingCategory: "Neckwear",
         // color: [],
-    //     set: "Tangled"
+    //     universe: "Tangled"
     // },
     {
         clothingName: `Tan Jodhpurs`,
@@ -218,7 +218,7 @@ const tangledClothing = [
         style: ["Bold","Quirky","Traditional"],
         clothingCategory: "Pants",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Trusty Blue Satchel`,
@@ -226,7 +226,7 @@ const tangledClothing = [
         style: ["Bold","Rustic","Traditional"],
         clothingCategory: "Back",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
     {
         clothingName: `Trusty Brown Satchel`,
@@ -234,7 +234,7 @@ const tangledClothing = [
         style: ["Bold","Rustic","Traditional"],
         clothingCategory: "Back",
         color: [],
-        set: "Tangled"
+        universe: "Tangled"
     },
 ]
 

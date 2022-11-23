@@ -9,287 +9,287 @@ const beatuyBeastFurniture = [
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
     // {
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
     //     tagId: [],
-    //     setId: 7
+    //     universe: "Beauty & the Beast"
     // },
 
 ]

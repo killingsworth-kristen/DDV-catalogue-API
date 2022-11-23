@@ -8,7 +8,7 @@ const incrediblesClothing = [
         style: ["Bold","Quirky","Sporty"],
         clothingCategory: "Costumes",
         color: [],
-        set: "The Incredibles"
+        universe: "The Incredibles"
     },
        {
         clothingName: `Incredibles Super-Mask`,
@@ -16,7 +16,7 @@ const incrediblesClothing = [
         style: ["Bold","Modern","Sporty"],
         clothingCategory: "Masks",
         color: [],
-        set: "The Incredibles"
+        universe: "The Incredibles"
     },
        {
         clothingName: `Low-Boot Incredibles Suit`,
@@ -24,7 +24,7 @@ const incrediblesClothing = [
         style: ["Bold","Quirky","Sporty"],
         clothingCategory: "Costumes",
         color: [],
-        set: "The Incredibles"
+        universe: "The Incredibles"
     },
 ]
 

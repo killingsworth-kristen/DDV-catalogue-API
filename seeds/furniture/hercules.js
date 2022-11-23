@@ -7,7 +7,7 @@ const herculesFurniture = [
         price: 300,
         obtainedBy: "Villain's Star Path", 
         tagId: [8,17,19],
-        setId: 18
+        universe: "Hercules"
     }
 ]
 

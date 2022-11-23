@@ -9,7 +9,7 @@ const generalClothing = [
     //     style: [],
     //     clothingCategory: "",
     //     color: [],
-    //     set: "General"
+    //     universe: "General"
     // },
 ]
 
