@@ -1,5 +1,3 @@
-const Set = require(`../../models`)
-const Tag = require(`../../models`)
 
 // 39 pieces of furniture
 
