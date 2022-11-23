@@ -10,7 +10,7 @@ const frozenFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     set: "Frozen"
+    //     universe:"Frozen"
     // },
 ]
 

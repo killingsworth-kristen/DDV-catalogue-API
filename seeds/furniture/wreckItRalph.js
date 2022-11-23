@@ -10,7 +10,7 @@ const wreckItRaplhFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     set: "Wreck it Ralph"
+    //     universe:"Wreck it Ralph"
     // },
 ]
 

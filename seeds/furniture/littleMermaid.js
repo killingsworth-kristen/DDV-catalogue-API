@@ -12,7 +12,7 @@ const littleMermaidFurniture = [
         // furnitureCategory: "",
         // color: [],
     //     tagId: [],
-    //     set: "The Little Mermaid"
+    //     universe:"The Little Mermaid"
     // },
 ]
 
