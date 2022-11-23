@@ -1,19 +1,21 @@
-const Set = require(`../../models`)
-const Tag = require(`../../models`)
 
 const incrediblesFurniture = [
     {
         furnitureName: `Elasticycle`,
         price: 430,
         obtainedBy: "Pixar Fest Star Path",
-        tagId: [1,5,10,17],
+        style: ["Bold","Futuristic","Sporty"],
+        furnitureCategory: ["Outdoors"],
+        color: [],
         universe: "The Incredibles"
     },
     {
         furnitureName: `Mr. Incredible Retro Suit Display`,
         price: 480,
         obtainedBy: "Pixar Fest Star Path",
-        tagId: [7,8,19],
+        style: ["Professional","Quirky"],
+        furnitureCategory: ["Study"],
+        color: [],
         universe: "The Incredibles"
     }
 ]
