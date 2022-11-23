@@ -8,9 +8,11 @@ const littleMermaidFurniture = [
     //     furnitureName: ``,
     //     price: ,
     //     obtainedBy: "Scrooge's Store",
-    //     
+    //     style: [""],
+        // furnitureCategory: "",
+        // color: [],
     //     tagId: [],
-    //     setId: 11
+    //     set: "The Little Mermaid"
     // },
 ]
 
