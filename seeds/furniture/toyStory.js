@@ -4,13 +4,15 @@ const Tag = require(`../../models`)
 // 26 pieces of furniture
 
 const toyStoryFurniture = [
-    {
-        furnitureName: `"Show Your Strength" Test`,
-        
-        obtainedBy: "Scrooge's Store",
-        tagId: [],
-        universe: "Toy Story"
-    },
+    // {
+    //     furnitureName: `"Show Your Strength" Test`,
+    //     price: ,
+    //     obtainedBy: unobtainable,
+    //     style: [],
+    //     furnitureCategory: "",
+    //     color: []
+    //     universe: "Toy Story"
+    // },
     {
         furnitureName: `Alien Guessing Booth`,
         price: 6400,
