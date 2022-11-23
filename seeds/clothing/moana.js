@@ -1,5 +1,3 @@
-const Set = require(`../../models`)
-const Tag = require(`../../models`)
 
 // 21 items
 
@@ -7,149 +5,173 @@ const moanaClothing = [
     {
         clothingName: `Blue Beach Shorts`,
         price: 3400,
-        obtainedBy: "Scrooge's Store",
-        tagId: [2,34],
-        setId: 5
+        style: ["Casual"],
+        clothingCategory: "Pants",
+        color: [],
+        set: "Moana"
     },
     {
         clothingName: `Blue Gradient Shades`,
         price: 2800,
-        obtainedBy: "Scrooge's Store",
-        tagId: [2,6,26],
-        setId: 5
+        style: ["casual","Modern"],
+        clothingCategory: "Glasses",
+        color: [],
+        set: "Moana"
     },  
     {
         clothingName: `Blue Tassel Earrings`,
         price: 3800,
-        obtainedBy: "Scrooge's Store",
+        style: ["Casual","Elegant"],
+        clothingCategory: "Earrings",
+        color: [],
         tagId: [2,4,25],
-        setId: 5
+        set: "Moana"
     },  
     {
         clothingName: `Blue Woven Top`,
         price: 2400,
-        obtainedBy: "Scrooge's Store",
+        style: ["Casual","Rustic"],
+        clothingCategory: "Tops",
+        color: [],
         tagId: [2,9,36],
-        setId: 5
+        set: "Moana"
     },  
     {
         clothingName: `Green Beach Shorts`,
         price: 3400,
-        obtainedBy: "Scrooge's Store",
+        style: ["Casual"],
+        clothingCategory: "Pants",
+        color: [],
         tagId: [2,34],
-        setId: 5
+        set: "Moana"
     },  
     {
         clothingName: `Green Gradient Shades`,
         price: 2800,
-        obtainedBy: "Scrooge's Store",
-        tagId: [2,6,26],
-        setId: 5
+        style: ["casual","Modern"],
+        clothingCategory: "Glasses",
+        color: [],
+        set: "Moana"
     },    
     {
         clothingName: `Green Tassel Earrings`,
         price: 3800,
-        obtainedBy: "Scrooge's Store",
-        tagId: [2,4,25],
-        setId: 5
+        style: ["Casual","Elegant"],
+        clothingCategory: "Earrings",
+        color: [],
+        set: "Moana"
     },   
     {
         clothingName: `Green Woven Shorts`,
         price: 6800,
-        obtainedBy: "Scrooge's Store",
-        tagId: [2,3,9,34],
-        setId: 5
+        style: ["Casual","Cute","Rustic"],
+        clothingCategory: "Pants",
+        color: [],
+        set: "Moana"
     },
     {
         clothingName: `Green Woven Top`,
         price: 2400,
-        obtainedBy: "Scrooge's Store",
-        tagId: [2,9,36],
-        setId: 5
+        style: ["Casual","Rustic"],
+        clothingCategory: "Tops",
+        color: [],
+        set: "Moana"
     },  
     {
         clothingName: `Hooked Curly Topknot`,
         price: 1000,
-        obtainedBy: "Scrooge's Store",
-        tagId: [1,8,9,28],
-        setId: 5
+        style: ["Bold","Quirky","Rustic"],
+        clothingCategory: "Hairstyle",
+        color: [],
+        set: "Moana"
     },
     {
         clothingName: `Lava Pleather Jacket`,
         price: 4000,
-        obtainedBy: "Scrooge's Store",
-        tagId: [1,2,6,22],
-        setId: 5
+        style: ["Bold","Casual","Modern"],
+        clothingCategory: "Coats",
+        color: [],
+        set: "Moana"
     },
     {
         clothingName: `Lush Blue Earrings`,
         price: 19000,
-        obtainedBy: "Scrooge's Store",
-        tagId: [1,3,25],
-        setId: 5
+        style: ["Bold","Cute"],
+        clothingCategory: "Earrings",
+        color: [],
+        set: "Moana"
     },  
     {
         clothingName: `Lush Green Earrings`,
         price: 19000,
-        obtainedBy: "Scrooge's Store",
-        tagId: [1,3,25],
-        setId: 5
+        style: ["Bold","Cute"],
+        clothingCategory: "Earrings",
+        color: [],
+        set: "Moana"
     },  
     {
         clothingName: `Orange "Heart of Te Fiti" Shirt`,
         price: 900,
-        obtainedBy: "Scrooge's Store",
-        tagId: [2,3,36],
-        setId: 5
+        style: ["Casual","Cute"],
+        clothingCategory: "Tops",
+        color: [],
+        set: "Moana"
     },  
     {
         clothingName: `Orange Gradient Shades`,
         price: 2800,
-        obtainedBy: "Scrooge's Store",
-        tagId: [2,6,26],
-        setId: 5
+        style: ["casual","Modern"],
+        clothingCategory: "Glasses",
+        color: [],
+        set: "Moana"
     }, 
     {
         clothingName: `Pink Woven Top`,
-        price: null,
         obtainedBy: "Moana Friendship Level 2",
-        tagId: [2,9,36], //simple,playful,delicate,wondrous
-        setId: 5
+        style: ["Casual","Rustic","Simple","Playful","Delicate","Wondrous"],
+        clothingCategory: "Tops",
+        color: [],
+        set: "Moana"
     },  
     {
         clothingName: `Purple Woven Shorts`,
         price: 6800,
-        obtainedBy: "Scrooge's Store",
-        tagId: [2,3,9,34],
-        setId: 5
+        style: ["Casual","Cute","Rustic"],
+        clothingCategory: "Pants",
+        color: [],
+        set: "Moana"
     }, 
     {
         clothingName: `Straw Sunhat with Yellow and Red Band`,
-        price: null,
         obtainedBy: "Remembering Old Times (Minnie Mouse Level 7",
-        tagId: [29],
-        setId: 5
+        style: [],
+        clothingCategory: "Hats",
+        color: [],
+        set: "Moana"
     },  
     {
         clothingName: `Tan "Heart of Te Fiti" Shirt`,
         price: 900,
-        obtainedBy: "Scrooge's Store",
-        tagId: [2,3,36],
-        setId: 5
+        style: ["Casual","Cute"],
+        clothingCategory: "Tops",
+        color: [],
+        set: "Moana"
     },  
     {
         clothingName: `Tan Beach Shorts`,
-        price: null,
         obtainedBy: "Maui Freindship Level 2",
-        tagId: [2,6,34], //simple, playful, delicate, wondrous
-        setId: 5
+        style: ["Casual","Modern","Simple","Playful","Delicate","Wondrous"],
+        clothingCategory: "Pants",
+        color: [],
+        set: "Moana"
     },
     {
         clothingName: `Turquiose Woven Shorts`,
         price: 6800,
-        obtainedBy: "Scrooge's Store",
-        tagId: [2,3,9,34],
-        setId: 5
+        style: ["Casual","Cute","Rustic"],
+        clothingCategory: "Pants",
+        color: [],
+        set: "Moana"
     }, 
 ]
 

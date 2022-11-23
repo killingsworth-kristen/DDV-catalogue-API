@@ -10,7 +10,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -18,7 +18,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -26,7 +26,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -34,7 +34,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -42,7 +42,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -50,7 +50,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -58,7 +58,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -66,7 +66,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -74,7 +74,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -82,7 +82,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -90,7 +90,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -98,7 +98,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -106,7 +106,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -114,7 +114,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -122,7 +122,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -130,7 +130,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -138,7 +138,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -146,7 +146,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -154,7 +154,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -162,7 +162,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -170,7 +170,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -178,7 +178,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -186,7 +186,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -194,7 +194,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -202,7 +202,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -210,7 +210,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -218,7 +218,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -226,7 +226,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -234,7 +234,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
     //  {
     //     furnitureName: ``,
@@ -242,7 +242,7 @@ const moanaFurniture = [
     //     obtainedBy: "Scrooge's Store",
     //     
     //     tagId: [],
-    //     setId: 5
+    //     set: "Moana"
     // },
 
 ]
