@@ -6,7 +6,7 @@ const moanaClothing = [
         clothingName: `Blue Beach Shorts`,
         price: 3400,
         style: ["Casual"],
-        clothingCategory: "Pants",
+        clothingCategory: "Shorts",
         color: [],
         set: "Moana"
     },
@@ -40,7 +40,7 @@ const moanaClothing = [
         clothingName: `Green Beach Shorts`,
         price: 3400,
         style: ["Casual"],
-        clothingCategory: "Pants",
+        clothingCategory: "Shorts",
         color: [],
         tagId: [2,34],
         set: "Moana"
@@ -65,7 +65,7 @@ const moanaClothing = [
         clothingName: `Green Woven Shorts`,
         price: 6800,
         style: ["Casual","Cute","Rustic"],
-        clothingCategory: "Pants",
+        clothingCategory: "Shorts",
         color: [],
         set: "Moana"
     },
@@ -137,7 +137,7 @@ const moanaClothing = [
         clothingName: `Purple Woven Shorts`,
         price: 6800,
         style: ["Casual","Cute","Rustic"],
-        clothingCategory: "Pants",
+        clothingCategory: "Shorts",
         color: [],
         set: "Moana"
     }, 
@@ -161,7 +161,7 @@ const moanaClothing = [
         clothingName: `Tan Beach Shorts`,
         obtainedBy: "Maui Freindship Level 2",
         style: ["Casual","Modern","Simple","Playful","Delicate","Wondrous"],
-        clothingCategory: "Pants",
+        clothingCategory: "Shorts",
         color: [],
         set: "Moana"
     },
@@ -169,7 +169,7 @@ const moanaClothing = [
         clothingName: `Turquiose Woven Shorts`,
         price: 6800,
         style: ["Casual","Cute","Rustic"],
-        clothingCategory: "Pants",
+        clothingCategory: "Shorts",
         color: [],
         set: "Moana"
     }, 
