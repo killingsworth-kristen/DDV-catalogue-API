@@ -1,7 +1,4 @@
 
-const Set = require(`../../models`)
-const Tag = require(`../../models`)
-
 // 20 items
 
 const fencesPavingCrafting = [
