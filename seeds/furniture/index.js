@@ -1,6 +1,7 @@
 
 const FurnitureData = []
 
+function getFurnitureData () {
 // mickey & freinds furniture
 const MickeyFurniture = require('./mickey&friends');
 FurnitureData.push(MickeyFurniture);
@@ -97,4 +98,10 @@ FurnitureData.push(snowWhiteFurniture);
 const generalFurniture = require(`./general`)
 FurnitureData.push(generalFurniture)
 
-module.exports = FurnitureData;
+const NewFurnitureData = Array.prototype.concat.apply([], FurnitureData);
+
+return NewFurnitureData
+}
+
+
+module.exports = getFurnitureData;

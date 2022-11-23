@@ -1,7 +1,7 @@
 
 // 38 items
 
-const beatuyBeastClothing = [
+const beautyBeastClothing = [
     // {
     //     clothingName: ``,
     //     price: ,
@@ -13,4 +13,4 @@ const beatuyBeastClothing = [
     // },
 ]
 
-module.exports=beatuyBeastClothing
+module.exports=beautyBeastClothing

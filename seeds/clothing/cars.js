@@ -9,7 +9,7 @@ const carsClothing = [
         clothingCategory: "Coats",
         color: [],
         universe: "Cars"
-    },
+    }
 ]
 
 module.exports=carsClothing

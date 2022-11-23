@@ -28,7 +28,7 @@ const monstersIncFurniture = [
     // price data not available
     {
         furnitureName: `Door`,
-        price: null,
+        
         obtainedBy: "Scrooge's Store",
         tagId: [8,16],
         universe: "Monsters Inc"

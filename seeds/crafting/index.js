@@ -1,7 +1,7 @@
 const { Crafting } = require('../../models');
 
 const CraftingData = [];
-
+function getCraftingData () {
 // fences and paving
 const fencesPavingCrafting = require(`./fences&paving`);
 CraftingData.push(fencesPavingCrafting);
@@ -14,4 +14,9 @@ CraftingData.push(functionItemsCrafting);
 const furnitureCrafting = require(`./furniture`);
 CraftingData.push(furnitureCrafting);
 
-module.exports = CraftingData;
+const NewCraftingData = Array.prototype.concat.apply([], CraftingData);
+
+return NewCraftingData
+}
+
+module.exports = getCraftingData;

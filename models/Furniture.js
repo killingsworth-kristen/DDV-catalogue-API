@@ -17,18 +17,15 @@ const furnitureSchema = new Schema({
     },
     // style: [styleSchema]
     style: [{
-      type: Schema.Types.ObjectId,
-      ref: 'Style',
+      type: String
     }],
     // clothingCategory: [clothingCategorySchema]
     furnitureCategory: [{
-      type: Schema.Types.ObjectId,
-      ref: 'FurnitureCategory',
+      type: String
     }],
     // color: [colorSchema]
     color: [{
-      type: Schema.Types.ObjectId,
-      ref: 'Color',
+      type: String
     }],
     universe: {
       type: String,

@@ -6,7 +6,7 @@ const Tag = require(`../../models`)
 const toyStoryFurniture = [
     {
         furnitureName: `"Show Your Strength" Test`,
-        price: null,
+        
         obtainedBy: "Scrooge's Store",
         tagId: [],
         universe: "Toy Story"

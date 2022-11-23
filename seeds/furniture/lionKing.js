@@ -140,7 +140,7 @@ const lionKingFurniture = [
     },
     {
         furnitureName: `Volcanic Stove`,
-        price: null,
+        
         obtainedBy: "The Making of a Monarch (Scar Level 10)",
         tagId: [1,9,17],
         universe: "Lion King"

@@ -17,16 +17,14 @@ const clothingSchema = new Schema({
     },
     // style: [styleSchema]
     style: [{
-      type: Schema.Types.ObjectId,
-      ref: 'Style',
+      type: String,
     }],
     clothingCategory: {
       type: String
     },
     // color: [colorSchema]
     color: [{
-      type: Schema.Types.ObjectId,
-      ref: 'Color',
+      type: String
     }],
     universe: {
       type: String,

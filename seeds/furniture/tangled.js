@@ -101,7 +101,7 @@ const tangledFurniture = [
     // needs pricing data
     {
         furnitureName: `Painting Table`,
-        price: null,
+        
         obtainedBy: "Scrooge's Store",
         
         tagId: [2,3,8,18,19],
