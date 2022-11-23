@@ -125,7 +125,7 @@ const littleMermaidClothing = [
     {
         clothingName: `Seaside Prince Side Part`,
         obtainedBy: "Prince Eric Friendship Level 2",
-        style: [""],
+        style: [],
         clothingCategory: "Hairstyle",
         color: [],
         set: "The Little Mermaid"
