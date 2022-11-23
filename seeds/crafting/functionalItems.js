@@ -7,147 +7,93 @@ const functionItemsCrafting = [
 
 {
     craftingName: `Black Flat-Top Stove`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Iron Ingot`,`x3 Glass`,`Black Passion Lily`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `Black Gas Stove`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x12 Iron Ingot`,`x2 Glass`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `Black Retro Portable Radio`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x5 Softwood`,`x2 Iron Ingot`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `Blue Retro Portable Radio`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x5 Softwood`,`Iron Ingot`,`Blue Star Lily`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `Brown Retro Portable Radio`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Softwod`,`Iron Ingot`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `Chest`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x25 Softwood`,`x25 Stone`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `Gray Flat-Top Stove`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Iron Ingot`,`x3 Glass`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `Gray Gas Stove`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x12 Iron Ingot`,`x2 Glass`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `Gray Mailbox`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x2 Iron Ingot`,`x10 Hardwood`,`White Bell Flower`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `Iron Crafting Station`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Iron Ingot`,`x10 Hardwood`,`Topaz`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `Pale Gray Flat-Top Stove`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Iron Ingot`,`x3 Glass`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `Pale Gray Gas Stove`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x12 Iron Ingot`,`x2 Glass`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `Pink Flat-Top Stove`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Iron Ingot`,`x3 Glass`,`Pink Houseleek`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `Pink Gas Stove`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x12 Iron Ingot`,`x2 Glass`,`Pink Houseleek`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `Red Mailbox`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x2 Iron Ingot`,`x10 Hardwood`,`Red Bromeliad`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `White Flat-Top Stove`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Iron Ingot`,`x3 Glass`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `White Gas Stove`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x12 Iron Ingot`,`x2 Glass`,`Black Passion Lily`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 },
 {
     craftingName: `Wooden Crafting Station`,
-    ,
-    obtainedBy: "Collecting all necessary crafting materials",
     craftingMaterials: [`x10 Iron Ingot`,`x10 Hardwood`,`Topaz`,`Red Falling Penstemon`],
-    tagId: [],
-    setId: 26
+    craftingCategory: "Functional Items"
 }
    
 
