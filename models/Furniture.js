@@ -2,7 +2,7 @@ const { Schema, model } = require('mongoose');
 
 // Schema to create clothing model
 const furnitureSchema = new Schema({
-    furnituregName: {
+    furnitureName: {
         type: String,
         required: true
     },
@@ -12,24 +12,31 @@ const furnitureSchema = new Schema({
     },
     obtainedBy: {
         type: String,
-        required: false,
-        default: `Collecting all necessary crafting materials`
+        required: true,
+        default: `Scrooge's Store`
     },
-    // style: [styleSchema]
+    tracked: {
+      type: Boolean,
+      required: true,
+      default: true
+    },
     style: [{
       type: String
     }],
-    // clothingCategory: [clothingCategorySchema]
     furnitureCategory: [{
       type: String
     }],
-    // color: [colorSchema]
     color: [{
       type: String
     }],
     universe: {
       type: String,
       required: true
+    },
+    added: {
+      type: Number,
+      required: false,
+      default: 1.0
     }
   },
   {

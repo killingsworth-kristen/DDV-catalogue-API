@@ -247,6 +247,16 @@ const toyStoryFurniture = [
         universe: "Toy Story"
     },
     {
+        furnitureName: `Space Ranger Ship`,
+        // price: ,
+        obtainedBy: "A Space Ranger Recruit (Buzz Lightyear Level 10)",
+        style: [],
+        furnitureCategory: ["Decor"],
+        craftingIngredients: ["x3 Glass","x10 Hardwood","x5 Iron Ingot"],
+        color: [],
+        universe: "Toy Story"
+    },
+    {
         furnitureName: `Vibrant Wall Planter`,
         price: 2800,
         obtainedBy: "Founder's Pack: Deluxe Edition",

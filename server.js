@@ -1,5 +1,5 @@
 const express = require('express');
-const routes = require('./controllers');
+const routes = require('./routes');
 // import db
 const db = require('./config/connection');
 
@@ -14,6 +14,6 @@ app.use(routes);
 // initialize db
 db.once('open', () => {
   app.listen(PORT, () => {
-    console.log(`API server for ${activity} running on port ${PORT}!`);
+    console.log(`API server for DDV running on port ${PORT}!`);
   });
 });

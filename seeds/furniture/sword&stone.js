@@ -12,7 +12,7 @@ const SwordStoneFurniture =[
     {
         furnitureName: `Big Pile of Books`,
         price: 6400,
-        style: ["Quirky","Traditional"],
+        style: ["Quirky","Traditional","Simple","Playful","Delicate","Wondrous"],
         furnitureCategory: ["Study"],
         color: [],
         universe: "The Sword and the Stone"

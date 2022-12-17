@@ -6,13 +6,16 @@ const getFurnitureData = require(`./furniture`)
 
 
 connection.once('open', async () => {
+    console.log("connected!")
     // clears data before reseeding (remove for final version)
-    Clothing.collection.drop();
-    Crafting.collection.drop();
-    Furniture.collection.drop();
+    await Clothing.deleteMany({});
+    await Crafting.deleteMany({});
+    await Furniture.deleteMany({});
     
     // inserts all of the data into db
-    Clothing.collection.insertMany(getClothingData());
-    Crafting.collection.insertMany(getClothingData());
-    Furniture.collection.insertMany(getFurnitureData());
+    await Clothing.insertMany(getClothingData());
+    await Crafting.insertMany(getCraftingData());
+    await Furniture.insertMany(getFurnitureData());
+
+    console.log("data seeded!")
 })
