@@ -7,7 +7,8 @@ const snowWhiteFurniture = [
         style: ["Bold","Elegant"],
         furnitureCategory: ["Bedroom","Study"],
         color: [],
-        universe: "Snow White"
+        universe: "Snow White",
+        added: 1.1
     }
 ]
 

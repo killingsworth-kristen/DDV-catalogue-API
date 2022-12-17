@@ -7,7 +7,8 @@ const sleepingBeautyFurniture = [
         style: ["Bold","Elegant"],
         furnitureCategory: ["Living Room","Study"],
         color: [],
-        universe: "Sleeping Beauty"
+        universe: "Sleeping Beauty",
+        added: 1.1
     }
 ]
 

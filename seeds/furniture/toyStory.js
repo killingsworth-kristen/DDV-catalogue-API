@@ -10,7 +10,8 @@ const toyStoryFurniture = [
         style: ["Quirky","Rustic","Bold"],
         furnitureCategory: ["Living Room","Bedroom","Lighting"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.2
     },
     {
         furnitureName: `"Show Your Strength" Test`,
@@ -35,7 +36,8 @@ const toyStoryFurniture = [
         style: [],
         furnitureCategory: ["Windows"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.2
     },
     {
         furnitureName: `Blanket Fort`,
@@ -45,7 +47,8 @@ const toyStoryFurniture = [
         furnitureCategory: ["Outdoors","Living Room","Bedroom", "Decor"],
         craftingIngredients: ["x40 Softwood","x5 Cotton","X4 Fabirc","x4 Rope","x5 Glass"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.2
     },
     {
         furnitureName: `Chest Coffee Table`,
@@ -172,7 +175,8 @@ const toyStoryFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.2
     },
     {
         furnitureName: `Popcorn Machine`,
@@ -254,7 +258,8 @@ const toyStoryFurniture = [
         furnitureCategory: ["Decor"],
         craftingIngredients: ["x3 Glass","x10 Hardwood","x5 Iron Ingot"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.2
     },
     {
         furnitureName: `Vibrant Wall Planter`,
@@ -272,7 +277,8 @@ const toyStoryFurniture = [
         style: ["Cute","Traditional","Quirky"],
         furnitureCategory: ["Study","Living Room","Decor"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.2
     },
 ]
 

@@ -45,7 +45,8 @@ const liloStitchFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.2
     },
     {
         furnitureName: `Colorful Surfboards`,
@@ -253,7 +254,8 @@ const liloStitchFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        Added: 1.2
     },
     {
         furnitureName: `Sunset Parasol & Green Towel`,
@@ -280,7 +282,8 @@ const liloStitchFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.2
     },
     {
         furnitureName: `Washer`,

@@ -7,7 +7,8 @@ const herculesFurniture = [
         style: ["Quirky"],
         furnitureCategory: ["Outdoors","Study"],
         color: [],
-        universe: "Hercules"
+        universe: "Hercules",
+        added: 1.1
     }
 ]
 
