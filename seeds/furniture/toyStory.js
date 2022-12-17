@@ -1,21 +1,49 @@
 
 // 26 pieces of furniture
+// 5-6 furniture added for christams update dec. 6th 2022
 
 const toyStoryFurniture = [
-    // {
-    //     furnitureName: `"Show Your Strength" Test`,
-    //     price: ,
-    //     obtainedBy: unobtainable,
-    //     style: [],
-    //     furnitureCategory: "",
-    //     color: []
-    //     universe: "Toy Story"
-    // },
+    {
+        furnitureName: `"Hat's Off" Lamp`,
+        price: 4080,
+        obtainedBy: "Woody Friendship Level 8",
+        style: ["Quirky","Rustic","Bold"],
+        furnitureCategory: ["Living Room","Bedroom","Lighting"],
+        color: [],
+        universe: "Toy Story"
+    },
+    {
+        furnitureName: `"Show Your Strength" Test`,
+        price: 6400,
+        style: [],
+        furnitureCategory: ["Decor"],
+        color: [],
+        universe: "Toy Story"
+    },
     {
         furnitureName: `Alien Guessing Booth`,
         price: 6400,
         style: ["Futuristic","Quirky"],
         furnitureCategory: ["Rec Room"],
+        color: [],
+        universe: "Toy Story"
+    },
+    {
+        furnitureName: `Arched Window into Deep Space`,
+        // price: ,
+        obtainedBy: "Buzz Lightyear Friendship Level 8",
+        style: [],
+        furnitureCategory: ["Windows"],
+        color: [],
+        universe: "Toy Story"
+    },
+    {
+        furnitureName: `Blanket Fort`,
+        price: 8000,
+        obtainedBy: "The Illumination (Woody Level 10)",
+        style: ["Traditional","Quirky","Casual"],
+        furnitureCategory: ["Outdoors","Living Room","Bedroom", "Decor"],
+        craftingIngredients: ["x40 Softwood","x5 Cotton","X4 Fabirc","x4 Rope","x5 Glass"],
         color: [],
         universe: "Toy Story"
     },
@@ -138,6 +166,15 @@ const toyStoryFurniture = [
         universe: "Toy Story"
     },
     {
+        furnitureName: `Pixar Ball`,
+        // price: ,
+        obtainedBy: "Buzz Lightyear Friendship Level 5",
+        style: [],
+        furnitureCategory: ["Decor"],
+        color: [],
+        universe: "Toy Story"
+    },
+    {
         furnitureName: `Popcorn Machine`,
         price: 7360,
         style: ["Quirky","Traditional"],
@@ -215,6 +252,15 @@ const toyStoryFurniture = [
         obtainedBy: "Founder's Pack: Deluxe Edition",
         style: [],
         furnitureCategory: ["Decor"],
+        color: [],
+        universe: "Toy Story"
+    },
+    {
+        furnitureName: `Writer Blocks Column`,
+        price: 3200,
+        obtainedBy: "Woody Friendship Level 5",
+        style: ["Cute","Traditional","Quirky"],
+        furnitureCategory: ["Study","Living Room","Decor"],
         color: [],
         universe: "Toy Story"
     },
