@@ -15,14 +15,12 @@ const clothingSchema = new Schema({
         required: true,
         default: `Scrooge's Store`
     },
-    // style: [styleSchema]
     style: [{
       type: String,
     }],
     clothingCategory: {
       type: String
     },
-    // color: [colorSchema]
     color: [{
       type: String
     }],
