@@ -5,12 +5,11 @@ const cinderllaFurniture = [
     // {
     //     furnitureName: ``,
     //     price: ,
-    //     obtainedBy: "Scrooge's Store",
     //     style: [],
     //     furnitureCategory: "",
     //     color: [],
-    //     tagId: [],
-    //     universe: "Cinderella"
+    //     universe: "Cinderella",
+    //     added: 1.0
     // },
 ]
 

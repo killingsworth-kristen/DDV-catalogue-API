@@ -5,11 +5,11 @@ const beatuyBeastFurniture = [
     // {
     //     furnitureName: ``,
     //     price: ,
-    //     obtainedBy: "Scrooge's Store",
     //     style: [],
     //     furnitureCategory: "",
     //     color: [],
-    //     universe: "Beauty & the Beast"
+    //     universe: "Beauty & the Beast",
+    //     added: 1.0
     // },
 
 ]

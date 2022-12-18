@@ -70,7 +70,7 @@ const wreckItRaplhFurniture = [
         furnitureCategory: ["Bedroom","Beds"],
         color: [],
         universe:"Wreck it Ralph",
-        added: 1.0
+        added: 1.2
     },
     {
         furnitureName: `Coin-op Game`,

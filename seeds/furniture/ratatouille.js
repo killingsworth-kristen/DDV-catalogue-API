@@ -8,7 +8,8 @@ const ratatouilleFurniture = [
         style: ["Casual","Quirky"],
         furnitureCategory: ["Dining Room","Kitchen","Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Cheese Poster`,
@@ -16,7 +17,8 @@ const ratatouilleFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Bathroom","Dining Room","Kitchen","Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Counter Trolly`,
@@ -24,7 +26,8 @@ const ratatouilleFurniture = [
         style: ["Professional","Traditional"],
         furnitureCategory: ["Kitchen","Tables"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Cushoined Dining Chair`,
@@ -32,7 +35,8 @@ const ratatouilleFurniture = [
         style: ["Elegant","Traditional"],
         furnitureCategory: ["Dining Room","Study","Seating"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Fridge Covered in Notes`,
@@ -40,7 +44,8 @@ const ratatouilleFurniture = [
         style: ["Casual","Quirky"],
         furnitureCategory: ["Kitchen","Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Fruits Poster`,
@@ -49,7 +54,8 @@ const ratatouilleFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Bathroom","Dining Room","Kitchen","Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Herbs de Provence`,
@@ -57,7 +63,8 @@ const ratatouilleFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Bathroom","Kitchen","Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Hot Plate`,
@@ -65,7 +72,8 @@ const ratatouilleFurniture = [
         style: ["Casual","Quirky"],
         furnitureCategory: ["Kitchen","Cooking Station"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Kitchen Shelf`,
@@ -73,7 +81,8 @@ const ratatouilleFurniture = [
         style: ["Casual","Quirky"],
         furnitureCategory: ["Kitchen","Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Large Pot`,
@@ -81,7 +90,8 @@ const ratatouilleFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Kitchen","Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Metal Kitchen Counter`,
@@ -89,7 +99,8 @@ const ratatouilleFurniture = [
         style: [],
         furnitureCategory: ["Tables"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.1
     },
     {
         furnitureName: `Minimalistic Ceiling Lights`,
@@ -97,7 +108,8 @@ const ratatouilleFurniture = [
         style: ["Elegant","Modern"],
         furnitureCategory: ["Dining Room","Kitchen","Rec Room","Lighting"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Old TV`,
@@ -105,7 +117,17 @@ const ratatouilleFurniture = [
         style: ["Casual","Quirky"],
         furnitureCategory: ["Bedroom","Living Room","Rec Room"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
+    },
+    {
+        furnitureName: `Oval Window`,
+        price: 480,
+        style: ["Rustic","Elegant"],
+        furnitureCategory: ["Study","Dining Room","Windows"],
+        color: [],
+        universe: "Ratatouille",
+        added: 1.2
     },
     {
         furnitureName: `Oven and Hood`,
@@ -114,7 +136,8 @@ const ratatouilleFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Kitchen","Cooking Station"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Pan Hanger`,
@@ -122,7 +145,8 @@ const ratatouilleFurniture = [
         style: ["Professional","Rustic","Traditional"],
         furnitureCategory: ["Kitchen","Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Radiator`,
@@ -130,7 +154,8 @@ const ratatouilleFurniture = [
         style: ["Casual","Quirky"],
         furnitureCategory: ["Bathroom","Bedroom","Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Remy's "Best Chef" Shelf`,
@@ -139,17 +164,20 @@ const ratatouilleFurniture = [
         style: ["Professional","Rustic"],
         furnitureCategory: ["Kitchen","Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         // not tracked in collection
         furnitureName: `Restaurant Furniture Kit`,
         price: 2000,
         obtainedBy: "A Restaurant Makeover",
+        tracked: false,
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Retro Fan`,
@@ -157,7 +185,8 @@ const ratatouilleFurniture = [
         style: ["Casual","Quirky"],
         furnitureCategory: ["Kitchen","Rec Room","Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Rotary Phone`,
@@ -165,7 +194,8 @@ const ratatouilleFurniture = [
         style: ["Casual","Quirky"],
         furnitureCategory: ["Kitchen","Rec Room","Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Round Dining Table`,
@@ -173,7 +203,8 @@ const ratatouilleFurniture = [
         style: ["Elegant","Traditional"],
         furnitureCategory: ["Dining Room","Kitchen","Outdoors","Tables"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Simple Lamp`,
@@ -181,7 +212,8 @@ const ratatouilleFurniture = [
         style: ["Elegant","Traditional"],
         furnitureCategory: ["Dining Room","Study","Lighting"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Simple Wall Lamp`,
@@ -189,7 +221,8 @@ const ratatouilleFurniture = [
         style: ["Elegant","Traditional"],
         furnitureCategory: ["Bathroom","Dining Room","Study","Lighting"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Sink and Mirror`,
@@ -197,7 +230,8 @@ const ratatouilleFurniture = [
         style: ["Casual","Quirky"],
         furnitureCategory: ["Bathroom","Kitchen","Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Sink and Tiled Wall`,
@@ -206,7 +240,8 @@ const ratatouilleFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Bathroom","Kitchen","Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.1
     },
     {
         furnitureName: `Small Round Dining Table`,
@@ -214,7 +249,8 @@ const ratatouilleFurniture = [
         style: ["Elegant","Traditional"],
         furnitureCategory: ["Dining Room","Kitchen","Outdoors","Tables"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Tableware`,
@@ -222,7 +258,8 @@ const ratatouilleFurniture = [
         style: ["Elegant","Traditional"],
         furnitureCategory: ["Dining Room","Kitchen","Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
     {
         furnitureName: `Tiled-Top Corner Counter`,
@@ -230,7 +267,8 @@ const ratatouilleFurniture = [
         style: ["Cute","Rustic","Traditional"],
         furnitureCategory: ["Bathroom","Kitchen","Tables"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.1
     },
     {
         furnitureName: `Tiled-Top Counter`,
@@ -238,7 +276,8 @@ const ratatouilleFurniture = [
         style: ["Cute","Rustic","Traditional"],
         furnitureCategory: ["Bathroom","Kitchen","Tables"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.1
     },
     {
         furnitureName: `Tiled-Top Cubby Counter`,
@@ -246,7 +285,8 @@ const ratatouilleFurniture = [
         style: ["Cute","Rustic","Traditional"],
         furnitureCategory: ["Bathroom","Kitchen","Tables"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.1
     },
     {
         furnitureName: `Window to Paris`,
@@ -254,7 +294,8 @@ const ratatouilleFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Ratatouille"
+        universe: "Ratatouille",
+        added: 1.0
     },
 ]
 
