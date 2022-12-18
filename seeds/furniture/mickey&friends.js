@@ -5,11 +5,11 @@ const MickeyFurniture = [
     // {
     //     furnitureName: ``,
     //     price: ,
-    //     obtainedBy: "Scrooge's Store",
     //     style: [],
     //     furnitureCategory: [""],
     //     color: [],
-    //     universe: "Mickey & Friends"
+    //     universe: "Mickey & Friends",
+    //     added: 1.0
     // },
 ]
 
