@@ -7,15 +7,18 @@ const SwordStoneFurniture =[
         style: ["Quirky","Traditional"],
         furnitureCategory: ["Study"],
         color: [],
-        universe: "The Sword and the Stone"
+        universe: "The Sword and the Stone",
+        added: 1.0
     },
     {
         furnitureName: `Big Pile of Books`,
         price: 6400,
+        tracked: false,
         style: ["Quirky","Traditional","Simple","Playful","Delicate","Wondrous"],
         furnitureCategory: ["Study"],
         color: [],
-        universe: "The Sword and the Stone"
+        universe: "The Sword and the Stone",
+        added: 1.0
     },
     {
         furnitureName: `Book Pile`,
@@ -23,15 +26,18 @@ const SwordStoneFurniture =[
         style: ["Professional","Traditional"],
         furnitureCategory: ["Bedroom","Study"],
         color: [],
-        universe: "The Sword and the Stone"
+        universe: "The Sword and the Stone",
+        added: 1.0
     },
     {
         furnitureName: `Book Piles`,
         price: 3200,
+        tracked: false,
         style: ["Quirky","Traditional"],
         furnitureCategory: ["Study"],
         color: [],
-        universe: "The Sword and the Stone"
+        universe: "The Sword and the Stone",
+        added: 1.0
     },
     {
         furnitureName: `Line of Books`,
@@ -39,7 +45,8 @@ const SwordStoneFurniture =[
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "The Sword and the Stone"
+        universe: "The Sword and the Stone",
+        added: 1.0
     },
     {
         furnitureName: `Melted Candles`,
@@ -47,7 +54,8 @@ const SwordStoneFurniture =[
         style: ["Professional","Traditional"],
         furnitureCategory: ["Bedroom","Study"],
         color: [],
-        universe: "The Sword and the Stone"
+        universe: "The Sword and the Stone",
+        added: 1.1
     },
     {
         furnitureName: `Mortar 'n' Pestle`,
@@ -55,15 +63,18 @@ const SwordStoneFurniture =[
         style: ["Professional","Quirky","Rustic"],
         furnitureCategory: ["Study"],
         color: [],
-        universe: "The Sword and the Stone"
+        universe: "The Sword and the Stone",
+        added: 1.0
     },
     {
         furnitureName: `Old Armchair`,
         price: 900,
+        tracked: false,
         style: ["Casual","Quirky"],
         furnitureCategory: ["Living Room","Rec Room","Study"],
         color: [],
-        universe: "The Sword and the Stone"
+        universe: "The Sword and the Stone",
+        added: 1.0
     },
     {
         furnitureName: `Open Book`,
@@ -71,7 +82,8 @@ const SwordStoneFurniture =[
         style: ["Professional","Traditional"],
         furnitureCategory: ["Bedroom","Study"],
         color: [],
-        universe: "The Sword and the Stone"
+        universe: "The Sword and the Stone",
+        added: 1.0
     },
     {
         furnitureName: `Orntate Curtain`,
@@ -79,7 +91,8 @@ const SwordStoneFurniture =[
         style: [],
         furnitureCategory: ["Living Room","Study"],
         color: [],
-        universe: "The Sword and the Stone"
+        universe: "The Sword and the Stone",
+        added: 1.0
     },
     {
         furnitureName: `Phial Holder`,
@@ -88,7 +101,8 @@ const SwordStoneFurniture =[
         style: ["Professional","Quirky","Traditional"],
         furnitureCategory: ["Rec Room","Study"],
         color: [],
-        universe: "The Sword and the Stone"
+        universe: "The Sword and the Stone",
+        added: 1.0
     },
     {
         furnitureName: `Potion Cupboard`,
@@ -97,7 +111,8 @@ const SwordStoneFurniture =[
         style: ["Quirky","Rustic","Traditional"],
         furnitureCategory: ["Rec Room","Study"],
         color: [],
-        universe: "The Sword and the Stone"
+        universe: "The Sword and the Stone",
+        added: 1.0
     },
     {
         furnitureName: `Round-Bottomed Flask and Holder`,
@@ -105,7 +120,8 @@ const SwordStoneFurniture =[
         style: ["Professional","Quirky"],
         furnitureCategory: ["Rec Room","Study"],
         color: [],
-        universe: "The Sword and the Stone"
+        universe: "The Sword and the Stone",
+        added: 1.0
     },
     {
         furnitureName: `Small Book Pile`,
@@ -113,7 +129,8 @@ const SwordStoneFurniture =[
         style: ["Professional","Traditional"],
         furnitureCategory: ["Bedroom","Study"],
         color: [],
-        universe: "The Sword and the Stone"
+        universe: "The Sword and the Stone",
+        added: 1.0
     }
 ]
 

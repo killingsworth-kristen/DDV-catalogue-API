@@ -5,11 +5,11 @@ const walleFurniture =[
     // {
     //     furnitureName: ``,
     //     price: ,
-    //     obtainedBy: "Scrooge's Store",
     //     style: [],
     //     furnitureCategory: [""],
     //     color: [],
-    //     universe: "WALL-E"
+    //     universe: "WALL-E",
+    //     added: 1.0
     // },
 ]
 
