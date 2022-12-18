@@ -8,7 +8,8 @@ const frozenFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Living Room","Rec Room","Study","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Anna Statue`,
@@ -17,7 +18,8 @@ const frozenFurniture = [
         style: ["Elegant"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Anna's Picnic Set`,
@@ -25,7 +27,8 @@ const frozenFurniture = [
         style: ["Traditional","Rustic","Casual"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Banner`,
@@ -34,7 +37,8 @@ const frozenFurniture = [
         style: ["Traditional","Elegant"],
         furnitureCategory: ["Dining Room","Living Room","Study","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Birch L-shaped Bench`,
@@ -42,7 +46,8 @@ const frozenFurniture = [
         style: ["Elegant","Rustic"],
         furnitureCategory: ["Rec Room","Bathroom","Seating"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Birch Toiletry Basket`,
@@ -50,7 +55,8 @@ const frozenFurniture = [
         style: ["Elegant","Rustic"],
         furnitureCategory: ["Rec Room","Bathroom","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Birch Tub`,
@@ -58,7 +64,8 @@ const frozenFurniture = [
         style: ["Elegant","Rustic"],
         furnitureCategory: ["Rec Room","Bathroom","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Birch Water Bucket`,
@@ -66,7 +73,8 @@ const frozenFurniture = [
         style: ["Elegant","Rustic"],
         furnitureCategory: ["Rec Room","Bathroom","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Blue Robe Hanger`,
@@ -74,7 +82,8 @@ const frozenFurniture = [
         style: ["Elegant","Rustic"],
         furnitureCategory: ["Rec Room","Bathroom","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Blue Robe Shelf`,
@@ -82,7 +91,8 @@ const frozenFurniture = [
         style: ["Elegant","Rustic"],
         furnitureCategory: ["Rec Room","Bathroom","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Candle`,
@@ -90,7 +100,8 @@ const frozenFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Living Room","Study","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Chandelier`,
@@ -98,7 +109,8 @@ const frozenFurniture = [
         style: ["Traditional","Elegant"],
         furnitureCategory: ["Dining Room","Living Room","Lighting"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Chilled Chair`,
@@ -106,7 +118,8 @@ const frozenFurniture = [
         style: ["Bold","Elegant"],
         furnitureCategory: ["Dining Room","Study","Seating"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Four-Poster Bed`,
@@ -115,7 +128,8 @@ const frozenFurniture = [
         style: ["Traditional","Elegant"],
         furnitureCategory: ["Bedroom","Beds"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Frost Chandelier`,
@@ -123,7 +137,8 @@ const frozenFurniture = [
         style: ["Bold","Elegant"],
         furnitureCategory: ["Bedroom","Dining Room","Living Room","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Frozen Portal`,
@@ -131,7 +146,8 @@ const frozenFurniture = [
         style: ["Bold","Elegant"],
         furnitureCategory: ["Bedroom","Dining Room","Living Room","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Gallant Painting`,
@@ -148,7 +164,8 @@ const frozenFurniture = [
         style: ["Elegant","Rustic"],
         furnitureCategory: ["Bathroom","Rec Room","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Grandfather Clock`,
@@ -156,7 +173,8 @@ const frozenFurniture = [
         style: ["Traditional","Elegant"],
         furnitureCategory: ["Dining Room","Study","Living Room","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Green Window to the Mountains`,
@@ -164,7 +182,8 @@ const frozenFurniture = [
         style: ["Elegant","Rustic"],
         furnitureCategory: ["Rec Room","Bathroom","Windows"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Hot Cocoa Stand`,
@@ -182,7 +201,8 @@ const frozenFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Living Room","Rec Room","Study","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Ice Glazed Couch`,
@@ -190,7 +210,8 @@ const frozenFurniture = [
         style: ["Bold","Elegant"],
         furnitureCategory: ["Bedroom","Living Room","Dining Room","Seating"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Ice Throne`,
@@ -199,7 +220,8 @@ const frozenFurniture = [
         style: ["Bold","Elegant"],
         furnitureCategory: ["Study","Rec Room","Outdoors","Seating"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Icicle Dining Table`,
@@ -207,7 +229,8 @@ const frozenFurniture = [
         style: ["Bold","Elegant"],
         furnitureCategory: ["Dining Room","Tables"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Icy Fountain`,
@@ -215,7 +238,8 @@ const frozenFurniture = [
         style: ["Bold","Elegant"],
         furnitureCategory: ["Rec Room","Bathroom","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Icy Window`,
@@ -223,7 +247,8 @@ const frozenFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Kitchen","Dining Room","Living Room","Windows"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Kristoff's Sled`,
@@ -232,7 +257,8 @@ const frozenFurniture = [
         style: ["Traditional","Rustic"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Library Side Table`,
@@ -240,7 +266,8 @@ const frozenFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Living Room","Study","Tables"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Long Dining Table`,
@@ -248,7 +275,8 @@ const frozenFurniture = [
         style: ["Traditional","Elegant"],
         furnitureCategory: ["Dining Room","Tables"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Miniature Snow Castle`,
@@ -256,7 +284,8 @@ const frozenFurniture = [
         style: ["Elegant","Quirky"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Norwegian Spruce L-shaped Bench`,
@@ -264,7 +293,8 @@ const frozenFurniture = [
         style: ["Elegant","Rustic"],
         furnitureCategory: ["Rec Room","Bathroom","Seating"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Norwegian Spruce Robe Hanger`,
@@ -272,7 +302,8 @@ const frozenFurniture = [
         style: ["Elegant","Rustic"],
         furnitureCategory: ["Rec Room","Bathroom","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Norwegian Spruce Robe Shelf`,
@@ -280,7 +311,8 @@ const frozenFurniture = [
         style: ["Elegant","Rustic"],
         furnitureCategory: ["Rec Room","Bathroom","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Norwegian Spruce Toiletry Basket`,
@@ -288,7 +320,8 @@ const frozenFurniture = [
         style: ["Elegant","Rustic"],
         furnitureCategory: ["Rec Room","Bathroom","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Norwegian Spruce Tub`,
@@ -297,7 +330,8 @@ const frozenFurniture = [
         style: ["Elegant","Rustic"],
         furnitureCategory: ["Rec Room","Bathroom","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Norwegian Spruce Water Bucket`,
@@ -305,7 +339,8 @@ const frozenFurniture = [
         style: ["Elegant","Rustic"],
         furnitureCategory: ["Rec Room","Bathroom","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Norwegian Spruce Window to the Mountains`,
@@ -313,7 +348,8 @@ const frozenFurniture = [
         style: ["Elegant","Rustic"],
         furnitureCategory: ["Rec Room","Bathroom","Windows"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Ornate Dining Chair`,
@@ -321,7 +357,8 @@ const frozenFurniture = [
         style: ["Traditional","Elegant"],
         furnitureCategory: ["Dining Room","Seating"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Painted Double Door`,
@@ -330,7 +367,8 @@ const frozenFurniture = [
         style: ["Traditional","Elegant"],
         furnitureCategory: ["Dining Room","Bedroom","Study","Living Room", "Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Pillar`,
@@ -338,7 +376,8 @@ const frozenFurniture = [
         style: ["Bold","Elegant"],
         furnitureCategory: ["Dining Room","Living Room","Outdoors"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Royal Bookshelf with Bell`,
@@ -346,7 +385,8 @@ const frozenFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Study","Rec Room","Living Room","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Royal Bookshelf with Greenery`,
@@ -354,7 +394,8 @@ const frozenFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Study","Rec Room","Living Room","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Snowflake Bed`,
@@ -362,7 +403,8 @@ const frozenFurniture = [
         style: ["Bold","Elegant"],
         furnitureCategory: ["Bedroom","Beds"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Swing Painting`,
@@ -370,7 +412,8 @@ const frozenFurniture = [
         style: ["Traditional","Elegant"],
         furnitureCategory: ["Dining Room","Living Room","Study","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Triangular Stained Glass Window`,
@@ -378,7 +421,8 @@ const frozenFurniture = [
         style: ["Traditional","Elegant"],
         furnitureCategory: ["Dining Room","Bathroom","Kitchen","Living Room","Windows"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Vintage Phonograph`,
@@ -386,7 +430,8 @@ const frozenFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Living Room","Rec Room","Study","Decor"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Wine-Colored Loveseat`,
@@ -395,7 +440,8 @@ const frozenFurniture = [
         style: ["Traditional","Rustic"],
         furnitureCategory: ["Rec Room","Study","Bedroom","Seating"],
         color: [],
-        universe:"Frozen"
+        universe:"Frozen",
+        added: 1.0
     },
     {
         furnitureName: `Yule Goat`,

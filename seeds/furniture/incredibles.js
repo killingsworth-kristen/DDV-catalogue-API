@@ -7,7 +7,8 @@ const incrediblesFurniture = [
         style: ["Bold","Futuristic","Sporty"],
         furnitureCategory: ["Outdoors"],
         color: [],
-        universe: "The Incredibles"
+        universe: "The Incredibles",
+        added: 1.0
     },
     {
         furnitureName: `Mr. Incredible Retro Suit Display`,
@@ -16,7 +17,8 @@ const incrediblesFurniture = [
         style: ["Professional","Quirky"],
         furnitureCategory: ["Study"],
         color: [],
-        universe: "The Incredibles"
+        universe: "The Incredibles",
+        added: 1.0
     }
 ]
 

@@ -7,7 +7,8 @@ const upFurniture = [
         style: ["Cute","Quirky"],
         furnitureCategory: ["Outdoors"],
         color: [],
-        universe: "Up"
+        universe: "Up",
+        added: 1.0
     },
     {
         furnitureName: `Fredricksen Fireplace`,
@@ -16,7 +17,8 @@ const upFurniture = [
         style: ["Casual","Cute","Rustic"],
         furnitureCategory: ["Dining Room","Living Room","Study"],
         color: [],
-        universe: "Up"
+        universe: "Up",
+        added: 1.0
     }
 ]
 

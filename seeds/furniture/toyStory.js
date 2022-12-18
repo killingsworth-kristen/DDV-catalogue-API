@@ -19,7 +19,8 @@ const toyStoryFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Alien Guessing Booth`,
@@ -27,7 +28,8 @@ const toyStoryFurniture = [
         style: ["Futuristic","Quirky"],
         furnitureCategory: ["Rec Room"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Arched Window into Deep Space`,
@@ -56,7 +58,8 @@ const toyStoryFurniture = [
         style: ["Quirky","Rustic"],
         furnitureCategory: ["Living Room","Rec Room"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Cloudy Island`,
@@ -64,7 +67,8 @@ const toyStoryFurniture = [
         style: ["Cute"],
         furnitureCategory: ["Rec Room","Study"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Cloudy Lamp`,
@@ -72,7 +76,8 @@ const toyStoryFurniture = [
         style: ["Casual","Cute"],
         furnitureCategory: ["Bedroom","Rec Room","Study"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Coffee Cart`,
@@ -80,7 +85,8 @@ const toyStoryFurniture = [
         style: ["Casual","Cute"],
         furnitureCategory: ["Living Room","Study"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Colorful L Couch`,
@@ -89,7 +95,8 @@ const toyStoryFurniture = [
         style: [],
         furnitureCategory: ["Seating"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Entertainment System`,
@@ -98,7 +105,8 @@ const toyStoryFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Geometric Side Table`,
@@ -106,7 +114,8 @@ const toyStoryFurniture = [
         style: ["Modern","Quirky","Sporty"],
         furnitureCategory: ["Bedroom","Living Room"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Graphic Sofa`,
@@ -115,7 +124,8 @@ const toyStoryFurniture = [
         style: [],
         furnitureCategory: ["Seating"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Half-Arch Window Left`,
@@ -124,7 +134,8 @@ const toyStoryFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Half-Arch Window Right`,
@@ -133,7 +144,8 @@ const toyStoryFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Half-Cup Chair`,
@@ -141,7 +153,8 @@ const toyStoryFurniture = [
         style: ["Cute","Quirky"],
         furnitureCategory: ["Living Room","Rec Room"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Hydrangea Bundle`,
@@ -149,7 +162,8 @@ const toyStoryFurniture = [
         style: ["Casual","Cute"],
         furnitureCategory: ["Bedroom","Dining Room","Living Room"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Lively Coffee Table`,
@@ -158,7 +172,8 @@ const toyStoryFurniture = [
         style: [],
         furnitureCategory: ["Tables"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Photo Booth`,
@@ -166,7 +181,8 @@ const toyStoryFurniture = [
         style: ["Modern","Quirky"],
         furnitureCategory: ["Outdoors","Rec Room"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Pixar Ball`,
@@ -184,7 +200,8 @@ const toyStoryFurniture = [
         style: ["Quirky","Traditional"],
         furnitureCategory: ["Kitchen","Outdoors","Rec Room"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Red Drapery`,
@@ -192,7 +209,8 @@ const toyStoryFurniture = [
         style: ["Quirky","Traitional"],
         furnitureCategory: ["Bedroom","Rec Room"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Rocket Painting`,
@@ -200,7 +218,8 @@ const toyStoryFurniture = [
         style: ["Cute","Casual"],
         furnitureCategory: ["Bedroom","Rec Room","Study"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Stage Curtain Left`,
@@ -208,7 +227,8 @@ const toyStoryFurniture = [
         style: ["Quirky","Traditional"],
         furnitureCategory: ["Bedroom","Rec Room"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Stage Curtain Right`,
@@ -216,7 +236,8 @@ const toyStoryFurniture = [
         style: ["Quirky","Traditional"],
         furnitureCategory: ["Bedroom","Rec Room"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Starry Chair`,
@@ -224,7 +245,8 @@ const toyStoryFurniture = [
         style: ["Casual","Cute"],
         furnitureCategory: ["Rec Room","Study"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Starry Stool`,
@@ -232,7 +254,8 @@ const toyStoryFurniture = [
         style: ["Casual","Cute"],
         furnitureCategory: ["Kitchen","Living Room","Study"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Star-Shaped Neon Decoration`,
@@ -240,7 +263,8 @@ const toyStoryFurniture = [
         style: ["Cute","Quirky"],
         furnitureCategory: ["Bedroom","Living Room","Rec Room"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Step-Up Stool`,
@@ -248,7 +272,8 @@ const toyStoryFurniture = [
         style: ["Cute","Quirky"],
         furnitureCategory: ["Outdoors","Rec Room"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Space Ranger Ship`,
@@ -268,7 +293,8 @@ const toyStoryFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Toy Story"
+        universe: "Toy Story",
+        added: 1.0
     },
     {
         furnitureName: `Writer Blocks Column`,

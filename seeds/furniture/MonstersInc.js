@@ -8,7 +8,8 @@ const monstersIncFurniture = [
         style: ["Elegant","Traditional"],
         furnitureCategory: ["Bedroom"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Brick Fireplace`,
@@ -16,7 +17,8 @@ const monstersIncFurniture = [
         style: ["Quirky","Traditional"],
         furnitureCategory: ["Living Room","Study"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Desk Chair`,
@@ -24,7 +26,8 @@ const monstersIncFurniture = [
         style: ["Elegant","Traditional"],
         furnitureCategory: ["Bedroom","Study"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Door`,
@@ -32,7 +35,8 @@ const monstersIncFurniture = [
         style: ["Quirky"],
         furnitureCategory: ["Living Room"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Dorm Window`,
@@ -40,7 +44,8 @@ const monstersIncFurniture = [
         style: ["Elegant","Traditional"],
         furnitureCategory: ["Bedroom","Study"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Freak Lamp`,
@@ -48,7 +53,8 @@ const monstersIncFurniture = [
         style: ["Quirky","Rustic"],
         furnitureCategory: ["Bedroom","Living Room","Study"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Funky Storage`,
@@ -56,7 +62,8 @@ const monstersIncFurniture = [
         style: ["Quirky","Rustic"],
         furnitureCategory: ["Bathroom","Bedroom"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Funky Toilet`,
@@ -64,14 +71,16 @@ const monstersIncFurniture = [
         style: ["Quirky","Rustic"],
         furnitureCategory: ["Bathroom"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Gold Plaque`,
         price: 5440,
         obtainedBy: "Scrooge's Store",
         tagId: [4,11,13,19],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Golden-Eyed Coffee Table`,
@@ -80,7 +89,8 @@ const monstersIncFurniture = [
         furnitureCategory: ["Bedroom","Living Room","Study"],
         color: [],
         tagId: [4,11,13,16,19],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Industrial Tree Lamp`,
@@ -88,7 +98,8 @@ const monstersIncFurniture = [
         style: ["Modern","Quirky"],
         furnitureCategory: ["Bedroom","Living Room","Study"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Leather Couch`,
@@ -96,7 +107,8 @@ const monstersIncFurniture = [
         style: ["Elegant","Traditional"],
         furnitureCategory: ["Bedroom","Living Room","Study"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Little Mikey Plush Toy`,
@@ -104,7 +116,8 @@ const monstersIncFurniture = [
         style: ["Cute","Quirky"],
         furnitureCategory: ["Bedroom","Living Room","Rec Room"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Mike's Short Seat`,
@@ -112,7 +125,8 @@ const monstersIncFurniture = [
         style: ["Casual","Modern","Quirky"],
         furnitureCategory: ["Bedroom","Living Room","Rec Room"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Old Bath`,
@@ -120,7 +134,8 @@ const monstersIncFurniture = [
         style: ["Quirky","Rustic"],
         furnitureCategory: ["Bathroom"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Old Funky Sink`,
@@ -128,7 +143,8 @@ const monstersIncFurniture = [
         style: ["Quirky","Rustic"],
         furnitureCategory: ["Bathroom","Kitchen"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Rectangles Mirror`,
@@ -136,7 +152,8 @@ const monstersIncFurniture = [
         style: ["Quirky","Rustic"],
         furnitureCategory: ["Bathroom","Bedroom","Living Room"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Slithering Rug`,
@@ -144,7 +161,8 @@ const monstersIncFurniture = [
         style: ["Quirky"],
         furnitureCategory: ["Living Room","Rec Room","Study"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Spooky Speaker`,
@@ -152,7 +170,8 @@ const monstersIncFurniture = [
         style: ["Cute","Quirky","Sporty"],
         furnitureCategory: ["Living Room","Rec Room"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Student Desk`,
@@ -160,7 +179,8 @@ const monstersIncFurniture = [
         style: ["Elegant","Traditional"],
         furnitureCategory: ["Bedroom","Study"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Studious Bookshelf`,
@@ -168,7 +188,8 @@ const monstersIncFurniture = [
         style: ["Elegant","Traditional"],
         furnitureCategory: ["Bedroom","Study"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Sulley's Comfort Chair`,
@@ -176,7 +197,8 @@ const monstersIncFurniture = [
         style: ["Quirky"],
         furnitureCategory: ["Living Room","Rec Room","Study"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Two-Headed Desk Lamp`,
@@ -184,7 +206,8 @@ const monstersIncFurniture = [
         style: ["Cute","Quirky"],
         furnitureCategory: ["Bedroom","Living Room","Rec Room","Study"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Venus Trap`,
@@ -192,7 +215,8 @@ const monstersIncFurniture = [
         style: ["Quirky","Rustic"],
         furnitureCategory: ["Living Room","Outdoors"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
     {
         furnitureName: `Vintage Television`,
@@ -200,7 +224,8 @@ const monstersIncFurniture = [
         style: ["Modern","Quirky"],
         furnitureCategory: ["Living Room","Rec Room"],
         color: [],
-        universe: "Monsters Inc"
+        universe: "Monsters Inc",
+        added: 1.0
     },
 ]
 

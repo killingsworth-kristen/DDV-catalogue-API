@@ -6,7 +6,8 @@ const tangledFurniture = [
         style: ["Bold","Rustic"],
         furnitureCategory: ["Bedroom","Living Room","Study"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Bear Armchair`,
@@ -14,7 +15,8 @@ const tangledFurniture = [
         style: ["Bold"],
         furnitureCategory: ["Dining Room","Living Room","Rec Room","Study"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Cozy Couch`,
@@ -22,7 +24,8 @@ const tangledFurniture = [
         style: ["Casual","Cute","Quirky"],
         furnitureCategory: ["Bedroom","Living Room","Rec Room"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Day & Night Paintings`,
@@ -30,7 +33,8 @@ const tangledFurniture = [
         style: ["Casual","Cute","Quirky"],
         furnitureCategory: ["Rec Room","Study"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Easel`,
@@ -38,7 +42,8 @@ const tangledFurniture = [
         style: ["Casual","Cute","Quirky"],
         furnitureCategory: ["Rec Room","Study"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Guitar`,
@@ -46,7 +51,8 @@ const tangledFurniture = [
         style: ["Casual","Cute","Quirky"],
         furnitureCategory: ["Rec Room","Study"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Helmet Lamp`,
@@ -54,7 +60,8 @@ const tangledFurniture = [
         style: ["Bold","Rustic"],
         furnitureCategory: ["Living Room","Rec Room","Study"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Homey Rug`,
@@ -62,7 +69,8 @@ const tangledFurniture = [
         style: ["Bold","Rustic"],
         furnitureCategory: ["Bedroom","Living Room","Study"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Horned Tavern Fireplace`,
@@ -70,7 +78,8 @@ const tangledFurniture = [
         style: ["Bold","Rustic"],
         furnitureCategory: ["Dining Room","Living Room","Rec Room"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Lantern Garland`,
@@ -78,7 +87,8 @@ const tangledFurniture = [
         style: ["Casual","Cute","Quirky"],
         furnitureCategory: ["Bedroom","Rec Room"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Lounge Pillows`,
@@ -86,7 +96,8 @@ const tangledFurniture = [
         style: ["Casual","Cute","Quirky"],
         furnitureCategory: ["Bedroom","Living Room","Rec Room"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Mother Gothel's Standing Mirror`,
@@ -95,9 +106,9 @@ const tangledFurniture = [
         style: ["Elegant","Traditional"],
         furnitureCategory: ["Bathroom","Bedroom"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
-    
     {
         furnitureName: `Painting Table`,
         // needs pricing data
@@ -105,7 +116,8 @@ const tangledFurniture = [
         style: ["Casual","Cutre","Quirky"],
         furnitureCategory: ["Rec Room","Study"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Plain Bed`,
@@ -113,7 +125,8 @@ const tangledFurniture = [
         style: ["Bold","Rustic"],
         furnitureCategory: ["Bedroom"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Provincial Window`,
@@ -121,7 +134,8 @@ const tangledFurniture = [
         style: ["Bold","Rustic"],
         furnitureCategory: ["Bedroom","Kitchen","Living Room"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Pub Sign`,
@@ -129,7 +143,8 @@ const tangledFurniture = [
         style: ["Cute","Quirky","Rustic"],
         furnitureCategory: ["Bathroom","Kitchen","Rec Room"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Rustic Chandelier`,
@@ -137,7 +152,8 @@ const tangledFurniture = [
         style: ["Bold","Rustic"],
         furnitureCategory: ["Dining Room","Kitchen","Living Room"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Simple Stool`,
@@ -145,7 +161,8 @@ const tangledFurniture = [
         style: ["Bold","Rustic"],
         furnitureCategory: ["Dining Room","Living Room","Study"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     },
     {
         furnitureName: `Spray-Painted Window`,
@@ -153,7 +170,8 @@ const tangledFurniture = [
         style: ["Casual","Cute","Quirky"],
         furnitureCategory: ["Rec Room","Study"],
         color: [],
-        universe:"Tangled"
+        universe:"Tangled",
+        added: 1.0
     }
 ]
 

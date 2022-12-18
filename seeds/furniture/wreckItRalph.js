@@ -9,7 +9,8 @@ const wreckItRaplhFurniture = [
         style: ["Professional","Modern","Quirky"],
         furnitureCategory: ["Study","Bathroom","Dining Room","Lighting"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Abstract Neon Sign`,
@@ -18,7 +19,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern","Casual"],
         furnitureCategory: ["Rec Room","Bedroom","Living Room","Decor"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Accent Chair`,
@@ -27,7 +29,8 @@ const wreckItRaplhFurniture = [
         style: ["Professional","Modern","Quirky"],
         furnitureCategory: ["Study","Living Room","Seating"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Air Hockey Table`,
@@ -36,7 +39,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern","Casual"],
         furnitureCategory: ["Rec Room","Decor"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.1
     },
     {
         furnitureName: `Awesome Online Awards`,
@@ -45,7 +49,8 @@ const wreckItRaplhFurniture = [
         style: ["Professional","Modern","Quirky"],
         furnitureCategory: ["Study","Bedroom","Rec Room","Decor"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Bamboo Shoots`,
@@ -54,7 +59,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern"],
         furnitureCategory: ["Living Room","Bathroom","Study","Decor"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Candy Bed`,
@@ -63,7 +69,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern","Cute"],
         furnitureCategory: ["Bedroom","Beds"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Coin-op Game`,
@@ -72,7 +79,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern","Casual"],
         furnitureCategory: ["Rec Room","Decor"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Counter Seat`,
@@ -81,7 +89,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern"],
         furnitureCategory: ["Living Room","Study","Seating"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Curvy Couch`,
@@ -90,7 +99,8 @@ const wreckItRaplhFurniture = [
         style: ["Professional","Modern","Quirky"],
         furnitureCategory: ["Study","Living Room","Seating"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Desktop Computer`,
@@ -99,7 +109,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern","Cute"],
         furnitureCategory: ["Bedroom","Study","Electronics"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Donut Chair`,
@@ -108,7 +119,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern","Cute"],
         furnitureCategory: ["Bedroom","Living Room","Rec Room","Seating"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Drink Cabinet`,
@@ -117,7 +129,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern"],
         furnitureCategory: ["Living Room","Study","Decor"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Exec Desk`,
@@ -126,7 +139,8 @@ const wreckItRaplhFurniture = [
         style: ["Professional","Modern","Quirky"],
         furnitureCategory: ["Study","Tables"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Fancy Desk Chair`,
@@ -135,7 +149,8 @@ const wreckItRaplhFurniture = [
         style: ["Professional","Modern","Quirky"],
         furnitureCategory: ["Study","Dining Room","Seating"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Food Stall Counter`,
@@ -144,7 +159,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern","Casual"],
         furnitureCategory: ["Rec Room","Kitchen","Decor"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Freestanding Fireplace`,
@@ -153,7 +169,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern","Bold"],
         furnitureCategory: ["Living Room","Study","Dining Room","Decor"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Game Machine`,
@@ -162,7 +179,8 @@ const wreckItRaplhFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Gamer Desk`,
@@ -171,7 +189,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern","Cute"],
         furnitureCategory: ["Bedroom","Study","Tables"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Geometric Coffee Table`,
@@ -180,7 +199,8 @@ const wreckItRaplhFurniture = [
         style: ["Professional","Modern","Quirky"],
         furnitureCategory: ["Study","Living Room","Tables"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Glass Shelves`,
@@ -189,7 +209,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern"],
         furnitureCategory: ["Living Room","Study","Decor"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Holographic Bar Stool`,
@@ -198,7 +219,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern","Casual"],
         furnitureCategory: ["Rec Room","Kitchen","Seating"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Indoor Vertical Fountain`,
@@ -207,7 +229,8 @@ const wreckItRaplhFurniture = [
         style: ["Bold","Modern"],
         furnitureCategory: ["Bathroom","Living Room","Study","Decor"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `L-Counter`,
@@ -216,7 +239,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern"],
         furnitureCategory: ["Living Room","Study","Tables"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Modern Wall Sconce`,
@@ -225,7 +249,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern"],
         furnitureCategory: ["Living Room","Study","Dining Room","Lighting"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Nightlight`,
@@ -234,7 +259,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern","Cute"],
         furnitureCategory: ["Bedroom","Lighting"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Octagonal Mirror`,
@@ -243,7 +269,8 @@ const wreckItRaplhFurniture = [
         style: ["Professional","Modern","Quirky"],
         furnitureCategory: ["Study","Bathroom","Bedroom","Decor"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Octagonal Side Table`,
@@ -252,7 +279,8 @@ const wreckItRaplhFurniture = [
         style: ["Prfessional","Modern","Quirky"],
         furnitureCategory: ["Study","Living Room","Bedroom","Tables"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Pink Sweet Tooth Rug`,
@@ -261,7 +289,8 @@ const wreckItRaplhFurniture = [
         style: ["Cute","Casual"],
         furnitureCategory: ["Bathroom","Bedroom","Study","Rugs"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Pixelated Window`,
@@ -270,7 +299,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern"],
         furnitureCategory: ["Living Room","Study","Bedroom","Windows"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Shelving Unit`,
@@ -279,7 +309,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern"],
         furnitureCategory: ["Living Room","Study","Bedroom","Decor"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Sugar Rush Plushie Shelf`,
@@ -288,7 +319,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern","Cute"],
         furnitureCategory: ["Bedroom","Decor","Wall"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Vanellope Portraits`,
@@ -297,7 +329,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern"],
         furnitureCategory: ["Living Room","Study","Dining Room","Decor"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     {
         furnitureName: `Virtual Desktop`,
@@ -306,7 +339,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern","Professional","Quirky"],
         furnitureCategory: ["Study","Bedroom","Decor"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
     // says decor on wiki
     {
@@ -316,7 +350,8 @@ const wreckItRaplhFurniture = [
         style: ["Modern","Cute"],
         furnitureCategory: ["Bedroom","Study","Seating"],
         color: [],
-        universe:"Wreck it Ralph"
+        universe:"Wreck it Ralph",
+        added: 1.0
     },
 ]
 

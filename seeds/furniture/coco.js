@@ -7,7 +7,8 @@ const cocoFurniture = [
         style: ["Cute","Modern"],
         furnitureCategory: ["Outdoors","Rec Room"],
         color: [],
-        universe: "Coco"
+        universe: "Coco",
+        added: 1.0
     },
     {
         furnitureName: `Miguel's Guitar`,
@@ -16,7 +17,8 @@ const cocoFurniture = [
         style: ["Bold","Traditional"],
         furnitureCategory: ["Outdoors","Rec Room","Study"],
         color: [],
-        universe: "Coco"
+        universe: "Coco",
+        added: 1.0
     },
     {
         furnitureName: `Papel Picados`,
@@ -25,7 +27,8 @@ const cocoFurniture = [
         style: ["Cute","Traditional"],
         furnitureCategory: ["Outdoors"],
         color: [],
-        universe: "Coco"
+        universe: "Coco",
+        added: 1.0
     },
 ]
 module.exports=cocoFurniture

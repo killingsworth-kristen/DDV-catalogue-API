@@ -7,7 +7,8 @@ const carsFurniture = [
         style: ["Bold","Cute","Quirky","Sporty"],
         furnitureCategory: "Bedroom",
         color: [],
-        universe: "Cars"
+        universe: "Cars",
+        added: 1.0
     },
     {
         furnitureName: `Piston Cup`,
@@ -16,7 +17,8 @@ const carsFurniture = [
         style: ["Bold","Modern","Professional","Sporty"],
         furnitureCategory: ["Bedroom","Study"],
         color: [],
-        universe: "Cars"
+        universe: "Cars",
+        added: 1.0
     }
 ]
 

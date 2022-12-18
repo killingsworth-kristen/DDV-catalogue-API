@@ -3008,7 +3008,8 @@ const generalFurniture = [
         style: ["Modern","Professional","Elegant"],
         furnitureCategory: ["Kitchen","Tables","Decor"],
         color: [],
-        universe: "General"
+        universe: "General",
+        added: 1.0
     },
     {
         furnitureName: `White Triple-Drawer Counter`,
@@ -3016,7 +3017,8 @@ const generalFurniture = [
         style: ["Modern","Bold"],
         furnitureCategory: ["Kitchen","Tables"],
         color: [],
-        universe: "General"
+        universe: "General",
+        added: 1.0
     },
     {
         furnitureName: `White Triple-Drawer Counter with Black Marble Top`,
@@ -3024,7 +3026,8 @@ const generalFurniture = [
         style: ["Modern","Professional","Elegant"],
         furnitureCategory: ["Kitchen","Bathroom","Tables"],
         color: [],
-        universe: "General"
+        universe: "General",
+        added: 1.0
     },
     {
         furnitureName: `White Triple-Drawer Counter with Gray Marble Top`,
@@ -3032,7 +3035,8 @@ const generalFurniture = [
         style: ["Modern","Professional","Elegant"],
         furnitureCategory: ["Kitchen","Bathroom","Tables"],
         color: [],
-        universe: "General"
+        universe: "General",
+        added: 1.0
     },
     {
         furnitureName: `White Triple-Drawer Counter with White Marble Top`,
@@ -3040,7 +3044,8 @@ const generalFurniture = [
         style: ["Modern","Professional","Elegant"],
         furnitureCategory: ["Kitchen","Bathroom","Tables"],
         color: [],
-        universe: "General"
+        universe: "General",
+        added: 1.0
     },
     {
         furnitureName: `White Wardrobe`,
@@ -3048,7 +3053,8 @@ const generalFurniture = [
         style: ["Casual","Professional"],
         furnitureCategory: ["Bedroom","Storage"],
         color: [],
-        universe: "General"
+        universe: "General",
+        added: 1.0
     },
     {
         furnitureName: `White-Base Black Marble Desk`,
@@ -3056,7 +3062,8 @@ const generalFurniture = [
         style: ["Elegant","Modern"],
         furnitureCategory: ["Rec Room","Study","Tables"],
         color: [],
-        universe: "General"
+        universe: "General",
+        added: 1.0
     },
     {
         furnitureName: `Winter Rug`,
@@ -3073,7 +3080,8 @@ const generalFurniture = [
         style: ["Bold","Rustic"],
         furnitureCategory: ["Dining Room","Living Room","Rec Room","Study","Decor"],
         color: [],
-        universe: "General"
+        universe: "General",
+        added: 1.0
     },
     {
         furnitureName: `Wooden Coffee Table`,
@@ -3081,7 +3089,8 @@ const generalFurniture = [
         style: ["Casual"],
         furnitureCategory: ["Rec Room","Living Room","Tables"],
         color: [],
-        universe: "General"
+        universe: "General",
+        added: 1.0
     },
     {
         furnitureName: `Wooden Desk`,
@@ -3089,7 +3098,8 @@ const generalFurniture = [
         style: ["Casual","Professional"],
         furnitureCategory: ["Rec Room","Study","Tables"],
         color: [],
-        universe: "General"
+        universe: "General",
+        added: 1.0
     },
     {
         furnitureName: `Wooden Side Table`,
@@ -3097,7 +3107,8 @@ const generalFurniture = [
         style: [],
         furnitureCategory: ["Tables"],
         color: [],
-        universe: "General"
+        universe: "General",
+        added: 1.0
     },
     {
         furnitureName: `Wooden Wardrobe`,
@@ -3105,7 +3116,8 @@ const generalFurniture = [
         style: ["Casual","Professional"],
         furnitureCategory: ["Bedroom","Decor"],
         color: [],
-        universe: "General"
+        universe: "General",
+        added: 1.0
     },
     {
         furnitureName: `Yellow Double Bed`,
@@ -3114,6 +3126,7 @@ const generalFurniture = [
         furnitureCategory: ["Bedroom","Beds"],
         color: [],
         universe: "General",
+        added: 1.0
     },
     {
         furnitureName: "Yellow Single Bed",
@@ -3122,6 +3135,7 @@ const generalFurniture = [
         furnitureCategory: ["Bedroom","Beds"],
         color: [],
         universe: "General",
+        added: 1.0
     }
 ]
 

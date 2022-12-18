@@ -7,7 +7,8 @@ const lightyearFurniture = [
         style: ["Bold","Futuristic","Professional"],
         furnitureCategory: ["Rec Room","Study"],
         color: [],
-        universe: "Lightyear"
+        universe: "Lightyear",
+        added: 1.0
     },
     {
         furnitureName: `XL-15 Spaceship Model`,
@@ -16,7 +17,8 @@ const lightyearFurniture = [
         style: ["Bold","Futuristic"],
         furnitureCategory: ["Bedroom","Study"],
         color: [],
-        universe: "Lightyear"
+        universe: "Lightyear",
+        added: 1.0
     }
 ]
 

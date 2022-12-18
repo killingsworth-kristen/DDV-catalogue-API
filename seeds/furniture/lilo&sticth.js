@@ -9,7 +9,8 @@ const liloStitchFurniture = [
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Blue Beach Chair`,
@@ -18,7 +19,8 @@ const liloStitchFurniture = [
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Seating"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Blue Parasol & Red Towel`,
@@ -27,7 +29,8 @@ const liloStitchFurniture = [
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Blue Striped Beach Chair`,
@@ -36,7 +39,8 @@ const liloStitchFurniture = [
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Seating"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `City Model`,
@@ -55,7 +59,8 @@ const liloStitchFurniture = [
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     // {
     //     furnitureName: `Dark Blue Ice Cream Stand`,
@@ -73,7 +78,8 @@ const liloStitchFurniture = [
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Tables"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     // wiki says just decor
     {
@@ -83,7 +89,8 @@ const liloStitchFurniture = [
         style: ["Modern","Casual"],
         furnitureCategory: ["Bathroom","Kitchen","Decor","Appliances"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Gray Ice Cream Stand`,
@@ -92,7 +99,8 @@ const liloStitchFurniture = [
         style: ["Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Green Parasol & Blue Towel`,
@@ -101,7 +109,8 @@ const liloStitchFurniture = [
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Green Striped Beach Chair`,
@@ -110,7 +119,8 @@ const liloStitchFurniture = [
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Seating"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Hula Lamp`,
@@ -119,7 +129,8 @@ const liloStitchFurniture = [
         style: ["Cute","Quirky"],
         furnitureCategory: ["Bedroom","Living Room","Study","Lighting"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Island Coffee Table`,
@@ -128,7 +139,8 @@ const liloStitchFurniture = [
         style: ["Casual","Rustic"],
         furnitureCategory: ["Living Room","Rec Room","Tables"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     // {
     //     furnitureName: `Island Sofa`,
@@ -146,7 +158,8 @@ const liloStitchFurniture = [
         style: ["Casual","Modern"],
         furnitureCategory: ["Bathroom","Kitchen","Bedroom","Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Lifeguard Tower - Red & White Parasol`,
@@ -155,7 +168,8 @@ const liloStitchFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Lifeguard Tower = Yellow & Blue Parasol`,
@@ -164,7 +178,8 @@ const liloStitchFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Light Blue Ice Cream Stand`,
@@ -173,7 +188,8 @@ const liloStitchFurniture = [
         style: ["Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Lightning Strike Wagon`,
@@ -182,7 +198,8 @@ const liloStitchFurniture = [
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Minimalist Surfboards`,
@@ -191,7 +208,8 @@ const liloStitchFurniture = [
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Palm Trees and Blue Hammock`,
@@ -200,7 +218,8 @@ const liloStitchFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Palm Trees and Red Hammock`,
@@ -209,7 +228,8 @@ const liloStitchFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Pink Ice Cream Stand`,
@@ -218,7 +238,8 @@ const liloStitchFurniture = [
         style: ["Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Red Beach Chair`,
@@ -227,7 +248,8 @@ const liloStitchFurniture = [
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Seating"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Red Ice Cream Stand`,
@@ -236,7 +258,8 @@ const liloStitchFurniture = [
         style: ["Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Red Striped Beach Chair`,
@@ -245,7 +268,8 @@ const liloStitchFurniture = [
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Seating"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Stitch's Little Red Ship`,
@@ -264,7 +288,8 @@ const liloStitchFurniture = [
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Two-Headed Torch`,
@@ -273,7 +298,8 @@ const liloStitchFurniture = [
         style: ["Sporty","Quirky"],
         furnitureCategory: ["Outdoors","Lighting"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Ugly Duckling Book`,
@@ -292,7 +318,8 @@ const liloStitchFurniture = [
         style: ["Modern","Casual"],
         furnitureCategory: ["Bathroom","Kitchen","Decor","Appliances"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `White Wood Fruit Stand`,
@@ -301,7 +328,8 @@ const liloStitchFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `White Wood Veggie Stand`,
@@ -310,7 +338,8 @@ const liloStitchFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Wooden Fruit Stand`,
@@ -319,7 +348,8 @@ const liloStitchFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Wooden Picnic Table`,
@@ -328,7 +358,8 @@ const liloStitchFurniture = [
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Tables"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Wooden Veggie Stand`,
@@ -337,7 +368,8 @@ const liloStitchFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
     {
         furnitureName: `Yellow Beach Chair`,
@@ -346,7 +378,8 @@ const liloStitchFurniture = [
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Seating"],
         color: [],
-        universe: "Lilo & Stitch"
+        universe: "Lilo & Stitch",
+        added: 1.0
     },
 ]
 
