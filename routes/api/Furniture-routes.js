@@ -2,10 +2,10 @@ const router = require('express').Router();
 
 const { Furniture } = require('./../../models')
 
-// get all furniture
+// get all furniture/queried furniture
 router.get('/', async (req,res) => {
     try {
-        const allFurniture = await Furniture.find()
+        const allFurniture = await Furniture.find(req.query)
         res.json(allFurniture)
     } catch (err) {
         console.log(err);
@@ -13,6 +13,7 @@ router.get('/', async (req,res) => {
     }
 })
 
+// create new furniture
 router.post('/', async (req,res)=>{
     try {
         const newFurniture = await Furniture.create(req.body)
@@ -23,10 +24,14 @@ router.post('/', async (req,res)=>{
     }
 })
 
+
 // get one furniture item by id
 router.get('/:id', async (req,res) => {
     try {
         const oneFurniture = await Furniture.findOne({_id: req.params.id})
+        if (!oneFurniture) {
+            res.status(404).json({msg: "Furniture Item not found!"})
+        }
         res.json(oneFurniture)
     } catch (err) {
         console.log(err);
@@ -52,12 +57,29 @@ router.put('/:id', async (req,res) => {
             },
             { runValidators: true, new: true }
             )
+            if (!updatedFurniture) {
+                res.status(404).json({msg: "Furniture Item not found!"})
+            }
         res.json(updatedFurniture)
     } catch (err) {
         console.log(err);
         res.status(500).json(err)
     }
+});
+
+router.delete('/:id', async (req,res)=>{
+    try {
+        const deletedFurniture = await Furniture.deleteOne({_id: req.params.id});
+        if (!deletedFurniture) {
+            res.status(404).json({msg: "Furniture item not found!"})
+        }
+        res.json(deletedFurniture)
+    } catch (err) {
+        console.log(err);
+        res.json(err)
+    }
 })
+
 
 
 

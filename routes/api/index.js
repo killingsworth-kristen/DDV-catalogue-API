@@ -8,4 +8,5 @@ router.use('/clothing', clothingRoutes);
 router.use('/crafting', craftingRoutes);
 router.use('/furniture', furnitureRoutes);
 
+
 module.exports = router;
