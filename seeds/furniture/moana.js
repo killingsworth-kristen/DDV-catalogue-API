@@ -8,7 +8,8 @@ const moanaFurniture = [
         style: ["Casual","Elegant","Rustic"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Beadlet Anemones`,
@@ -16,7 +17,8 @@ const moanaFurniture = [
         style: ["Bold","Quirky"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Bioluminescent Palm`,
@@ -24,7 +26,8 @@ const moanaFurniture = [
         style: ["Bold","Quirky"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Canopied Couch`,
@@ -33,7 +36,8 @@ const moanaFurniture = [
         style: ["Casual","Cute"],
         furnitureCategory: ["Outdoors","Seating"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Circular Rocky Pool`,
@@ -41,7 +45,8 @@ const moanaFurniture = [
         style: ["Casual","Elegant","Rustic"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Coconut Beverage`,
@@ -49,7 +54,8 @@ const moanaFurniture = [
         style: ["Casual","Cute"],
         furnitureCategory: ["Kitchen","Outdoors","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Coconut Setting`,
@@ -57,7 +63,8 @@ const moanaFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Dining Room","Kitchen","Outdoors","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Conch Shell`,
@@ -66,7 +73,8 @@ const moanaFurniture = [
         style: ["Elegant","Rustic","Traditional"],
         furnitureCategory: ["Bathroom","Outdoors","Study","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Cooking Fire Pit`,
@@ -75,7 +83,8 @@ const moanaFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Coral, Shells, and Rock Pillar`,
@@ -83,7 +92,8 @@ const moanaFurniture = [
         style: ["Bold","Quirky"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Corkscrew Anemone`,
@@ -91,7 +101,8 @@ const moanaFurniture = [
         style: ["Bold","Quirky"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Engraved Stone Partition`,
@@ -100,7 +111,8 @@ const moanaFurniture = [
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Fan Coral`,
@@ -108,15 +120,8 @@ const moanaFurniture = [
         style: ["Bold","Quirky"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Moana"
-    },
-    {
-        furnitureName: `Floral Tapestry`,
-        price: 2720,
-        style: ["Rustic","Traditional"],
-        furnitureCategory: ["Bedroom","Living Room","Study"],
-        color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Giant Clam`,
@@ -124,7 +129,8 @@ const moanaFurniture = [
         style: ["Bold","Quirky"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Handwoven Palm Basket`,
@@ -132,7 +138,8 @@ const moanaFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Kitchen","Outdoors","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Hanging Wicker Light`,
@@ -140,7 +147,8 @@ const moanaFurniture = [
         style: ["Modern","Rustic"],
         furnitureCategory: ["Dining Room","Kitchen","Living Room","Lighting"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Heat Vent`,
@@ -148,7 +156,8 @@ const moanaFurniture = [
         style: ["Bold","Quirky"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Island Drawings`,
@@ -157,7 +166,8 @@ const moanaFurniture = [
         style: ["Cute","Rustic","Traditional"],
         furnitureCategory: ["Kitchen","Rec Room","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Maui's #1 Fan`,
@@ -166,7 +176,8 @@ const moanaFurniture = [
         style: ["Bold","Traditional"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Medium Fern Coral`,
@@ -174,7 +185,17 @@ const moanaFurniture = [
         style: ["Bold","Quirky"],
         furnitureCategory: ["OUtdoors","Deor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
+    },
+    {
+        furnitureName: `Monster Tapestry`,
+        price: 2720,
+        style: ["Rustic","Traditional"],
+        furnitureCategory: ["Bedroom","Living Room","Study"],
+        color: [],
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Ornamental Palm Fronds`,
@@ -182,7 +203,8 @@ const moanaFurniture = [
         style: ["Elegant","Modern"],
         furnitureCategory: ["Bathroom","Kitchen","Living Room","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Round Side Table`,
@@ -190,7 +212,8 @@ const moanaFurniture = [
         style: ["Casual","Elegant","Rustic"],
         furnitureCategory: ["Living Room","Outdoors","Tables"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Sea Snail Shell`,
@@ -198,7 +221,8 @@ const moanaFurniture = [
         style: ["Bold","Quirky"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Small Fern Coral`,
@@ -206,7 +230,8 @@ const moanaFurniture = [
         style: ["Bold","Quirky"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Stone Sink`,
@@ -214,7 +239,8 @@ const moanaFurniture = [
         style: ["Elegant","Modern","Rustic"],
         furnitureCategory: ["Kitchen","Tables"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.1
     },
     {
         furnitureName: `Tall Torch`,
@@ -222,7 +248,17 @@ const moanaFurniture = [
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Outdoors","Lighting"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
+    },
+    {
+        furnitureName: `Te Kā Tapestry`,
+        price: 2720,
+        style: ["Rustic","Traditional"],
+        furnitureCategory: ["Bedroom","Living Room","Study","Decor"],
+        color: [],
+        universe:"Moana",
+        added: 1.2
     },
     {
         furnitureName: `Three-Panel Windows`,
@@ -230,7 +266,8 @@ const moanaFurniture = [
         style: ["Casual","Elegant","Modern"],
         furnitureCategory: ["Dining Room","Kitchen","Living Room","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Tropical Fruit Bowl`,
@@ -239,15 +276,17 @@ const moanaFurniture = [
         style: ["Casual","Elegant","Modern"],
         furnitureCategory: ["Kitchen","Decor"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
-        furnitureName: `Voyager Tapestry`,
-        price: 2720,
-        style: ["Rustic","Traditional"],
-        furnitureCategory: ["Bedroom","Living Room","Study","Decor"],
+        furnitureName: `Tropical Lounge Chair`,
+        price: 2400,
+        style: ["Casual","Cute"],
+        furnitureCategory: ["Outdoors","Seating"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
     {
         furnitureName: `Wicker Bar Stool`,
@@ -255,7 +294,8 @@ const moanaFurniture = [
         style: ["Elegant","Modern","Rustic"],
         furnitureCategory: ["Kitchen","Outdoors","Seating"],
         color: [],
-        universe:"Moana"
+        universe:"Moana",
+        added: 1.0
     },
 
 ]
