@@ -3,20 +3,23 @@
 
 const lionKingFurniture = [
     // no information yet
-    // {
-    //     furnitureName: `Branch Partition`,
-    //     price: ,
-    //     obtainedBy: "Scrooge's Store",
-    //     tagId: [],
-    //     universe: "Lion King"
-    // },
+    {
+        furnitureName: `Branch Partition`,
+        // price: ,
+        style: ["Rustic","Traditional"],
+        furnitureCategory: ["Bedroom","Dining Room","Study","Decor"],
+        color: [],
+        universe: "Lion King",
+        added: 1.0
+    },
     {
         furnitureName: `Carved Wood Bed`,
         price: 23000,
         style: ["Bold","Elegant","Rustic"],
         furnitureCategory: ["Bedroom"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Carved Wood Bench`,
@@ -24,7 +27,8 @@ const lionKingFurniture = [
         style: ["Bold","Rustic","Traditional"],
         furnitureCategory: ["Dining Room","Outdoors","Rec Room"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Carved Wood Table`,
@@ -32,7 +36,8 @@ const lionKingFurniture = [
         style: ["Bold","Rustic","Traditional"],
         furnitureCategory: ["Dining Room","Outdoors"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Carved Wooden Side Table`,
@@ -40,7 +45,8 @@ const lionKingFurniture = [
         style: ["Bold","Rustic","Traditional"],
         furnitureCategory: ["Dining Room","Study"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Carved Wooden Sofa`,
@@ -48,7 +54,8 @@ const lionKingFurniture = [
         style: ["Bold","Rustic","Traditional"],
         furnitureCategory: ["Bedroom","Living Room"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Clay Vase`,
@@ -56,7 +63,17 @@ const lionKingFurniture = [
         style: ["Bold","Rustic","Traditional"],
         furnitureCategory: ["Decor","Dining Room","Study"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
+    },
+    {
+        furnitureName: `Cub-Emblazoned Dresser`,
+        price: 6400,
+        style: ["Bold","Elegant","Rustic"],
+        furnitureCategory: ["Bedroom","Living Room"],
+        color: [],
+        universe: "Lion King",
+        added: 1.2
     },
     {
         furnitureName: `Fallen Log Perch`,
@@ -64,7 +81,8 @@ const lionKingFurniture = [
         style: ["Rustic"],
         furnitureCategory: ["Outdoors"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Floral Mirror`,
@@ -72,7 +90,8 @@ const lionKingFurniture = [
         style: ["Bold","Elegant","Rustic"],
         furnitureCategory: ["Bathroom","Bedroom"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Giraffe Lamp`,
@@ -80,7 +99,8 @@ const lionKingFurniture = [
         style: ["Bold","Elegant","Rustic"],
         furnitureCategory: ["Bedroom","Living Room"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Leaf Pile Rug`,
@@ -88,7 +108,8 @@ const lionKingFurniture = [
         style: ["Rustic"],
         furnitureCategory: ["Outdoors"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Lion Wall Sculpture`,
@@ -97,7 +118,8 @@ const lionKingFurniture = [
         style: ["Bold","Rustic","Traditional"],
         furnitureCategory: ["Dining Room","Decor"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.1
     },
     {
         furnitureName: `Nightstand`,
@@ -105,7 +127,8 @@ const lionKingFurniture = [
         style: ["Bold","Elegant","Rustic"],
         furnitureCategory: ["Bedroom","Living Room"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Paw Print Rock Slab`,
@@ -114,7 +137,8 @@ const lionKingFurniture = [
         style: ["Bold","Quirky","Rustic"],
         furnitureCategory: ["Bedroom","Living Room","Outdoors","Rec Room"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.1
     },
     {
         furnitureName: `Rafiki's Bowl`,
@@ -122,7 +146,8 @@ const lionKingFurniture = [
         style: ["Rustic"],
         furnitureCategory: ["Bathroom","Kitchen","Outdoors"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Scar's Lounging Rock`,
@@ -130,15 +155,8 @@ const lionKingFurniture = [
         style: ["Rustic"],
         furnitureCategory: ["Outdoors"],
         color: [],
-        universe: "Lion King"
-    },
-    {
-        furnitureName: `Sun-Emblazoned Dresser`,
-        price: 6400,
-        style: ["Bold","Elegant","Rustic"],
-        furnitureCategory: ["Bedroom","Living Room"],
-        color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Trunk Column`,
@@ -146,7 +164,8 @@ const lionKingFurniture = [
         style: ["Bold","Elegant","Rustic"],
         furnitureCategory: ["Bedroom","Living Room"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Vine Wall`,
@@ -155,17 +174,19 @@ const lionKingFurniture = [
         style: ["Rustic"],
         furnitureCategory: ["Outdoor"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Volcanic Stove`,
         // unlikely this is correct
-        // price: 1,
+        price: 1,
         obtainedBy: "The Making of a Monarch (Scar Level 10)",
         style: ["Bold","Rustic"],
         furnitureCategory: ["Outdoors"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.1
     },
     {
         furnitureName: `Waterfall`,
@@ -173,7 +194,8 @@ const lionKingFurniture = [
         style: ["Rustic"],
         furnitureCategory: ["Outdoors"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Watering Hole`,
@@ -181,7 +203,8 @@ const lionKingFurniture = [
         style: ["Rustic"],
         furnitureCategory: ["Outdoors"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.0
     },
     {
         furnitureName: `Wildebeest Remains`,
@@ -190,7 +213,8 @@ const lionKingFurniture = [
         style: ["Bold","Rustic"],
         furnitureCategory: ["Outdoors"],
         color: [],
-        universe: "Lion King"
+        universe: "Lion King",
+        added: 1.1
     }
 ]
 
