@@ -151,7 +151,8 @@ const cinderllaFurniture = [
         furnitureCategory: ["Living Room","Study","Tables"],
         color: [],
         universe: "Cinderella",
-        added: 1.1
+        added: 1.0,
+        updated: 1.1
     },
     {
         furnitureName: `Mice Vanity`,

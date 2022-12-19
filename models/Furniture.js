@@ -38,8 +38,12 @@ const furnitureSchema = new Schema({
     },
     added: {
       type: Number,
-      required: false,
+      required: true,
       default: 1.0
+    },
+    updated: {
+      type: Number,
+      required: false
     }
   },
   {

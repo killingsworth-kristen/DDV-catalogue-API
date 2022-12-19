@@ -164,7 +164,8 @@ const littleMermaidFurniture = [
         furnitureCategory: ["Living Room","Bedroom","Tables"],
         color: [],
         universe:"The Little Mermaid",
-        added: 1.1
+        added: 1.0,
+        updated: 1.1
     },
     {
         furnitureName: `Ornamental Kelp`,
@@ -205,7 +206,6 @@ const littleMermaidFurniture = [
     },
     {
         furnitureName: `Prince Eric Statue`,
-        // price: 1,
         obtainedby: "The Missing Prince (Ariel Level 3)",
         tracked: false,
         style: ["Elegant","Traditional","Professional"],
@@ -266,7 +266,8 @@ const littleMermaidFurniture = [
         furnitureCategory: ["Bedroom","Beds"],
         color: [],
         universe:"The Little Mermaid",
-        added: 1.2
+        added: 1.0,
+        updated: 1.2
     },
     {
         furnitureName: `Shell Bathmat`,
@@ -293,7 +294,8 @@ const littleMermaidFurniture = [
         furnitureCategory: ["Seating"],
         color: [],
         universe:"The Little Mermaid",
-        added: 1.2
+        added: 1.0,
+        updated: 1.2
     },
     {
         furnitureName: `Starfish Coffee Table`,

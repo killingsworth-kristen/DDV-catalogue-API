@@ -36,7 +36,8 @@ const walleFurniture =[
         furnitureCategory: ["Kitchen","Rec Room","Outdoors","Seating"],
         color: [],
         universe: "WALL-E",
-        added: 1.1
+        added: 1.0,
+        updated: 1.1
     },
     {
         furnitureName: `Caution Cone`,
@@ -309,7 +310,8 @@ const walleFurniture =[
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
         universe: "WALL-E",
-        added: 1.1
+        added: 1.0,
+        updated: 1.1
     }
 ]
 

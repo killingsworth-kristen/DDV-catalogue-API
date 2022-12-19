@@ -73,7 +73,8 @@ const lionKingFurniture = [
         furnitureCategory: ["Bedroom","Living Room"],
         color: [],
         universe: "Lion King",
-        added: 1.2
+        added: 1.0,
+        updated: 1.2
     },
     {
         furnitureName: `Fallen Log Perch`,

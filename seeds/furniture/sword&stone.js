@@ -57,7 +57,8 @@ const SwordStoneFurniture =[
         furnitureCategory: ["Bedroom","Study"],
         color: [],
         universe: "The Sword and the Stone",
-        added: 1.1
+        added: 1.0,
+        update: 1.1
     },
     {
         furnitureName: `Mortar 'n' Pestle`,

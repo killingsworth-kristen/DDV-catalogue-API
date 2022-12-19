@@ -100,7 +100,8 @@ const ratatouilleFurniture = [
         furnitureCategory: ["Tables"],
         color: [],
         universe: "Ratatouille",
-        added: 1.1
+        added: 1.0,
+        updated: 1.1
     },
     {
         furnitureName: `Minimalistic Ceiling Lights`,
@@ -168,7 +169,6 @@ const ratatouilleFurniture = [
         added: 1.0
     },
     {
-        // not tracked in collection
         furnitureName: `Restaurant Furniture Kit`,
         price: 2000,
         obtainedBy: "A Restaurant Makeover",
@@ -241,7 +241,8 @@ const ratatouilleFurniture = [
         furnitureCategory: ["Bathroom","Kitchen","Decor"],
         color: [],
         universe: "Ratatouille",
-        added: 1.1
+        added: 1.0,
+        updated: 1.1
     },
     {
         furnitureName: `Small Round Dining Table`,
@@ -268,7 +269,8 @@ const ratatouilleFurniture = [
         furnitureCategory: ["Bathroom","Kitchen","Tables"],
         color: [],
         universe: "Ratatouille",
-        added: 1.1
+        added: 1.0,
+        updated: 1.1
     },
     {
         furnitureName: `Tiled-Top Counter`,
@@ -277,7 +279,8 @@ const ratatouilleFurniture = [
         furnitureCategory: ["Bathroom","Kitchen","Tables"],
         color: [],
         universe: "Ratatouille",
-        added: 1.1
+        added: 1.0,
+        updated: 1.1
     },
     {
         furnitureName: `Tiled-Top Cubby Counter`,
@@ -286,7 +289,8 @@ const ratatouilleFurniture = [
         furnitureCategory: ["Bathroom","Kitchen","Tables"],
         color: [],
         universe: "Ratatouille",
-        added: 1.1
+        added: 1.0,
+        updated: 1.1
     },
     {
         furnitureName: `Window to Paris`,
