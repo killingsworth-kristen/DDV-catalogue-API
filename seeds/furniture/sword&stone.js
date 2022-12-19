@@ -1,9 +1,11 @@
+const fs = require('fs')
 
 const SwordStoneFurniture =[
     {
         furnitureName: `Bag of Tricks`,
         price: 3200,
         obtainedBy: "Merlin Friendship Level 2",
+        image: fs.readFileSync('./assets/Bag_of_Tricks.png'),
         style: ["Quirky","Traditional"],
         furnitureCategory: ["Study"],
         color: [],

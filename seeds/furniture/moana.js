@@ -171,7 +171,7 @@ const moanaFurniture = [
     },
     {
         furnitureName: `Maui's #1 Fan`,
-        price: 1,
+        // price: 1,
         obtainedBy: "The Heart of Dreamlight Valley (Maui Level 10)",
         style: ["Bold","Traditional"],
         furnitureCategory: ["Outdoors","Decor"],

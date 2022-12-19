@@ -14,6 +14,7 @@ const frozenFurniture = [
     {
         furnitureName: `Anna Statue`,
         // price: 1,
+        obtainedBy: "Frozen Memories (Kristoff Level 3)",
         tracked: false,
         style: ["Elegant"],
         furnitureCategory: ["Outdoors","Decor"],

@@ -20,6 +20,9 @@ const furnitureSchema = new Schema({
       required: true,
       default: true
     },
+    image: {
+      type: Buffer
+    },
     style: [{
       type: String
     }],

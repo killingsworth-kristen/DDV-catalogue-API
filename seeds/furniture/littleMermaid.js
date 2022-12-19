@@ -205,7 +205,8 @@ const littleMermaidFurniture = [
     },
     {
         furnitureName: `Prince Eric Statue`,
-        price: 1,
+        // price: 1,
+        obtainedby: "The Missing Prince (Ariel Level 3)",
         tracked: false,
         style: ["Elegant","Traditional","Professional"],
         furnitureCategory: ["Outdoors","Decor"],

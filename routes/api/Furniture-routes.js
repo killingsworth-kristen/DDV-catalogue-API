@@ -6,6 +6,7 @@ const { Furniture } = require('./../../models')
 router.get('/', async (req,res) => {
     try {
         const allFurniture = await Furniture.find(req.query)
+        res.set('Access-Control-Allow-Origin', '*');
         res.json(allFurniture)
     } catch (err) {
         console.log(err);
@@ -17,6 +18,7 @@ router.get('/', async (req,res) => {
 router.post('/', async (req,res)=>{
     try {
         const newFurniture = await Furniture.create(req.body)
+        res.set('Access-Control-Allow-Origin', '*');
         res.json(newFurniture)
     } catch (err) {
         console.log(err);
@@ -32,6 +34,7 @@ router.get('/:id', async (req,res) => {
         if (!oneFurniture) {
             res.status(404).json({msg: "Furniture Item not found!"})
         }
+        res.set('Access-Control-Allow-Origin', '*');
         res.json(oneFurniture)
     } catch (err) {
         console.log(err);
@@ -60,6 +63,7 @@ router.put('/:id', async (req,res) => {
             if (!updatedFurniture) {
                 res.status(404).json({msg: "Furniture Item not found!"})
             }
+        res.set('Access-Control-Allow-Origin', '*');
         res.json(updatedFurniture)
     } catch (err) {
         console.log(err);
@@ -73,6 +77,7 @@ router.delete('/:id', async (req,res)=>{
         if (!deletedFurniture) {
             res.status(404).json({msg: "Furniture item not found!"})
         }
+        res.set('Access-Control-Allow-Origin', '*');
         res.json(deletedFurniture)
     } catch (err) {
         console.log(err);
