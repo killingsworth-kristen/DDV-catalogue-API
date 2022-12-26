@@ -7,7 +7,7 @@ const MickeyFurniture = require('./mickey&friends');
 FurnitureData.push(MickeyFurniture);
 
 // The Sword in the Stone furniture
-const SwordStoneFurniture = require(`./sword&stone`);
+const SwordStoneFurniture = require(`./swordInTheStone`);
 FurnitureData.push(SwordStoneFurniture);
 
 // WALL-E
@@ -95,8 +95,8 @@ const snowWhiteFurniture = require(`./snowWhite`);
 FurnitureData.push(snowWhiteFurniture);
 
 // General
-const generalFurniture = require(`./general`)
-FurnitureData.push(generalFurniture)
+// const generalFurniture = require(`./general`)
+// FurnitureData.push(generalFurniture)
 
 const NewFurnitureData = Array.prototype.concat.apply([], FurnitureData);
 

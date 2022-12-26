@@ -1,6 +1,17 @@
 
 // 41 pieces of furniture
 
+    // {
+    //     furnitureName: ``,
+    //     price: ,
+    //     image: "",
+    //     style: [],
+    //     furnitureCategory: [""],
+    //     color: [],
+    //     universe: "Beauty & the Beast",
+    //     added: 1.3
+    // },
+
 const beatuyBeastFurniture = [
     {
         furnitureName: `Black and Gold Angelic Harp`,
@@ -443,17 +454,6 @@ const beatuyBeastFurniture = [
         universe: "Beauty & the Beast",
         added: 1.0
     },
-    // {
-    //     furnitureName: ``,
-    //     price: ,
-    //     image: "",
-    //     style: [],
-    //     furnitureCategory: [""],
-    //     color: [],
-    //     universe: "Beauty & the Beast",
-    //     added: 1.3
-    // },
-
 ]
 
 module.exports=beatuyBeastFurniture

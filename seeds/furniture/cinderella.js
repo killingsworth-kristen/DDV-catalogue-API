@@ -1,10 +1,18 @@
 
 // 36 pieces of furniture
+    // {
+    //     furnitureName: ``,
+    //     price: ,
+    //     image: "",
+    //     furnitureCategory: [""],
+    //     color: [],
+    //     universe: "Cinderella",
+    //     added: 1.3
+    // },
 
 const cinderllaFurniture = [
     {
         furnitureName: `Azure and Gold Arched Window`,
-        // price: ,
         image: "https://dreamlightvalleywiki.com/images/thumb/d/d1/Azure_and_Gold_Arched_Window.png/180px-Azure_and_Gold_Arched_Window.png",
         style: [],
         obtainedby: "Founder's Pack: Ultimate Edition",
@@ -390,15 +398,6 @@ const cinderllaFurniture = [
         universe: "Cinderella",
         added: 1.0
     },
-    // {
-    //     furnitureName: ``,
-    //     price: ,
-    //     image: "",
-    //     furnitureCategory: [""],
-    //     color: [],
-    //     universe: "Cinderella",
-    //     added: 1.3
-    // },
 ]
 
 module.exports=cinderllaFurniture
