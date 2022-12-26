@@ -5,7 +5,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Amp`,
         price: 2880,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/f8/Amp.png/142px-Amp.png",
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
@@ -15,7 +15,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Blue Beach Chair`,
         price: 900,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/6e/Blue_Beach_Chair.png/131px-Blue_Beach_Chair.png",
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Seating"],
         color: [],
@@ -25,7 +25,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Blue Parasol & Red Towel`,
         price: 4000,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/3/36/Blue_Parasol_%26_Red_Towel.png",
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
@@ -35,7 +35,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Blue Striped Beach Chair`,
         price: 900,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/d9/Blue_Striped_Beach_Chair.png/131px-Blue_Striped_Beach_Chair.png",
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Seating"],
         color: [],
@@ -45,6 +45,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `City Model`,
         // price: ,
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/b4/City_Model.png/180px-City_Model.png",
         obtainedBy: "Stitch Friendship Level 8",
         style: [],
         furnitureCategory: ["Decor"],
@@ -55,26 +56,26 @@ const liloStitchFurniture = [
     {
         furnitureName: `Colorful Surfboards`,
         price: 3200,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/62/Colorful_Surfboards.png/124px-Colorful_Surfboards.png",
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
         universe: "Lilo & Stitch",
         added: 1.0
     },
-    // {
-    //     furnitureName: `Dark Blue Ice Cream Stand`,
+    {
+        furnitureName: `Dark Blue Ice Cream Stand`,
     // price: 480,
-    // obtainedBy: "Scrooge's Store",
-    // style: ["Sporty"],
-    // furnitureCategory: ["Outdoors","Decor"],
-    // color: [],
-    // universe: "Lilo & Stitch"
-    // },
+    image: "https://dreamlightvalleywiki.com/images/thumb/1/1d/Dark_Blue_Ice_Cream_Stand.png/123px-Dark_Blue_Ice_Cream_Stand.png",
+    style: ["Sporty"],
+    furnitureCategory: ["Outdoors","Decor"],
+    color: [],
+    universe: "Lilo & Stitch"
+    },
     {
         furnitureName: `Dark Wood Picnic Table`,
         price: 1650,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/ae/Dark_Wood_Picnic_Table.png/180px-Dark_Wood_Picnic_Table.png",
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Tables"],
         color: [],
@@ -85,7 +86,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Dryer`,
         price: 1380,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/fc/Dryer.png/152px-Dryer.png",
         style: ["Modern","Casual"],
         furnitureCategory: ["Bathroom","Kitchen","Decor","Appliances"],
         color: [],
@@ -95,7 +96,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Gray Ice Cream Stand`,
         price: 480,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/19/Gray_Ice_Cream_Stand.png/123px-Gray_Ice_Cream_Stand.png",
         style: ["Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
@@ -105,7 +106,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Green Parasol & Blue Towel`,
         price: 4000,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/d/d3/Green_Parasol_%26_Blue_Towel.png",
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
@@ -115,7 +116,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Green Striped Beach Chair`,
         price: 900,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/57/Green_Striped_Beach_Chair.png/131px-Green_Striped_Beach_Chair.png",
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Seating"],
         color: [],
@@ -125,7 +126,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Hula Lamp`,
         price: 2040,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/3/31/Hula_Lamp.png/93px-Hula_Lamp.png",
         style: ["Cute","Quirky"],
         furnitureCategory: ["Bedroom","Living Room","Study","Lighting"],
         color: [],
@@ -135,26 +136,27 @@ const liloStitchFurniture = [
     {
         furnitureName: `Island Coffee Table`,
         price: 1320,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/ff/Island_Coffee_Table.png/180px-Island_Coffee_Table.png",
         style: ["Casual","Rustic"],
         furnitureCategory: ["Living Room","Rec Room","Tables"],
         color: [],
         universe: "Lilo & Stitch",
         added: 1.0
     },
-    // {
-    //     furnitureName: `Island Sofa`,
-    //     price: ,
-    //     obtainedBy: "Scrooge's Store",
-    //     style: [],
-    //     furnitureCategory: [""],
-    //     color: [],
-    //     universe: "Lilo & Stitch"
-    // },
+    {
+        furnitureName: `Island Sofa`,
+        // price: ,
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/64/Island_Sofa.png/180px-Island_Sofa.png",
+        style: [],
+        furnitureCategory: ["Seating"],
+        color: [],
+        universe: "Lilo & Stitch",
+        added: 1.0
+    },
     {
         furnitureName: `Laundry Basket`,
         price: 480,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/2/24/Laundry_Basket.png/180px-Laundry_Basket.png",
         style: ["Casual","Modern"],
         furnitureCategory: ["Bathroom","Kitchen","Bedroom","Decor"],
         color: [],
@@ -164,6 +166,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Lifeguard Tower - Red & White Parasol`,
         // price: ,
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/d9/Lifeguard_Tower_-_Red_%26_White_Parasol.png/79px-Lifeguard_Tower_-_Red_%26_White_Parasol.png",
         obtainedBy: "Furniture Pouch",
         style: [],
         furnitureCategory: ["Decor"],
@@ -174,6 +177,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Lifeguard Tower = Yellow & Blue Parasol`,
         // price: ,
+        image: "https://dreamlightvalleywiki.com/images/thumb/4/47/Lifeguard_Tower_-_Yellow_%26_Blue_Parasol.png/79px-Lifeguard_Tower_-_Yellow_%26_Blue_Parasol.png",
         obtainedBy: "Furniture Pouch",
         style: [],
         furnitureCategory: ["Decor"],
@@ -184,7 +188,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Light Blue Ice Cream Stand`,
         price: 6400,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/92/Light_Blue_Ice_Cream_Stand.png/123px-Light_Blue_Ice_Cream_Stand.png",
         style: ["Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
@@ -194,7 +198,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Lightning Strike Wagon`,
         price: 1320,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/51/Lightning_Strike_Wagon.png/180px-Lightning_Strike_Wagon.png",
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
@@ -204,7 +208,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Minimalist Surfboards`,
         price: 3200,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/d3/Minimalist_Surfboards.png/124px-Minimalist_Surfboards.png",
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
@@ -214,6 +218,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Palm Trees and Blue Hammock`,
         // price: ,
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/5a/Palm_Trees_and_Blue_Hammock.png/180px-Palm_Trees_and_Blue_Hammock.png",
         obtainedBy: "Furniture Pouch",
         style: [],
         furnitureCategory: ["Decor"],
@@ -224,6 +229,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Palm Trees and Red Hammock`,
         // price: ,
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/09/Palm_Trees_and_Red_Hammock.png/180px-Palm_Trees_and_Red_Hammock.png",
         obtainedBy: "Furniture Pouch",
         style: [],
         furnitureCategory: ["Decor"],
@@ -234,7 +240,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Pink Ice Cream Stand`,
         price: 480,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/e0/Pink_Ice_Cream_Stand.png/123px-Pink_Ice_Cream_Stand.png",
         style: ["Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
@@ -244,7 +250,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Red Beach Chair`,
         price: 900,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/06/Red_Beach_Chair.png/131px-Red_Beach_Chair.png",
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Seating"],
         color: [],
@@ -254,7 +260,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Red Ice Cream Stand`,
         price: 6400,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/3/35/Red_Ice_Cream_Stand.png/123px-Red_Ice_Cream_Stand.png",
         style: ["Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
@@ -264,7 +270,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Red Striped Beach Chair`,
         price: 900,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/f9/Red_Striped_Beach_Chair.png/131px-Red_Striped_Beach_Chair.png",
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Seating"],
         color: [],
@@ -274,6 +280,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Stitch's Little Red Ship`,
         // price: ,
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/a7/Stitch%27s_Little_Red_Ship.png/180px-Stitch%27s_Little_Red_Ship.png",
         obtainedBy: "Stitch Friendship Level 10 Quest",
         style: [],
         furnitureCategory: ["Decor"],
@@ -284,7 +291,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Sunset Parasol & Green Towel`,
         price: 4000,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/1/1e/Sunset_Parasol_%26_Green_Towel.png",
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
@@ -294,7 +301,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Two-Headed Torch`,
         price: 765,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/ec/Two-Headed_Torch.png/70px-Two-Headed_Torch.png",
         style: ["Sporty","Quirky"],
         furnitureCategory: ["Outdoors","Lighting"],
         color: [],
@@ -304,6 +311,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Ugly Duckling Book`,
         // price: ,
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/95/Ugly_Duckling_Book.png/180px-Ugly_Duckling_Book.png",
         obtainedBy: "Stitch Friendship Level 2",
         style: [],
         furnitureCategory: ["Decor"],
@@ -314,7 +322,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Washer`,
         price: 1380,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/b5/Washer.png/151px-Washer.png",
         style: ["Modern","Casual"],
         furnitureCategory: ["Bathroom","Kitchen","Decor","Appliances"],
         color: [],
@@ -324,6 +332,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `White Wood Fruit Stand`,
         // price: ,
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/0e/White_Wood_Fruit_Stand.png/180px-White_Wood_Fruit_Stand.png",
         obtainedBy: "Furniture Pouch",
         style: [],
         furnitureCategory: ["Decor"],
@@ -334,6 +343,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `White Wood Veggie Stand`,
         // price: ,
+        image: "https://dreamlightvalleywiki.com/images/thumb/8/88/White_Wood_Veggie_Stand.png/180px-White_Wood_Veggie_Stand.png",
         obtainedBy: "Furniture Pouch",
         style: [],
         furnitureCategory: ["Decor"],
@@ -344,6 +354,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Wooden Fruit Stand`,
         // price: ,
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/55/Wooden_Fruit_Stand.png/180px-Wooden_Fruit_Stand.png",
         obtainedBy: "Furniture Pouch",
         style: [],
         furnitureCategory: ["Decor"],
@@ -354,7 +365,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Wooden Picnic Table`,
         price: 1650,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/e9/Wooden_Picnic_Table.png/180px-Wooden_Picnic_Table.png",
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Tables"],
         color: [],
@@ -364,6 +375,7 @@ const liloStitchFurniture = [
     {
         furnitureName: `Wooden Veggie Stand`,
         // price: ,
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/0a/Wooden_Veggie_Stand.png/180px-Wooden_Veggie_Stand.png",
         obtainedBy: "Furniture Pouch",
         style: [],
         furnitureCategory: ["Decor"],
@@ -374,13 +386,23 @@ const liloStitchFurniture = [
     {
         furnitureName: `Yellow Beach Chair`,
         price: 900,
-        obtainedBy: "Scrooge's Store",
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/7a/Yellow_Beach_Chair.png/180px-Yellow_Beach_Chair.png",
         style: ["Quirky","Sporty"],
         furnitureCategory: ["Outdoors","Seating"],
         color: [],
         universe: "Lilo & Stitch",
         added: 1.0
     },
+    // {
+    //     furnitureName: ``,
+    //     price: ,
+    //     image: "",
+    //     style: [],
+    //     furnitureCategory: [""],
+    //     color: [],
+    //     universe: "Lilo & Stitch",
+    //     added: 1.3
+    // },
 ]
 
 module.exports=liloStitchFurniture
