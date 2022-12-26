@@ -124,6 +124,7 @@ const ratatouilleFurniture = [
     {
         furnitureName: `Oval Window`,
         price: 480,
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/af/Oval_Window.png/120px-Oval_Window.png",
         style: ["Rustic","Elegant"],
         furnitureCategory: ["Study","Dining Room","Windows"],
         color: [],

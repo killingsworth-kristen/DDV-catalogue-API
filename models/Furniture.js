@@ -21,7 +21,7 @@ const furnitureSchema = new Schema({
       default: true
     },
     image: {
-      type: Buffer
+      type: String
     },
     style: [{
       type: String

@@ -1,15 +1,854 @@
 
-// 72 pieces of furniture
+// 79 pieces of furniture
 
 const MickeyFurniture = [
+    {
+        furnitureName: `"An Apple a Day" Bowl`,
+        price: 360,
+        image: "https://dreamlightvalleywiki.com/images/d/d2/%22An_Apple_a_Day%22_Bowl.png",
+        style: ["Casual","Rustic"],
+        furnitureCategory: ["Kitchen","Living Room","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Basic Dresser`,
+        price: 1320,
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/b9/Basic_Dresser.png/180px-Basic_Dresser.png",
+        style: ["Casual","Quirky"],
+        furnitureCategory: ["Bedroom","Living Room","Tables"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Bedside Neon Decoration`,
+        price: 2040,
+        image: "https://dreamlightvalleywiki.com/images/2/2c/Bedside_Neon_Decoration.png",
+        style: ["Modern"],
+        furnitureCategory: ["Bedroom","Living Room","Lighting"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0,
+        updated: 1.1
+    },
+    {
+        furnitureName: `Berry Bowl`,
+        price: 360,
+        image: "https://dreamlightvalleywiki.com/images/b/b0/Berry_Bowl.png",
+        style: ["Casual"],
+        furnitureCategory: ["Kitchen","Living Room","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Biscuit Bowl`,
+        price: 360,
+        image: "https://dreamlightvalleywiki.com/images/2/25/Biscuit_Bowl.png",
+        style: ["Casual"],
+        furnitureCategory: ["Kitchen","Living Room","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Blue Dining Chair`,
+        price: 900,
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/79/Blue_Dining_Chair.png/180px-Blue_Dining_Chair.png",
+        obtainedby: `Founder's Pack: Standard Edition`,
+        style: ["Modern","Casual"],
+        furnitureCategory: ["Dining Room","Kitchen","Seating"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Blue Dining Table`,
+        price: 500,
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/fa/Blue_Dining_Table.png/180px-Blue_Dining_Table.png",
+        obtainedby: `Founder's Pack: Standard Edition`,
+        sstyle: ["Modern","Elegant"],
+        furnitureCategory: ["Dining Room","Kitchen","Tables"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Cactus on a Pedatal`,
+        price: 810,
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/6b/Cactus_on_a_Pedestal.png/74px-Cactus_on_a_Pedestal.png",
+        style: ["Modern","Cute"],
+        furnitureCategory: ["Bedroom","Kitchen","Living Room","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0,
+        updated: 1.1
+    },
+    {
+        furnitureName: `Checker Board`,
+        price: 360,
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/de/Checker_Board.png/180px-Checker_Board.png",
+        style: ["Cute","Casual"],
+        furnitureCategory: ["Rec Room","Study","Living Room","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Corner Counter`,
+        price: 1320,
+        image: "https://dreamlightvalleywiki.com/images/thumb/3/3b/Corner_Counter.png/180px-Corner_Counter.png",
+        style: [],
+        furnitureCategory: ["Tables"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Counter`,
+        price: 1320,
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/cc/Counter.png/180px-Counter.png",
+        style: ["Modern","Casual"],
+        furnitureCategory: ["Kitchen","Tables"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Cozy Armchair`,
+        price: 900,
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/16/Cozy_Armchair.png/148px-Cozy_Armchair.png",
+        style: ["Casual","Cute","Quirky"],
+        furnitureCategory: ["Living Room","Seating"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Cozy Festive Hearth`,
+        price: 600,
+        obtainedby: `Festive Star Path`,
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/ed/Cozy_Festive_Hearth.png/131px-Cozy_Festive_Hearth.png",
+        style: ["Rustic", "Elegant"],
+        furnitureCategory: ["Living Room","Study", "Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.2
+    },
+    {
+        furnitureName: `Cozy Fireplace`,
+        price: 4000,
+        image: "https://dreamlightvalleywiki.com/images/thumb/8/83/Cozy_Fireplace.png/180px-Cozy_Fireplace.png",
+        obtainedby: `Goofy Friendship Level 5`,
+        style: ["Casual","Traditional"],
+        furnitureCategory: ["Living Room","Study","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Crowned Mickey Mouse Plant`,
+        price: 810,
+        image: "https://dreamlightvalleywiki.com/images/5/58/Crowned_Mickey_Mouse_Plant.png",
+        style: ["Modern","Cute"],
+        furnitureCategory: ["Bedroom","Study","Kitchen","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0,
+        updated: 1.1
+    },
+    {
+        furnitureName: `Cute Bow Bed`,
+        price: 9200,
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/dc/Cute_Bow_Bed.png/180px-Cute_Bow_Bed.png",
+        obtainedby: `Minnie Mouse Friendship Level 8`,
+        style: ["Cute","Casual"],
+        furnitureCategory: ["Bedroom","Beds"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0,
+        updated: 1.1
+    },
+    {
+        furnitureName: `Cute Nightstand`,
+        price: 1320,
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/a5/Cute_Nightstand.png/180px-Cute_Nightstand.png",
+        style: ["Rustic","Casual"],
+        furnitureCategory: ["Bedroom","Living Room","Tables"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Cute Window`,
+        price: 1500,
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/14/Cute_Window.png/180px-Cute_Window.png",
+        style: ["Cute","Rustic"],
+        furnitureCategory: ["Kitchen","Bathroom","Windows"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Dark Wood Vintage Chest`,
+        price: 3200,
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/03/Dark_Wood_Vintage_Chest.png/180px-Dark_Wood_Vintage_Chest.png",
+        obtainedby: `Player House or Scrooge's Store`,
+        style: ["Tradional"],
+        furnitureCategory: ["Bedroom","Study","Rec Room","Storage"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0,
+        updated: 1.1
+    },
+    {
+        furnitureName: `Dartboard`,
+        price: 1200,
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/12/Dartboard.png/162px-Dartboard.png",
+        style: ["Sporty","Casual"],
+        furnitureCategory: ["Rec Room","Study","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Dustbin`,
+        price: 360,
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/d2/Dustbin.png/180px-Dustbin.png",
+        style: [],
+        furnitureCategory: ["Kitchen","Bathroom","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Enchanted Broom`,
+        price: 2400,
+        image: "https://dreamlightvalleywiki.com/images/thumb/3/3c/Enchanted_Broom.png/180px-Enchanted_Broom.png",
+        style: ["Cute","Casual"],
+        furnitureCategory: ["Kitchen","Outdoors","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Enchanting Bed`,
+        price: 4600,
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/1f/Enchanting_Bed.png/180px-Enchanting_Bed.png",
+        style: ["Casual"],
+        furnitureCategory: ["Bedroom","Beds"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Enchanting Fountain`,
+        price: 20000,
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/c1/Enchanting_Fountain.png/180px-Enchanting_Fountain.png",
+        obtainedby: `The Secret Door (Mickey Mouse Level 10)`,
+        style: ["Elegany"],
+        furnitureCategory: ["Outdoors","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Festive Dinner Table`,
+        price: 660,
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/7d/Festive_Dinner_Table.png/180px-Festive_Dinner_Table.png",
+        obtainedby: `Festive Star Path`,
+        style: ["Elegant","Traditional"],
+        furnitureCategory: ["Dining Room","Tables"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.2
+    },
+    {
+        furnitureName: `Festive Garland`,
+        // price: ,
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/dd/Festive_Garland.png/180px-Festive_Garland.png",
+        obtainedby: `Festive Star Path`,
+        style: [],
+        furnitureCategory: ["Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.2
+    },
+    {
+        furnitureName: `Festive Windows`,
+        price: 480,
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/ca/Festive_Windows.png/115px-Festive_Windows.png",
+        obtainedby: `Festive Star Path`,
+        style: ["Traditional","Elegant"],
+        furnitureCategory: ["Dining Room","Study","Windows"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.2
+    },
+    {
+        furnitureName: `Festive Wreath Post`,
+        price: 480,
+        image: "https://dreamlightvalleywiki.com/images/thumb/8/86/Festive_Wreath_Post.png/92px-Festive_Wreath_Post.png",
+        obtainedby: `Festive Star Path`,
+        style: ["Rustic","Elegant"],
+        furnitureCategory: ["Outdoors","Lighting"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.2
+    },
+    {
+        furnitureName: `Garb Mannequin`,
+        price: 6400,
+        image: "https://dreamlightvalleywiki.com/images/thumb/4/49/Garb_Mannequin.png/180px-Garb_Mannequin.png",
+        style: ["Cute"],
+        furnitureCategory: ["Bedroom","Study","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Grand Tree of Holiday Cheer`,
+        price: 648,
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/50/Grand_Tree_of_Holiday_Cheer.png/117px-Grand_Tree_of_Holiday_Cheer.png",
+        obtainedby: `Festive Star Path`,
+        style: ["Traditional","Elegant"],
+        furnitureCategory: ["Outdoors","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.2
+    },
+    {
+        furnitureName: `L-Couch for Pals`,
+        price: 6000,
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/94/L-Couch_for_Pals.png/180px-L-Couch_for_Pals.png",
+        obtainedby: `Founder's Pack: Standard Edition`,
+        style: ["Modern"],
+        furnitureCategory: ["Living Room","Seating"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Lightwood Vintage Chest`,
+        price: 3200,
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/69/Light_Wood_Vintage_Chest.png/180px-Light_Wood_Vintage_Chest.png",
+        obtainedby: `Player House or Scrooge's Store`,
+        style: ["Traditional"],
+        furnitureCategory: ["Bedroom","Study","Rec Room","Storage"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0,
+        updated: 1.1
+    },
+    {
+        furnitureName: `Magnet Mania Fridge`,
+        price: 3680,
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/f0/Magnet_Mania_Fridge.png/104px-Magnet_Mania_Fridge.png",
+        style: ["Cute","Casual"],
+        furnitureCategory: ["Kitchen","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Mickey Mouse Ceiling Light`,
+        price: 2720,
+        obtainedby: "Founder's Pack: Standard Edition",
+        image: "https://dreamlightvalleywiki.com/images/thumb/2/29/Mickey_Mouse_Ceiling_Light.png/180px-Mickey_Mouse_Ceiling_Light.png",
+        style: ["Modern","Cute"],
+        furnitureCategory: ["Dining Room","Living Room","Bedroom","Lighting"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Mickey Mouse Dresser`,
+        price: 3200,
+        obtainedby: "Goofy Friendship Level 8",
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/d1/Mickey_Mouse_Dresser.png/180px-Mickey_Mouse_Dresser.png",
+        style: ["Modern","Elegant"],
+        furnitureCategory: ["Living Room","Bedroom","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0,
+        updated: 1.1
+    },
+    {
+        furnitureName: `Mickey Mouse Jack-O'-Lantern`,
+        price: 431,
+        obtainedby: "Villain's Star Path",
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/f1/Mickey_Mouse_Jack-O%27-Lantern.png/180px-Mickey_Mouse_Jack-O%27-Lantern.png",
+        style: ["Traditional","Rustic"],
+        furnitureCategory: ["Living Room","Outdoors","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.1
+    },
+    {
+        furnitureName: `Mickey Mouse Mirror`,
+        price: 1200,
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/5d/Mickey_Mouse_Mirror.png/180px-Mickey_Mouse_Mirror.png",
+        style: ["Casual","Cute"],
+        furnitureCategory: ["Bathroom","Bedroom","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Mickey Mouse Painting`,
+        price: 6800,
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/74/Mickey_Mouse_Painting.png/145px-Mickey_Mouse_Painting.png",
+        style: ["Modern"],
+        furnitureCategory: ["Bedroom","Living Room","Dining Room","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Mickey Mouse Photo Holder`,
+        price: 1020,
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/56/Mickey_Mouse_Photo_Holder.png/180px-Mickey_Mouse_Photo_Holder.png",
+        style: ["Cute","Modern"],
+        furnitureCategory: ["Bedroom","Study","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Mickey Mouse Photo in Small Frame`,
+        price: 306,
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/e1/Mickey_Mouse_Photo_in_Small_Frame.png/116px-Mickey_Mouse_Photo_in_Small_Frame.png",
+        style: ["Casual","Cute"],
+        furnitureCategory: ["Bedroom","Living Room","Study","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Mickey Mouse Pumpkin`,
+        price: 431,
+        obtainedby: `"Trick or Treat" Special Task`,
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/1e/Mickey_Mouse_Pumpkin.png/180px-Mickey_Mouse_Pumpkin.png",
+        tracked: false,
+        style: ["Traditional","Rustic"],
+        furnitureCategory: ["Living Room","Outdoors","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.1,
+        updated: 1.12
+    },
+    {
+        furnitureName: `Mickey Mouse Wall Clock`,
+        price: 1200,
+        image: "https://dreamlightvalleywiki.com/images/thumb/3/36/Mickey_Mouse_Wall_Clock.png/180px-Mickey_Mouse_Wall_Clock.png",
+        style: [],
+        furnitureCategory: ["Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Mickey Mouse Wall Sconce`,
+        price: 306,
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/75/Mickey_Mouse_Wall_Sconce.png/157px-Mickey_Mouse_Wall_Sconce.png",
+        style: ["Rustic","Elegant"],
+        furnitureCategory: ["Bathroom","Bedroom","Dining Room","Kitchen","Living Room","Lighting"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Mickey Mouse's Gloves Wardrobe`,
+        price: 3200,
+        obtainedby: "Scrooge McDuck Friendship Level 5",
+        image: "https://dreamlightvalleywiki.com/images/thumb/4/45/Mickey_Mouse%27s_Gloves_Wardrobe.png/180px-Mickey_Mouse%27s_Gloves_Wardrobe.png",
+        style: ["Cute","Casual"],
+        furnitureCategory: ["Bedroom","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Mickey Mouse's Photo Frame`,
+        price: 306,
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/19/Mickey_Mouse%27s_Photo_Frame.png/104px-Mickey_Mouse%27s_Photo_Frame.png",
+        style: ["Cute","Casual"],
+        furnitureCategory: ["Bedroom","Study","Living Room","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0,
+        updated: 1.2
+    },
+    {
+        furnitureName: `Mickey Mouses's Rounded Photo Frame`,
+        price: 306,
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/ad/Mickey_Mouse%27s_Rounded_Photo_Frame.png/135px-Mickey_Mouse%27s_Rounded_Photo_Frame.png",
+        style: ["Casual","Cute"],
+        furnitureCategory: ["Bedroom","Living Room","Study","Fecor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Minimalistic Armchair`,
+        price: 2400,
+        obtainedby: "Founder's Pack: Standard Edition",
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/f2/Minimalistic_Armchair.png/180px-Minimalistic_Armchair.png",
+        style: ["Modern"],
+        furnitureCategory: ["Living Room","Bedroom","Study","Seating"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Painted Vase`,
+        price: 306,
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/fe/Painted_Vase.png/119px-Painted_Vase.png",
+        style: ["Elegant"],
+        furnitureCategory: ["Dining Room","Living Room","Study"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Polka Dot Armchair`,
+        price: 900,
+        obtainedby: "Minnie Mouse Friendship Level 5",
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/68/Polka_Dot_Armchair.png/180px-Polka_Dot_Armchair.png",
+        style: ["Cute","casual","Modern"],
+        furnitureCategory: ["Bedroom","Living Room","Seating"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Purple Oval Rug`,
+        price: 480,
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/17/Purple_Oval_Rug.png/180px-Purple_Oval_Rug.png",
+        style: [],
+        furnitureCategory: ["Rugs"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Quirky Floor Lamp`,
+        price: 765,
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/d9/Quirky_Floor_Lamp.png/60px-Quirky_Floor_Lamp.png",
+        style: ["Cute","Casual"],
+        furnitureCategory: ["Dining Room","Living Room","Study","Lighting"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Quirky Table Lamp`,
+        price: 306,
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/f3/Quirky_Table_Lamp.png/180px-Quirky_Table_Lamp.png",
+        style: ["Cute","Casual"],
+        furnitureCategory: ["Bedroom","Living Room","Dining Room","Lighting"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Rectangular Coffee Table`,
+        price: 1320,
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/cc/Rectangular_Coffee_Table.png/180px-Rectangular_Coffee_Table.png",
+        style: ["Casual","Rustic"],
+        furnitureCategory: ["Living Room","Study","Tables"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Rectangular Frame`,
+        price: 1000,
+        image: "https://dreamlightvalleywiki.com/images/b/b4/Rectangular_Frame.png",
+        style: ["Casual","Cute"],
+        furnitureCategory: ["Living Room","Study","Bedroom","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Rectangular Rug`,
+        price: 480,
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/74/Rectangular_Rug.png/180px-Rectangular_Rug.png",
+        style: ["Cute","Casual"],
+        furnitureCategory: ["Rec Room","Living Room","Study","Bedroom","Rugs"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Round Rug`,
+        price: 480,
+        image: "https://dreamlightvalleywiki.com/images/7/72/Round_Rug.png",
+        style: ["Casual"],
+        furnitureCategory: ["Bedroom","Living Room","Rec Room","Study","Rugs"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Rounded Coffee Table`,
+        price: 1320,
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/b6/Rounded_Coffee_Table.png/180px-Rounded_Coffee_Table.png",
+        style: [],
+        furnitureCategory: ["Tables"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Rounded Frame`,
+        price: 1000,
+        image: "https://dreamlightvalleywiki.com/images/7/7d/Rounded_Frame.png",
+        style: ["Cute","Casual"],
+        furnitureCategory: ["Living Room","Study","Bedroom","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Santa's Gift-Laden Sleigh`,
+        // price: ,
+        obtainedby: "Festive Star Path",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/e5/Santa%27s_Gift-Laden_Sleigh.png/180px-Santa%27s_Gift-Laden_Sleigh.png",
+        style: [],
+        furnitureCategory: ["Outdoors","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.2
+    },
+    {
+        furnitureName: `Scrooge McDuck Wall Sign`,
+        price: 2720,
+        obtainedby: `Scrooge McDuck's Grand Re-Opening (Story Quest)`,
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/54/Scrooge_McDuck_Wall_Sign.png/180px-Scrooge_McDuck_Wall_Sign.png",
+        style: ["Professional"],
+        furnitureCategory: ["Study","Rec Room","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Scrooge McDuck's Spare Safe`,
+        price: 16000,
+        obtainedby: "The Treasure Hunt Part 2 (Scrooge McDuck Level 10)",
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/56/Scrooge_McDuck%27s_Spare_Safe.png/163px-Scrooge_McDuck%27s_Spare_Safe.png",
+        style: ["Professional","Traditional"],
+        furnitureCategory: ["Study","Storage"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Silly Area Rug`,
+        price: 4000,
+        obtainedby: "Founder's Pack: Standard Edition",
+        image: "https://dreamlightvalleywiki.com/images/thumb/4/42/Silly_Area_Rug.png/180px-Silly_Area_Rug.png",
+        style: ["Cute","Modern"],
+        furnitureCategory: ["Living Room","Study","Bedroom","Rugs"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Silly Bedside Table`,
+        price: 1320,
+        obtainedby: "Scrooge McDuck Friendship Level 2",
+        image: "https://dreamlightvalleywiki.com/images/a/a5/Silly_Bedside_Table.png",
+        style: ["Elegant","Modern"],
+        furnitureCategory: ["Study","Bedroom","Living Room","Tables"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Simple Fridge`,
+        price: 1320,
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/55/Simple_Fridge.png/105px-Simple_Fridge.png",
+        style: [],
+        furnitureCategory: ["Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Sink`,
+        price: 1200,
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/66/Sink.png/169px-Sink.png",
+        style: ["Cute","Casual"],
+        furnitureCategory: ["Kitchen","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Small Bedside Lamp`,
+        price:306,
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/17/Small_Bedside_Lamp.png/102px-Small_Bedside_Lamp.png",
+        style: ["Cute","Casual"],
+        furnitureCategory: ["Bedroom","Dining Room","Living Room","Lighting"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Small Table`,
+        price: 528,
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/0a/Small_Table.png/180px-Small_Table.png",
+        style: [],
+        furnitureCategory: ["Tables"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Snowy Festive Window`,
+        price: 480,
+        obtainedby: "Festive Star Path",
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/0d/Snowy_Festive_Window.png/89px-Snowy_Festive_Window.png",
+        style: ["Traditional","Elegant"],
+        furnitureCategory: ["Study","Dining Room","Windows"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.2
+    },
+    {
+        furnitureName: `Stove`,
+        price: 1380,
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/16/Stove.png/180px-Stove.png",
+        style: ["Cute","Casual"],
+        furnitureCategory: ["Kitchen","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Sweet Abstract Painting `,
+        price: 3400,
+        image: "https://dreamlightvalleywiki.com/images/thumb/4/43/Sweet_Abstract_Painting.png/158px-Sweet_Abstract_Painting.png",
+        style: ["Modern"],
+        furnitureCategory: ["Dining Room","Bedroom","Study","Living Room","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Tall Potted Plant`,
+        price: 1079,
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/7a/Tall_Potted_Plant.png/137px-Tall_Potted_Plant.png",
+        style: ["Casual","Modern"],
+        furnitureCategory: ["Kitchen","Dining Room","Living Room","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Tea Kettle`,
+        price: 1033,
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/14/Tea_Kettle.png/153px-Tea_Kettle.png",
+        style: ["Cute","Rustic"],
+        furnitureCategory: ["Kitchen","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Tiny Chair`,
+        price: 675,
+        image: "https://dreamlightvalleywiki.com/images/thumb/4/47/Tiny_Chair.png/108px-Tiny_Chair.png",
+        style: ["Cute","Casual"],
+        furnitureCategory: ["Kitchen","Dining Room","Seating"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Top Cupboard`,
+        price: 1200,
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/09/Top_Cupboard.png/154px-Top_Cupboard.png",
+        style: ["Casual","Rustic"],
+        furnitureCategory: ["Kitchen","Tables"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Triangular Coffee Table`,
+        price: 3520,
+        obtainedby: "Founder's Pack: Standard Edition",
+        image: "https://dreamlightvalleywiki.com/images/thumb/3/3e/Triangular_Coffee_Table.png/180px-Triangular_Coffee_Table.png",
+        style: ["Modern","Cute"],
+        furnitureCategory: ["Study","Living Room","Tables"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Vintage Phone`,
+        price: 810,
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/c2/Vintage_Phone.png/180px-Vintage_Phone.png",
+        style: ["Modern","Cute"],
+        furnitureCategory: ["Study","Kitchen","Bedroom","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Wall Planter`,
+        price: 810,
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/e7/Wall_Planter.png/180px-Wall_Planter.png",
+        style: ["Casual","Elegant"],
+        furnitureCategory: ["Kitchen","Living Room","Dining Room","Study","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Wooden Bookshelf`,
+        price: 3200,
+        image: "https://dreamlightvalleywiki.com/images/thumb/2/2f/Wooden_Bookshelf.png/94px-Wooden_Bookshelf.png",
+        style: ["Cute"],
+        furnitureCategory: ["Living Room","Study","Decor"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Wooden End Table`,
+        price: 1320,
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/a4/Wooden_End_Table.png/180px-Wooden_End_Table.png",
+        style: ["Casual","Rustic"],
+        furnitureCategory: ["Bedroom","Living Room","Tables"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
+    {
+        furnitureName: `Wooden Side Table`,
+        // price: ,
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/c1/Wooden_Side_Table_%282%29.png/180px-Wooden_Side_Table_%282%29.png",
+        style: [],
+        furnitureCategory: ["Tbales"],
+        color: [],
+        universe: "Mickey & Friends",
+        added: 1.0
+    },
     // {
     //     furnitureName: ``,
     //     price: ,
+    //     image: "",
     //     style: [],
     //     furnitureCategory: [""],
     //     color: [],
     //     universe: "Mickey & Friends",
-    //     added: 1.0
+    //     added: 1.3
     // },
 ]
 

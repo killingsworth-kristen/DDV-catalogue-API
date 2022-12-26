@@ -5,7 +5,7 @@ const SwordStoneFurniture =[
         furnitureName: `Bag of Tricks`,
         price: 3200,
         obtainedBy: "Merlin Friendship Level 2",
-        image: fs.readFileSync('./assets/Bag_of_Tricks.png'),
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/e4/Bag_of_Tricks.png/180px-Bag_of_Tricks.png",
         style: ["Quirky","Traditional"],
         furnitureCategory: ["Study"],
         color: [],
