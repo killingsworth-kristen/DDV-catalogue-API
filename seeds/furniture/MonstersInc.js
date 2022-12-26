@@ -20,7 +20,8 @@ const monstersIncFurniture = [
         furnitureCategory: ["Living Room","Study","Decor"],
         color: [],
         universe: "Monsters Inc",
-        added: 1.0
+        added: 1.0,
+        updated: 1.1
     },
     {
         furnitureName: `Desk Chair`,
@@ -189,7 +190,8 @@ const monstersIncFurniture = [
         furnitureCategory: ["Living Room","Rec Room","Decor"],
         color: [],
         universe: "Monsters Inc",
-        added: 1.0
+        added: 1.0,
+        updated: 1.1
     },
     {
         furnitureName: `Student Desk`,
@@ -249,7 +251,8 @@ const monstersIncFurniture = [
         furnitureCategory: ["Living Room","Rec Room","Decor"],
         color: [],
         universe: "Monsters Inc",
-        added: 1.0
+        added: 1.0,
+        updated: 1.1
     },
     // {
     //     furnitureName: ``,
