@@ -51,7 +51,7 @@ const tangledFurniture = require(`./tangled`);
 FurnitureData.push(tangledFurniture);
 
 // Monsters, Inc
-const monstersIncFurniture = require(`./MonstersInc`);
+const monstersIncFurniture = require(`./monstersInc`);
 FurnitureData.push(monstersIncFurniture);
 
 // Toy Story
