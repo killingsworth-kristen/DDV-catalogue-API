@@ -835,7 +835,7 @@ const MickeyFurniture = [
         // price: ,
         image: "/images/furniture/mickey&friends/180px-Wooden_Side_Table_(2).png",
         style: [],
-        furnitureCategory: ["Tbales"],
+        furnitureCategory: ["Tables"],
         color: [],
         universe: "Mickey & Friends",
         added: 1.0
