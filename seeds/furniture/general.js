@@ -15,28 +15,28 @@ const generalFurniture = [
     },
     {
         furnitureName: `Arched Window`,
-        // price: ,
+        price: 1200,
         image: "https://dreamlightvalleywiki.com/images/thumb/1/18/Arched_Window.png/180px-Arched_Window.png",
-        style: [],
-        furnitureCategory: [""],
+        style: ["Elegant","Traditional"],
+        furnitureCategory: ["Bedroom","Bathroom","Study","Living Room","Windows"],
         color: [],
         universe: "General",
         added: 1.0
     },
     {
         furnitureName: `Autumn Harvest Pennants`,
-        // price: ,
+        price: ["x10 Dark Wood","x5 Fabric","x10 Corn","x4 Pumpkin"],
         image: "https://dreamlightvalleywiki.com/images/thumb/e/ee/Autumn_Harvest_Pennants.png/180px-Autumn_Harvest_Pennants.png",
         obtainedBy: "Crafting",
         style: [],
-        furnitureCategory: [""],
+        furnitureCategory: ["Outdoor"],
         color: [],
         universe: "General",
         added: 1.1
     },
     {
         furnitureName: `Autumn Wreath`,
-        // price: ,
+        price: ["x2 Sunflower","x1 Rope","x3 Soil"],
         image: "https://dreamlightvalleywiki.com/images/thumb/b/b9/Autumn_Wreath.png/162px-Autumn_Wreath.png",
         obtainedBy: "Crafting",
         style: [],
@@ -47,80 +47,83 @@ const generalFurniture = [
     },
     {
         furnitureName: `Beige Gothic Rose Window`,
-        // price: ,
+        price: 480,
         image: "https://dreamlightvalleywiki.com/images/3/36/Beige_Gothic_Rose_Window.png",
-        style: [],
-        furnitureCategory: [""],
+        style: ["Elegant","Traditional"],
+        furnitureCategory: ["Living Room","Windows"],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.1
     },
     {
         furnitureName: `Beige Single Bed`,
-        // price: ,
+        price: 689,
         image: "https://dreamlightvalleywiki.com/images/thumb/4/45/Beige_Single_Bed.png/180px-Beige_Single_Bed.png",
-        style: [],
-        furnitureCategory: [""],
+        style: ["Casual","Professional"],
+        furnitureCategory: ["Bedroom","Beds"],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.0,
+        updated: 1.2
     },
     {
         furnitureName: `Big Pile of Gifts`,
-        // price: ,
+        price: 600,
         image: "https://dreamlightvalleywiki.com/images/thumb/3/3b/Big_Pile_of_Gifts.png/180px-Big_Pile_of_Gifts.png",
-        style: [],
-        furnitureCategory: [""],
+        obtainedBy: "Festive Star Path",
+        style: ["Traditional","Cute"],
+        furnitureCategory: ["Living Room","Decor"],
         color: [],
         universe: "General",
         added: 1.2
     },
     {
         furnitureName: `Black Armchair`,
-        // price: ,
+        price: 360,
         image: "https://dreamlightvalleywiki.com/images/thumb/8/88/Black_Armchair.png/180px-Black_Armchair.png",
-        style: [],
-        furnitureCategory: [""],
+        style: ["Casual","Modern"],
+        furnitureCategory: ["Rec Room","Study","Living Room","Seating"],
         color: [],
         universe: "General",
         added: 1.0
     },
     {
         furnitureName: `Black Armchair (2)`,
-        // price: ,
+        price: 360,
         image: "https://dreamlightvalleywiki.com/images/thumb/b/bd/Black_Armchair_%282%29.png/180px-Black_Armchair_%282%29.png",
-        style: [],
-        furnitureCategory: [""],
+        style: ["Casual","Professional"],
+        furnitureCategory: ["Living Room","Rec Room","Study","Seating"],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.0,
+        updated: 1.2
     },
     {
         furnitureName: `Black Coffee Table`,
-        // price: ,
+        price: 528,
         image: "https://dreamlightvalleywiki.com/images/thumb/4/41/Black_Coffee_Table.png/180px-Black_Coffee_Table.png",
-        style: [],
-        furnitureCategory: [""],
+        style: ["Casual"],
+        furnitureCategory: ["Living Room","Rec Room","Tables"],
         color: [],
         universe: "General",
         added: 1.0
     },
     {
         furnitureName: `Black Corner Counter`,
-        // price: ,
+        price: 528,
         image: "https://dreamlightvalleywiki.com/images/thumb/3/30/Black_Corner_Counter.png/155px-Black_Corner_Counter.png",
-        style: [],
-        furnitureCategory: [""],
+        style: ["Modern","Bold"],
+        furnitureCategory: ["Kitchen","Tables"],
         color: [],
         universe: "General",
         added: 1.0
     },
     {
         furnitureName: `Black Corner Counter with Black Marble Top`,
-        // price: ,
+        price: 528,
         image: "https://dreamlightvalleywiki.com/images/thumb/6/61/Black_Corner_Counter_with_Black_Marble_Top.png/154px-Black_Corner_Counter_with_Black_Marble_Top.png",
-        style: [],
-        furnitureCategory: [""],
+        style: ["Modern","Professional","Elegant"],
+        furnitureCategory: ["Kitchen","Bathroom","Tables"],
         color: [],
         universe: "General",
         added: 1.0
@@ -726,9 +729,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Black Single-Door Top Cupboard - Left Handle (2)`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/ef/Black_Single-Door_Top_Cupboard_-_Left_Handle_%282%29.png/173px-Black_Single-Door_Top_Cupboard_-_Left_Handle_%282%29.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -736,9 +739,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Black Single-Door Top Cupboard - Left Handle`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/8/8c/Black_Single-Door_Top_Cupboard_-_Left_Handle.png/173px-Black_Single-Door_Top_Cupboard_-_Left_Handle.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -746,9 +749,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Black Single-Door Top Cupboard - Right Handle (2)`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/10/Black_Single-Door_Top_Cupboard_-_Right_Handle_%282%29.png/172px-Black_Single-Door_Top_Cupboard_-_Right_Handle_%282%29.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -756,9 +759,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Black Single-Door Top Cupboard - Right Handle`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/4/49/Black_Single-Door_Top_Cupboard_-_Right_Handle.png/172px-Black_Single-Door_Top_Cupboard_-_Right_Handle.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -766,9 +769,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Black Top Corner Piece (2)`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/6c/Black_Top_Corner_Piece_%282%29.png/159px-Black_Top_Corner_Piece_%282%29.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -776,9 +779,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Black Top Corner Piece`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/f3/Black_Top_Corner_Piece.png/159px-Black_Top_Corner_Piece.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -786,9 +789,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Black Triple-Drawer Counter`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/69/Black_Triple-Drawer_Counter.png/167px-Black_Triple-Drawer_Counter.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -796,9 +799,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Black Triple-Drawer Counter with Black Marble Top`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/4/44/Black_Triple-Drawer_Counter_with_Black_Marble_Top.png/167px-Black_Triple-Drawer_Counter_with_Black_Marble_Top.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -806,9 +809,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Black Triple-Drawer Counter with Gray Marble Top`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/a5/Black_Triple-Drawer_Counter_with_Gray_Marble_Top.png/167px-Black_Triple-Drawer_Counter_with_Gray_Marble_Top.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -816,9 +819,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Black Triple-Drawer Counter with White Marble Top`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/3/3d/Black_Triple-Drawer_Counter_with_White_Marble_Top.png/167px-Black_Triple-Drawer_Counter_with_White_Marble_Top.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -826,9 +829,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Black Wardrobe`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/1a/Black_Wardrobe.png/105px-Black_Wardrobe.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -836,9 +839,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Black-Base Black Marble Desk`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/2/23/Black-Base_Black_Marble_Desk.png/180px-Black-Base_Black_Marble_Desk.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -846,9 +849,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Black-Base White Marble Desk`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/9b/Black-Base_White_Marble_Desk.png/180px-Black-Base_White_Marble_Desk.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -856,9 +859,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Corner Counter`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/e3/Blue_Corner_Counter.png/155px-Blue_Corner_Counter.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -866,9 +869,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Dining Chair`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/e5/Blue_Dining_Chair_%282%29.png/138px-Blue_Dining_Chair_%282%29.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -876,9 +879,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Double Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/77/Blue_Double_Bed.png/180px-Blue_Double_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -886,9 +889,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Double-Basin Sink`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/78/Blue_Double-Basin_Sink.png/180px-Blue_Double-Basin_Sink.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -896,9 +899,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Double-Door Counter`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/cf/Blue_Double-Door_Counter.png/167px-Blue_Double-Door_Counter.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -906,9 +909,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Double-Door Glass Top Corner Cupboard`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/4/46/Blue_Double-Door_Glass_Top_Corner_Cupboard.png/160px-Blue_Double-Door_Glass_Top_Corner_Cupboard.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -916,9 +919,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Double-Door Glass Top CUpboard`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/9f/Blue_Double-Door_Glass_Top_Cupboard.png/173px-Blue_Double-Door_Glass_Top_Cupboard.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -926,9 +929,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Double-Door Top COrner Cupboard`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/b9/Blue_Double-Door_Top_Corner_Cupboard.png/160px-Blue_Double-Door_Top_Corner_Cupboard.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -936,9 +939,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Double-Door Top Cupbaord`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/91/Blue_Double-Door_Top_Cupboard.png/173px-Blue_Double-Door_Top_Cupboard.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -946,9 +949,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Double-Drawer Counter`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/73/Blue_Double-Drawer_Counter.png/167px-Blue_Double-Drawer_Counter.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -956,9 +959,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Kitchen Island`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/61/Blue_Kitchen_Island.png/180px-Blue_Kitchen_Island.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -966,9 +969,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue L Kitchen Counter`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/d1/Blue_L_Kitchen_Counter.png/180px-Blue_L_Kitchen_Counter.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -976,9 +979,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Single Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/2/2d/Blue_Single_Bed.png/180px-Blue_Single_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -986,9 +989,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Single-Basin Sink`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/9f/Blue_Single-Basin_Sink.png/137px-Blue_Single-Basin_Sink.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -996,9 +999,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Single-Door Counter - Left Handle`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/60/Blue_Single-Door_Counter_-_Left_Handle.png/167px-Blue_Single-Door_Counter_-_Left_Handle.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1006,9 +1009,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Single-Door Counter - Right Handle`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/e9/Blue_Single-Door_Counter_-_Right_Handle.png/167px-Blue_Single-Door_Counter_-_Right_Handle.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1016,9 +1019,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Single-Door Top Cupboard - Left Handle`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/5d/Blue_Single-Door_Top_Cupboard_-_Left_Handle.png/173px-Blue_Single-Door_Top_Cupboard_-_Left_Handle.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1026,9 +1029,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Single-Door Top Cupboard - Right Handle`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/6f/Blue_Single-Door_Top_Cupboard_-_Right_Handle.png/172px-Blue_Single-Door_Top_Cupboard_-_Right_Handle.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1036,9 +1039,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Top Corner Piece`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/4/4b/Blue_Top_Corner_Piece.png/159px-Blue_Top_Corner_Piece.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1046,9 +1049,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue Triple-Drawer Counter`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/be/Blue_Triple-Drawer_Counter.png/167px-Blue_Triple-Drawer_Counter.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1056,9 +1059,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Blue-Gray Armchair`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/f2/Blue-Gray_Armchair.png/180px-Blue-Gray_Armchair.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1066,9 +1069,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Boarded Window`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/92/Boarded_Window.png/180px-Boarded_Window.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1076,59 +1079,20 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
-        color: [],
-        universe: "General",
-        added: 1.0
-    },
-    {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
-        color: [],
-        universe: "General",
-        added: 1.0
-    },
-    {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
-        color: [],
-        universe: "General",
-        added: 1.0
-    },
-    {
-        furnitureName: ``,
-        // price: ,
-        image: "",
+        furnitureName: `Bountiful Marigold Basket`,
+        price: ["x1 Iron Ingot","x10 Soil","x5 Hardwood"],
+        image: "https://dreamlightvalleywiki.com/images/thumb/3/31/Bountiful_Marigold_Basket.png/180px-Bountiful_Marigold_Basket.png",
+        obtainedBy: "Crafting",
         style: [],
         furnitureCategory: [""],
         color: [],
         universe: "General",
-        added: 1.0
-    },
-    {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
-        color: [],
-        universe: "General",
-        added: 1.0
+        added: 1.1
     },
     {
-        furnitureName: ``,
+        furnitureName: `Candle-Laden Branch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/3/3b/Candle-Laden_Branch.png/141px-Candle-Laden_Branch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1136,9 +1100,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Candle-Laden Oak Branch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/4/4f/Candle-Laden_Oak_Branch.png/149px-Candle-Laden_Oak_Branch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1146,79 +1110,86 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Celestial Bed`,
+        price: 23000,
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/a6/Celestial_Bed.png/180px-Celestial_Bed.png",
+        obtainedBy: "Reaching Level 4",
+        style: ["Elegant"],
+        furnitureCategory: ["Bedroom","Beds"],
         color: [],
         universe: "General",
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Celestial Door`,
+        price: 16000,
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/ec/Celestial_Door.png/180px-Celestial_Door.png",
+        obtainedBy: "Reaching Level 17",
+        style: ["Elegant"],
+        furnitureCategory: ["Living Room","Study","Doors"],
         color: [],
         universe: "General",
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Celestial Dresser`,
+        price: 16000,
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/15/Celestial_Dresser.png/180px-Celestial_Dresser.png",
+        obtainedBy: "Reaching Level 20",
+        style: ["Elegant"],
+        furnitureCategory: ["Bedroom","Storage"],
         color: [],
         universe: "General",
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Celestial Fireplace`,
+        price: 16000,
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/7d/Celestial_Fireplace.png/180px-Celestial_Fireplace.png",
+        obtainedBy: "Reaching Level 24",
+        style: ["Elegant"],
+        furnitureCategory: ["Living Room","Study","Bedroom","Decor"],
         color: [],
         universe: "General",
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Celestial Pennant Light`,
+        price: 13600,
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/11/Celestial_Pennant_Light.png/180px-Celestial_Pennant_Light.png",
+        obtainedBy: "Reaching Level 11",
+        style: ["Elegant"],
+        furnitureCategory: ["Bedroom","Lighting"],
         color: [],
         universe: "General",
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Celestial Pillar`,
+        price: 16000,
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/b4/Celestial_Pillar.png/180px-Celestial_Pillar.png",
+        obtainedBy: "Reaching Level 25",
+        style: ["Elegant"],
+        furnitureCategory: ["Living Room","Study","Bedroom","Decor"],
         color: [],
         universe: "General",
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Celestial Stained Glass Window`,
+        price: 16000,
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/53/Celestial_Stained_Glass_Window.png/180px-Celestial_Stained_Glass_Window.png",
+        obtainedBy: "Reaching Level 5",
+        style: ["Elegant"],
+        furnitureCategory: ["Bedroom","Windows"],
         color: [],
         universe: "General",
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Chandelier of the Deep`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/51/Chandelier_of_the_Deep.png/180px-Chandelier_of_the_Deep.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1226,19 +1197,20 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Charter Rug`,
+        price: 4800,
+        tracked: false,
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/c3/Charter_Rug.png/180px-Charter_Rug.png",
+        style: ["Rustic","Traditional","Quirky"],
+        furnitureCategory: ["Study","Living Room","Rugs"],
         color: [],
         universe: "General",
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Classic Blender`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/d7/Classic_Blender.png/98px-Classic_Blender.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1246,9 +1218,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Classic Microwave`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/9a/Classic_Microwave.png/180px-Classic_Microwave.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1256,9 +1228,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Classic Toaster`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/e4/Classic_Toaster.png/180px-Classic_Toaster.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1266,9 +1238,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Cobalt Blue armchair`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/9f/Cobalt_Blue_Armchair.png/180px-Cobalt_Blue_Armchair.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1276,9 +1248,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Cobalt Blue Single Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/69/Cobalt_Blue_Single_Bed.png/180px-Cobalt_Blue_Single_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1286,9 +1258,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Concrete Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/f4/Concrete_Dining_Table.png/180px-Concrete_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1296,9 +1268,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Concrete Double Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/1d/Concrete_Double_Bed.png/180px-Concrete_Double_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1306,9 +1278,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Concrete Side Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/8/89/Concrete_Side_Table.png/180px-Concrete_Side_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1316,9 +1288,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Concrete Single Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/bc/Concrete_Single_Bed.png/180px-Concrete_Single_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1326,9 +1298,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Concrete Wardrobe`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/b9/Concrete_Wardrobe.png/104px-Concrete_Wardrobe.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1336,9 +1308,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Coral Pink Armchair`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/c5/Coral_Pink_Armchair.png/180px-Coral_Pink_Armchair.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1346,9 +1318,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Coral Pink Dining Chair`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/13/Coral_Pink_Dining_Chair.png/180px-Coral_Pink_Dining_Chair.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1356,9 +1328,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Curved Screen TV`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/cf/Curved_Screen_TV.png/180px-Curved_Screen_TV.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1366,9 +1338,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Dark Purple Single Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/9a/Dark_Purple_Single_Bed.png/180px-Dark_Purple_Single_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1376,9 +1348,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Dark Wood Coffee Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/de/Dark_Wood_Coffee_Table.png/180px-Dark_Wood_Coffee_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1386,9 +1358,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Dark Wood Desk`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/c3/Dark_Wood_Desk.png/180px-Dark_Wood_Desk.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1396,9 +1368,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Dark Wood Dining Chair`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/b5/Dark_Wood_Dining_Chair.png/115px-Dark_Wood_Dining_Chair.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1406,9 +1378,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Dark Wood Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/78/Dark_Wood_Dining_Table.png/180px-Dark_Wood_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1416,9 +1388,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Dark Wood Side Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/ed/Dark_Wood_Side_Table.png/180px-Dark_Wood_Side_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1426,9 +1398,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Dark Wood Wardrobe`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/bb/Dark_Wood_Wardrobe.png/105px-Dark_Wood_Wardrobe.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1436,9 +1408,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Deluxe Black Fridge`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/2/2a/Deluxe_Black_Fridge.png/104px-Deluxe_Black_Fridge.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1446,9 +1418,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Deluxe Gray Fridge`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/e8/Deluxe_Gray_Fridge.png/104px-Deluxe_Gray_Fridge.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1456,9 +1428,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Deluxe Pale Gray Fridge`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/cf/Deluxe_Pale_Gray_Fridge.png/104px-Deluxe_Pale_Gray_Fridge.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1466,9 +1438,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Deluxe Pink Fridge`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/1d/Deluxe_Pink_Fridge.png/104px-Deluxe_Pink_Fridge.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1476,9 +1448,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Deluxe White Fridge`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/cd/Deluxe_White_Fridge.png/180px-Deluxe_White_Fridge.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1486,9 +1458,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Dirty Chandelier`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/f0/Dirty_Chandelier.png/180px-Dirty_Chandelier.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1496,9 +1468,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Dirty Counter`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/bb/Dirty_Counter.png/180px-Dirty_Counter.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1506,9 +1478,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Dirty Stove`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/8/8b/Dirty_Stove.png/154px-Dirty_Stove.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1516,9 +1488,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Dirty Wall Sconce`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/f/f7/Dirty_Wall_Sconce.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1526,9 +1498,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Dusky Floral Arrangement`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/51/Dusky_Floral_Arrangement.png/180px-Dusky_Floral_Arrangement.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1536,9 +1508,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Espresso Machine`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/9b/Espresso_Machine.png/180px-Espresso_Machine.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1546,9 +1518,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Flat Screen TV`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/a4/Flat_Screen_TV.png/180px-Flat_Screen_TV.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1556,29 +1528,32 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Floating Candles`,
+        price: 408,
+        image: "https://dreamlightvalleywiki.com/images/thumb/2/25/Floating_Candles.png/180px-Floating_Candles.png",
+        obtainedBy: "Villain's Star Path",
+        style: ["Elegant","Traditional"],
+        furnitureCategory: ["Study","Dining Room","Decor"],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.1
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Friendly Jack-O'-Lantern`,
+        price: 431,
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/10/Friendly_Jack-O%27-Lantern.png/158px-Friendly_Jack-O%27-Lantern.png",
+        tracked: false,
+        obtainedBy: `"Sugar Rush" Special Task`,
+        style: ["Traditional","Rustic"],
+        furnitureCategory: ["Outdoors","Living Room","Decor"],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.1
     },
     {
-        furnitureName: ``,
+        furnitureName: `Glass Coffee Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/08/Glass_Coffee_Table.png/180px-Glass_Coffee_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1586,9 +1561,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Glass Double Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/2/24/Glass_Double_Bed.png/180px-Glass_Double_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1596,9 +1571,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Glass Side Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/04/Glass_Side_Table.png/180px-Glass_Side_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1606,9 +1581,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Glass Single Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/11/Glass_Single_Bed.png/180px-Glass_Single_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1616,9 +1591,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Glass Wardrobe`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/de/Glass_Wardrobe.png/104px-Glass_Wardrobe.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1626,9 +1601,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Golden Plant`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/d6/Golden_Plant.png/180px-Golden_Plant.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1636,19 +1611,20 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Gothic Castle Window`,
+        price: 480,
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/fc/Gothic_Castle_Window.png/98px-Gothic_Castle_Window.png",
+        obtainedBy: "Villain's Star Path",
+        style: ["Bold","Elegant"],
+        furnitureCategory: ["Dining Room","Living Room","Study","Windows"],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.1
     },
     {
-        furnitureName: ``,
+        furnitureName: `Gray Armchair`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/b4/Gray_Armchair.png/180px-Gray_Armchair.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1656,9 +1632,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Gray Double Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/a6/Gray_Double_Bed.png/180px-Gray_Double_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1666,9 +1642,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Gray Fridge`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/55/Gray_Fridge.png/104px-Gray_Fridge.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1676,9 +1652,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Gray Marble Coffee Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/97/Gray_Marble_Coffee_Table.png/180px-Gray_Marble_Coffee_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1686,9 +1662,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Gray Metallic Dresser`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/3/37/Gray_Metallic_Dresser.png/180px-Gray_Metallic_Dresser.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1696,9 +1672,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Gray Single Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/b4/Gray_Single_Bed.png/180px-Gray_Single_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1706,19 +1682,20 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Green Trick or Treater's Bounty`,
+        price: 360,
+        image: "https://dreamlightvalleywiki.com/images/e/e6/Green_Trick_or_Treater%27s_Bounty.png",
+        obtainedBy: `"A 3-Course Halloween Meal!" Special Task`,
+        style: ["Cute","Traditional"],
+        furnitureCategory: ["Kitchen","Decor"],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.1
     },
     {
-        furnitureName: ``,
+        furnitureName: `Green Turquoise Dining Chair`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/05/Green_Turquoise_Dining_Chair.png/138px-Green_Turquoise_Dining_Chair.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1726,9 +1703,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Ground Foundation Tile`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/18/Ground_Fountain_Tile.png/180px-Ground_Fountain_Tile.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1736,29 +1713,32 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Halloween Bench`,
+        price: 450,
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/fc/Halloween_Bench.png/180px-Halloween_Bench.png",
+        obtainedBy: "Villain's Star Path",
+        style: ["Rustic","Cute"],
+        furnitureCategory: ["Living Room","Outdoors","Seating"],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.1
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Happy Jack-O'Lantern`,
+        price: 431,
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/fc/Happy_Jack-O%27-Lantern.png/168px-Happy_Jack-O%27-Lantern.png",
+        obtainedBy: `"Sugar Rush" Special Task`,
+        style: ["Traditional","Rustic"],
+        furnitureCategory: ["Living Room","Outdoors","Decor"],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.1,
+        updated: 1.12
     },
     {
-        furnitureName: ``,
+        furnitureName: `Heavy Iron Cauldron`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/fd/Heavy_Iron_Cauldron.png/180px-Heavy_Iron_Cauldron.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1766,9 +1746,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Hewn Oak Trunk Fireplace`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/7b/Hewn_Oak_Trunk_Fireplace.png/105px-Hewn_Oak_Trunk_Fireplace.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1776,9 +1756,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Hewn Silve Maple Trunk Fireplace`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/79/Hewn_Silver_Maple_Trunk_Fireplace.png/180px-Hewn_Silver_Maple_Trunk_Fireplace.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1786,9 +1766,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Laptop`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/cd/Laptop.png/180px-Laptop.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1796,9 +1776,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Black Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/2/22/Large_Black_Couch.png/180px-Large_Black_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1806,9 +1786,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Black Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/01/Large_Black_Dining_Table.png/180px-Large_Black_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1816,9 +1796,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Black L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/ae/Large_Black_L_Couch.png/180px-Large_Black_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1826,9 +1806,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Black Marble Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/a9/Large_Black_Marble_Dining_Table.png/180px-Large_Black_Marble_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1836,9 +1816,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Black Modern Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/91/Large_Black_Modern_Couch.png/180px-Large_Black_Modern_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1846,9 +1826,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Black Modern L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/8/8b/Large_Black_Modern_L_Couch.png/180px-Large_Black_Modern_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1856,9 +1836,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Concrete Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/8/8b/Large_Concrete_Dining_Table.png/180px-Large_Concrete_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1866,9 +1846,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Dark Wood Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/a0/Large_Dark_Wood_Dining_Table.png/180px-Large_Dark_Wood_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1876,19 +1856,19 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Gift Box`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/8/86/Large_Gift_Box.png",
         style: [],
         furnitureCategory: [""],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.2
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Glass Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/90/Large_Glass_Dining_Table.png/180px-Large_Glass_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1896,9 +1876,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Gray Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/0b/Large_Gray_Couch.png/180px-Large_Gray_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1906,9 +1886,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Gray L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/8/86/Large_Gray_L_Couch.png/180px-Large_Gray_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1916,9 +1896,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Lavish Black Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/1b/Large_Lavish_Black_Couch.png/180px-Large_Lavish_Black_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1926,9 +1906,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Lavish Black L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/95/Large_Lavish_Black_L_Couch.png/180px-Large_Lavish_Black_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1936,9 +1916,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Lavish Coral Pink Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/b2/Large_Lavish_Coral_Pink_Couch.png/180px-Large_Lavish_Coral_Pink_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1946,9 +1926,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Lavish Coral Pink L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/e7/Large_Lavish_Coral_Pink_L_Couch.png/180px-Large_Lavish_Coral_Pink_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1956,9 +1936,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Lavish Gray Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/7b/Large_Lavish_Gray_Couch.png/180px-Large_Lavish_Gray_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1966,9 +1946,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Lavish Gray L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/7c/Large_Lavish_Gray_L_Couch.png/180px-Large_Lavish_Gray_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1976,9 +1956,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Lavish Navy Blue Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/8/8f/Large_Lavish_Navy_Blue_Couch.png/180px-Large_Lavish_Navy_Blue_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1986,9 +1966,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Lavish Navy Blue L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/2/21/Large_Lavish_Navy_Blue_L_Couch.png/180px-Large_Lavish_Navy_Blue_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -1996,9 +1976,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Lavish Turquoise Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/18/Large_Lavish_Turquoise_Couch.png/180px-Large_Lavish_Turquoise_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2006,9 +1986,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Lavish Turquoise L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/5a/Large_Lavish_Turquoise_L_Couch.png/180px-Large_Lavish_Turquoise_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2016,9 +1996,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Navy Blue Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/4/41/Large_Navy_Blue_Couch.png/180px-Large_Navy_Blue_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2026,9 +2006,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Navy Blue L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/07/Large_Navy_Blue_L_Couch.png/180px-Large_Navy_Blue_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2036,9 +2016,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Oval Black Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/3/3d/Large_Oval_Black_Dining_Table.png/180px-Large_Oval_Black_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2046,9 +2026,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Oval Dark Wood Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/4/42/Large_Oval_Dark_Wood_Dining_Table.png/180px-Large_Oval_Dark_Wood_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2056,9 +2036,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Oval Medium Wood Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/2/29/Large_Oval_Medium_Wood_Dining_Table.png/180px-Large_Oval_Medium_Wood_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2066,9 +2046,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Oval White Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/dd/Large_Oval_White_Dining_Table.png/180px-Large_Oval_White_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2076,9 +2056,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Oval Wood Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/a5/Large_Oval_Wood_Dining_Table.png/180px-Large_Oval_Wood_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2086,9 +2066,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Pale Wood Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/df/Large_Pale_Wood_Dining_Table.png/180px-Large_Pale_Wood_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2096,9 +2076,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Red Modern Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/fc/Large_Red_Modern_Couch.png/180px-Large_Red_Modern_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2106,9 +2086,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Red Modern L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/ce/Large_Red_Modern_L_Couch.png/180px-Large_Red_Modern_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2116,9 +2096,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Tan Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/8/87/Large_Tan_Couch.png/180px-Large_Tan_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2126,9 +2106,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Tan L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/8/85/Large_Tan_L_Couch.png/180px-Large_Tan_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2136,9 +2116,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Tan Modern Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/c4/Large_Tan_Modern_Couch.png/180px-Large_Tan_Modern_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2146,9 +2126,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Tan Modern L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/be/Large_Tan_Modern_L_Couch.png/180px-Large_Tan_Modern_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2156,9 +2136,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large White Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/bd/Large_White_Couch.png/180px-Large_White_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2166,9 +2146,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large White Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/13/Large_White_Dining_Table.png/180px-Large_White_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2176,9 +2156,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large White L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/d2/Large_White_L_Couch.png/180px-Large_White_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2186,9 +2166,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large White Marble Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/e1/Large_White_Marble_Dining_Table.png/180px-Large_White_Marble_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2196,9 +2176,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large White Modern Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/fc/Large_White_Modern_Couch.png/180px-Large_White_Modern_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2206,9 +2186,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large White Modern L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/4/4f/Large_White_Modern_L_Couch.png/180px-Large_White_Modern_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2216,9 +2196,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Large Wooden Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/f7/Large_Wooden_Dining_Table.png/180px-Large_Wooden_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2226,9 +2206,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Lavish Black Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/ee/Lavish_Black_Couch.png/180px-Lavish_Black_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2236,9 +2216,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Lavish Black Dining Chair`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/1f/Lavish_Black_Dining_Chair.png/138px-Lavish_Black_Dining_Chair.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2246,9 +2226,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Lavish Black Double Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/05/Lavish_Black_Double_Bed.png/180px-Lavish_Black_Double_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2256,9 +2236,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Lavish Black L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/14/Lavish_Black_L_Couch.png/180px-Lavish_Black_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2266,9 +2246,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Lavish Navy Blue Double Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/3/35/Lavish_Navy_Blue_Double_Bed.png/180px-Lavish_Navy_Blue_Double_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2276,9 +2256,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Lavish Navy Blue L Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/ce/Lavish_Navy_Blue_L_Couch.png/180px-Lavish_Navy_Blue_L_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2286,9 +2266,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Lavish Turquoise Couch`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/6c/Lavish_Turquoise_Couch.png/180px-Lavish_Turquoise_Couch.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2296,9 +2276,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Light Gray Fridge`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/0f/Light_Gray_Fridge.png/104px-Light_Gray_Fridge.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2306,9 +2286,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Medium Wood Dining Chair`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/4/49/Medium_Wood_Dining_Chair.png/115px-Medium_Wood_Dining_Chair.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2316,39 +2296,43 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Memory Frame`,
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/1d/Memory_Frame.png/180px-Memory_Frame.png",
+        obtainedBy: "Available from game start",
+        tracked: false,
+        style: ["Elegant"],
+        furnitureCategory: ["Living Room","Decor"],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.2
     },
     {
-        furnitureName: ``,
+        furnitureName: `Menorah Rug`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/5f/Menorah_Rug.png/180px-Menorah_Rug.png",
         style: [],
         furnitureCategory: [""],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.2
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Mischievous Jack-O'-Lantern`,
+        price: 431,
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/64/Mischievous_Jack-O%27-Lantern.png/169px-Mischievous_Jack-O%27-Lantern.png",
+        obtainedBy: `"Sugar Rush" Special Task`,
+        tracked: false,
+        style: ["Traditional","Rustic"],
+        furnitureCategory: ["Living Room","Outdoors","Decor"],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.1,
+        updated: 1.12
     },
     {
-        furnitureName: ``,
+        furnitureName: `Navy Blue Armchair`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/8/86/Navy_Blue_Armchair.png/180px-Navy_Blue_Armchair.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2356,9 +2340,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Navy Blue Dining Chair`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/d/db/Navy_Blue_Dining_Chair.png/138px-Navy_Blue_Dining_Chair.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2366,9 +2350,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Navy Blue Double Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/11/Navy_Blue_Double_Bed.png/180px-Navy_Blue_Double_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2376,9 +2360,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Navy Blue Single Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/93/Navy_Blue_Single_Bed.png/180px-Navy_Blue_Single_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2386,9 +2370,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Nightmarish Wall Sconce`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/6c/Nightmarish_Wall_Sconce.png/180px-Nightmarish_Wall_Sconce.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2396,9 +2380,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Oak Branch-Woven Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/5/50/Oak_Branch-Woven_Bed.png/180px-Oak_Branch-Woven_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2406,9 +2390,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Oak Shelf of Assorted Potions`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/ef/Oak_Shelf_of_Assorted_Potions.png/146px-Oak_Shelf_of_Assorted_Potions.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2416,9 +2400,10 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Old Fireplace`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/69/Old_Fireplace.png/180px-Old_Fireplace.png",
+        tracked: false,
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2426,19 +2411,20 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Orange Trick or Treater's Bounty`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/c/cd/Orange_Trick_or_Treater%27s_Bounty.png",
+        obtainedBy: `Villain's Star Path`,
         style: [],
         furnitureCategory: [""],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.1
     },
     {
-        furnitureName: ``,
+        furnitureName: `Oval Black Coffee Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/b2/Oval_Black_Coffee_Table.png/180px-Oval_Black_Coffee_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2446,9 +2432,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Oval Black Desk`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/a9/Oval_Black_Desk.png/180px-Oval_Black_Desk.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2456,9 +2442,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Oval Black Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/ec/Oval_Black_Dining_Table.png/180px-Oval_Black_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2466,9 +2452,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Oval Dark Wood Coffee Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/eb/Oval_Dark_Wood_Coffee_Table.png/180px-Oval_Dark_Wood_Coffee_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2476,9 +2462,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Oval Dark Wood Coffee Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/0/06/Oval_Dark_Wood_Desk.png/180px-Oval_Dark_Wood_Desk.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2486,9 +2472,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Oval Medium Wood Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/3/33/Oval_Medium_Wood_Dining_Table.png/180px-Oval_Medium_Wood_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2496,9 +2482,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Oval Pale Wood Coffee Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/f/f9/Oval_Pale_Wood_Coffee_Table.png/180px-Oval_Pale_Wood_Coffee_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2506,9 +2492,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Oval Pale Wood Desk`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/e2/Oval_Pale_Wood_Desk.png/180px-Oval_Pale_Wood_Desk.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2516,9 +2502,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Oval White Coffee Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/e3/Oval_White_Coffee_Table.png/180px-Oval_White_Coffee_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2526,9 +2512,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Oval White Desk`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/a9/Oval_White_Desk.png/180px-Oval_White_Desk.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2536,9 +2522,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Oval Wooden Coffee Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/3/32/Oval_Wooden_Coffee_Table.png/180px-Oval_Wooden_Coffee_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2546,9 +2532,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Oval Wooden Desk`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/1e/Oval_Wooden_Desk.png/180px-Oval_Wooden_Desk.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2556,9 +2542,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Pale Blue Double Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/c/c0/Pale_Blue_Double_Bed.png/180px-Pale_Blue_Double_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2566,9 +2552,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Pale Blue Single Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/2/25/Pale_Blue_Single_Bed.png/180px-Pale_Blue_Single_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2576,9 +2562,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Pale Wood Coffee Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/6e/Pale_Wood_Coffee_Table.png/180px-Pale_Wood_Coffee_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2586,9 +2572,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Pale Wood Desk`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/2/2f/Pale_Wood_Desk.png/180px-Pale_Wood_Desk.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2596,9 +2582,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Pale Wood Dining Chair`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/8/8c/Pale_Wood_Dining_Chair.png/114px-Pale_Wood_Dining_Chair.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2606,9 +2592,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Pale Wood Dining Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/96/Pale_Wood_Dining_Table.png/180px-Pale_Wood_Dining_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2616,9 +2602,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Pale Wood Side Table`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/1e/Pale_Wood_Side_Table.png/180px-Pale_Wood_Side_Table.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2626,9 +2612,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Pale Wood Wardrobe`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/1e/Pale_Wood_Wardrobe.png/105px-Pale_Wood_Wardrobe.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2636,19 +2622,20 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
+        furnitureName: `Pampas Grass Jug`,
+        price: ["x2 Iron Ingot","x5 Soil"],
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/76/Pampas_Grass_Jug.png/143px-Pampas_Grass_Jug.png",
+        obtainedBy: "Crafting",
         style: [],
         furnitureCategory: [""],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.1
     },
     {
-        furnitureName: ``,
+        furnitureName: `Piano`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/e/ea/Piano.png/155px-Piano.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2656,19 +2643,19 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Pile of Gifts`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/a/a9/Pile_of_Gifts.png/180px-Pile_of_Gifts.png",
         style: [],
         furnitureCategory: [""],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.2
     },
     {
-        furnitureName: ``,
+        furnitureName: `Pink Double Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/12/Pink_Double_Bed.png/180px-Pink_Double_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2676,9 +2663,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Pink Fridge`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/3/33/Pink_Fridge.png/104px-Pink_Fridge.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2686,9 +2673,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Pink Single Bed`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/b/b2/Pink_Single_Bed.png/180px-Pink_Single_Bed.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2696,29 +2683,32 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
+        furnitureName: `Playful Pumpkin Scarecrow`,
+        price: ["x10 Dark Wood","x10 Fabric","x20 Wheat","x1 Pumpkin"],
+        image: "https://dreamlightvalleywiki.com/images/thumb/9/91/Playful_Pumpkin_Scarecrow.png/109px-Playful_Pumpkin_Scarecrow.png",
+        obtainedBy: "Crafting",
         style: [],
         furnitureCategory: [""],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.1
     },
     {
-        furnitureName: ``,
-        // price: ,
-        image: "",
-        style: [],
-        furnitureCategory: [""],
+        furnitureName: `Pumpkin Stack`,
+        price: 431,
+        image: "https://dreamlightvalleywiki.com/images/thumb/1/11/Pumpkin_Stack.png/110px-Pumpkin_Stack.png",
+        obtainedBy: `"Stockpiling Pumpkins" Special Task`,
+        style: ["Traditional","Rustic"],
+        furnitureCategory: ["Living Room","Outdoors","Decor"],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.1,
+        updated: 1.12
     },
     {
-        furnitureName: ``,
+        furnitureName: `Purple Chaise and Anchor Pillow`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/7/70/Purple_Chaise_and_Anchor_Pillow.png/180px-Purple_Chaise_and_Anchor_Pillow.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2726,19 +2716,20 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Purple Trick or Trater's Bounty`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/1/14/Purple_Trick_or_Treater%27s_Bounty.png",
+        tracked: false,
         style: [],
         furnitureCategory: [""],
         color: [],
         universe: "General",
-        added: 1.0
+        added: 1.1
     },
     {
-        furnitureName: ``,
+        furnitureName: `Purple-Patterned Cushioned Chair`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/67/Purple-Patterned_Cushioned_Chair.png/103px-Purple-Patterned_Cushioned_Chair.png",
         style: [],
         furnitureCategory: [""],
         color: [],
@@ -2746,9 +2737,9 @@ const generalFurniture = [
         added: 1.0
     },
     {
-        furnitureName: ``,
+        furnitureName: `Red Bench`,
         // price: ,
-        image: "",
+        image: "https://dreamlightvalleywiki.com/images/thumb/6/60/Red_Bench.png/180px-Red_Bench.png",
         style: [],
         furnitureCategory: [""],
         color: [],

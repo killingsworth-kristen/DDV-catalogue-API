@@ -51,6 +51,8 @@ router.put('/:id', async (req,res) => {
                 {
                 furnitureName: req.body.furnitureName,
                 price: req.body.price,
+                image: req.body.image,
+                tracked: req.body.tracked,
                 obtainedBy: req.body.obtainedBy,
                 style: req.body.style,
                 furnitureCategory: req.body.furnitureCategory,
