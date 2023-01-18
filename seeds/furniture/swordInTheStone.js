@@ -1,4 +1,4 @@
-const fs = require('fs')
+// 14 pieces of furniture as of 1/18/23 
 
 const SwordStoneFurniture =[
     {
