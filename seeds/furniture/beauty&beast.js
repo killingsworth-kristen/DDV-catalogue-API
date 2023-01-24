@@ -445,7 +445,7 @@ const beatuyBeastFurniture = [
     // {
     //     furnitureName: ``,
     //     price: ,
-    //     image: "",
+    //     image: "/images/furniture/beauty&beast/",
     //     style: [],
     //     furnitureCategory: [""],
     //     color: [],
