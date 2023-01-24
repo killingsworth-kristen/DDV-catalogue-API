@@ -1,5 +1,4 @@
-
-// 34 pieces of furniture
+// 35 pieces of furniture as of 1/24/23
 
 const wreckItRaplhFurniture = [
     {

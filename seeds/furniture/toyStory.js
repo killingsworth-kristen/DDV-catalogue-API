@@ -1,6 +1,4 @@
-
-// 26 pieces of furniture
-// 5-6 furniture added for christams update dec. 6th 2022
+// 32 items as of 1/24/23
 
 const toyStoryFurniture = [
     {
