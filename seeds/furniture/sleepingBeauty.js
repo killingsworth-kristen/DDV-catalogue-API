@@ -4,7 +4,7 @@ const sleepingBeautyFurniture = [
     {
         furnitureName: `Maleficent's Throne`,
         price: 450,
-        image: "/images/furniture/sleepingBeauty/95px-Maleficent's_Throne.png",
+        image: "/images/furniture/sleepingBeauty/Maleficent's_Throne.png",
         obtainedBy: "Villain's Star Path",
         style: ["Bold","Elegant"],
         furnitureCategory: ["Living Room","Study"],

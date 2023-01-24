@@ -4,7 +4,7 @@ const snowWhiteFurniture = [
     {
         furnitureName: `Magic Mirror (On the Wall)`,
         price: 408,
-        image: "/images/furniture/snowWhite/75px-Magic_Mirror_(On_the_Wall).png",
+        image: "/images/furniture/snowWhite/Magic_Mirror_(On_the_Wall).png",
         obtainedBy: "Villain's Star Path",
         style: ["Bold","Elegant"],
         furnitureCategory: ["Bedroom","Study"],
