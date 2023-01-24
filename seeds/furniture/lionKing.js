@@ -1,12 +1,11 @@
-
-// 23 pieces of furniture
+// 24 pieces of furniture
 
 const lionKingFurniture = [
     // no information yet
     {
         furnitureName: `Branch Partition`,
         // price: ,
-        image: "https://dreamlightvalleywiki.com/images/thumb/4/42/Branch_Partition.png/87px-Branch_Partition.png",
+        image: "/images/furniture/lionKing/Branch_Partition.png",
         style: ["Rustic","Traditional"],
         furnitureCategory: ["Bedroom","Dining Room","Study","Decor"],
         color: [],
@@ -16,7 +15,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Carved Wood Bed`,
         price: 23000,
-        image: "https://dreamlightvalleywiki.com/images/thumb/d/d6/Carved_Wood_Bed.png/168px-Carved_Wood_Bed.png",
+        image: "/images/furniture/lionKing/Carved_Wood_Bed.png",
         style: ["Bold","Elegant","Rustic"],
         furnitureCategory: ["Bedroom"],
         color: [],
@@ -26,7 +25,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Carved Wood Bench`,
         price: 2400,
-        image: "https://dreamlightvalleywiki.com/images/thumb/2/29/Carved_Wood_Bench.png/180px-Carved_Wood_Bench.png",
+        image: "/images/furniture/lionKing/Carved_Wood_Bench.png",
         style: ["Bold","Rustic","Traditional"],
         furnitureCategory: ["Dining Room","Outdoors","Rec Room"],
         color: [],
@@ -36,7 +35,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Carved Wood Table`,
         price: 8800,
-        image: "https://dreamlightvalleywiki.com/images/thumb/3/3e/Carved_Wood_Table.png/180px-Carved_Wood_Table.png",
+        image: "/images/furniture/lionKing/Carved_Wood_Table.png",
         style: ["Bold","Rustic","Traditional"],
         furnitureCategory: ["Dining Room","Outdoors"],
         color: [],
@@ -46,7 +45,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Carved Wooden Side Table`,
         price: 3520,
-        image: "https://dreamlightvalleywiki.com/images/thumb/8/8f/Carved_Wooden_Side_Table.png/180px-Carved_Wooden_Side_Table.png",
+        image: "/images/furniture/lionKing/Carved_Wooden_Side_Table.png",
         style: ["Bold","Rustic","Traditional"],
         furnitureCategory: ["Dining Room","Study"],
         color: [],
@@ -56,7 +55,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Carved Wooden Sofa`,
         price: 6000,
-        image: "https://dreamlightvalleywiki.com/images/thumb/d/d9/Carved_Wooden_Sofa.png/180px-Carved_Wooden_Sofa.png",
+        image: "/images/furniture/lionKing/Carved_Wooden_Sofa.png",
         style: ["Bold","Rustic","Traditional"],
         furnitureCategory: ["Bedroom","Living Room"],
         color: [],
@@ -66,7 +65,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Clay Vase`,
         price: 2040,
-        image: "https://dreamlightvalleywiki.com/images/thumb/4/49/Clay_Vase.png/162px-Clay_Vase.png",
+        image: "/images/furniture/lionKing/Clay_Vase.png",
         style: ["Bold","Rustic","Traditional"],
         furnitureCategory: ["Decor","Dining Room","Study"],
         color: [],
@@ -76,7 +75,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Cub-Emblazoned Dresser`,
         price: 6400,
-        image: "https://dreamlightvalleywiki.com/images/thumb/3/32/Cub-Emblazoned_Dresser.png/180px-Cub-Emblazoned_Dresser.png",
+        image: "/images/furniture/lionKing/Cub-Emblazoned_Dresser.png",
         style: ["Bold","Elegant","Rustic"],
         furnitureCategory: ["Bedroom","Living Room"],
         color: [],
@@ -87,7 +86,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Fallen Log Perch`,
         price: 3000,
-        image: "https://dreamlightvalleywiki.com/images/thumb/5/5a/Fallen_Log_Perch.png/180px-Fallen_Log_Perch.png",
+        image: "/images/furniture/lionKing/Fallen_Log_Perch.png",
         style: ["Rustic"],
         furnitureCategory: ["Outdoors"],
         color: [],
@@ -97,7 +96,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Floral Mirror`,
         price: 5440,
-        image: "https://dreamlightvalleywiki.com/images/thumb/4/47/Floral_Mirror.png/100px-Floral_Mirror.png",
+        image: "/images/furniture/lionKing/Floral_Mirror.png",
         style: ["Bold","Elegant","Rustic"],
         furnitureCategory: ["Bathroom","Bedroom"],
         color: [],
@@ -107,7 +106,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Giraffe Lamp`,
         price: 5440,
-        image: "https://dreamlightvalleywiki.com/images/thumb/5/58/Giraffe_Lamp.png/99px-Giraffe_Lamp.png",
+        image: "/images/furniture/lionKing/Giraffe_Lamp.png",
         style: ["Bold","Elegant","Rustic"],
         furnitureCategory: ["Bedroom","Living Room"],
         color: [],
@@ -117,7 +116,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Leaf Pile Rug`,
         price: 600,
-        image: "https://dreamlightvalleywiki.com/images/thumb/5/56/Leaf_Pile_Rug.png/180px-Leaf_Pile_Rug.png",
+        image: "/images/furniture/lionKing/Leaf_Pile_Rug.png",
         style: ["Rustic"],
         furnitureCategory: ["Outdoors"],
         color: [],
@@ -127,7 +126,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Lion Wall Sculpture`,
         price: 20400,
-        image: "https://dreamlightvalleywiki.com/images/thumb/4/40/Lion_Wall_Sculpture.png/180px-Lion_Wall_Sculpture.png",
+        image: "/images/furniture/lionKing/Lion_Wall_Sculpture.png",
         obtainedBy: "Scar Friendship Level 5",
         style: ["Bold","Rustic","Traditional"],
         furnitureCategory: ["Dining Room","Decor"],
@@ -136,9 +135,19 @@ const lionKingFurniture = [
         added: 1.1
     },
     {
+        furnitureName: `Lion-Patterned Rug`,
+        price: 1800,
+        image: "/images/furniture/lionKing/Lion-Patterneed_Rug.png",
+        style: ["Bold","Rustic","Traditional"],
+        furnitureCategory: ["Dining Room","Study","Rec Room","Rugs"],
+        color: [],
+        universe: "Lion King",
+        added: 1.0
+    },
+    {
         furnitureName: `Nightstand`,
         price: 3520,
-        image: "https://dreamlightvalleywiki.com/images/thumb/9/93/Nightstand.png/180px-Nightstand.png",
+        image: "/images/furniture/lionKing/Nightstand.png",
         style: ["Bold","Elegant","Rustic"],
         furnitureCategory: ["Bedroom","Living Room"],
         color: [],
@@ -148,7 +157,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Paw Print Rock Slab`,
         price: 13600,
-        image: "https://dreamlightvalleywiki.com/images/d/dc/Paw_Print_Rock_Slab.png",
+        image: "/images/furniture/lionKing/Paw_Print_Rock_Slab.png",
         obtainedBy: "Scar Friendship Level 8",
         style: ["Bold","Quirky","Rustic"],
         furnitureCategory: ["Bedroom","Living Room","Outdoors","Rec Room"],
@@ -159,7 +168,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Rafiki's Bowl`,
         price: 900,
-        image: "https://dreamlightvalleywiki.com/images/thumb/e/e3/Rafiki%27s_Bowl.png/171px-Rafiki%27s_Bowl.png",
+        image: "/images/furniture/lionKing/Rafiki's_Bowl.png",
         style: ["Rustic"],
         furnitureCategory: ["Bathroom","Kitchen","Outdoors"],
         color: [],
@@ -169,7 +178,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Scar's Lounging Rock`,
         price: 4600,
-        image: "https://dreamlightvalleywiki.com/images/thumb/c/c1/Scar%27s_Lounging_Rock.png/180px-Scar%27s_Lounging_Rock.png",
+        image: "/images/furniture/lionKing/Scar's_Lounging_Rock.png",
         style: ["Rustic"],
         furnitureCategory: ["Outdoors"],
         color: [],
@@ -179,7 +188,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Trunk Column`,
         price: 6400,
-        image: "https://dreamlightvalleywiki.com/images/thumb/e/e0/Trunk_Column.png/62px-Trunk_Column.png",
+        image: "/images/furniture/lionKing/Trunk_Column.png",
         style: ["Bold","Elegant","Rustic"],
         furnitureCategory: ["Bedroom","Living Room"],
         color: [],
@@ -189,7 +198,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Vine Wall`,
         price: 5760,
-        image: "https://dreamlightvalleywiki.com/images/thumb/f/f8/Vine_Wall.png/109px-Vine_Wall.png",
+        image: "/images/furniture/lionKing/Vine_Wall.png",
         obtainedBy: "Furniture Pouch",
         style: ["Rustic"],
         furnitureCategory: ["Outdoor"],
@@ -199,9 +208,8 @@ const lionKingFurniture = [
     },
     {
         furnitureName: `Volcanic Stove`,
-        // unlikely this is correct
-        price: 1,
-        image: "https://dreamlightvalleywiki.com/images/2/2b/Volcanic_Stove.png",
+        // price: 1,
+        image: "/images/furniture/lionKing/Volcanic_Stove.png",
         obtainedBy: "The Making of a Monarch (Scar Level 10)",
         style: ["Bold","Rustic"],
         furnitureCategory: ["Outdoors"],
@@ -212,7 +220,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Waterfall`,
         price: 8000,
-        image: "https://dreamlightvalleywiki.com/images/thumb/a/a9/Waterfall.png/106px-Waterfall.png",
+        image: "/images/furniture/lionKing/Waterfall.png",
         style: ["Rustic"],
         furnitureCategory: ["Outdoors"],
         color: [],
@@ -222,7 +230,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Watering Hole`,
         price: 20000,
-        image: "https://dreamlightvalleywiki.com/images/thumb/9/9c/Watering_Hole.png/180px-Watering_Hole.png",
+        image: "/images/furniture/lionKing/Watering_Hole.png",
         style: ["Rustic"],
         furnitureCategory: ["Outdoors"],
         color: [],
@@ -232,7 +240,7 @@ const lionKingFurniture = [
     {
         furnitureName: `Wildebeest Remains`,
         price: 16000,
-        image: "https://dreamlightvalleywiki.com/images/thumb/2/23/Wildebeest_Remains.png/180px-Wildebeest_Remains.png",
+        image: "/images/furniture/lionKing/Wildebeest_Remains.png",
         obtainedBy: "Scar Friendship Level 2",
         style: ["Bold","Rustic"],
         furnitureCategory: ["Outdoors"],
@@ -243,7 +251,7 @@ const lionKingFurniture = [
     // {
     //     furnitureName: ``,
     //     price: ,
-    //     image: "",
+    //     image: "/images/furniture/lionKing/",
     //     style: [],
     //     furnitureCategory: [""],
     //     color: [],
