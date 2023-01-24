@@ -1,9 +1,10 @@
+// 3 items as of 1/24/23
 
 const cocoFurniture = [
     {
         furnitureName: `Burro Piñata`,
         price: 480,
-        image: "https://dreamlightvalleywiki.com/images/thumb/3/33/Burro_Pi%C3%B1ata.png/180px-Burro_Pi%C3%B1ata.png",
+        image: "/images/furniture/coco/Burro_Piñata.png",
         obtainedBy: "Pixar Fest Star Path",
         style: ["Cute","Modern"],
         furnitureCategory: ["Outdoors","Rec Room"],
@@ -14,7 +15,7 @@ const cocoFurniture = [
     {
         furnitureName: `Miguel's Guitar`,
         price: 480,
-        image: "https://dreamlightvalleywiki.com/images/thumb/7/76/Miguel%27s_Guitar.png/180px-Miguel%27s_Guitar.png",
+        image: "/images/furniture/coco/Miguel's_Guitar.png",
         obtainedBy: "Pixar Fest Star Path",
         style: ["Bold","Traditional"],
         furnitureCategory: ["Outdoors","Rec Room","Study"],
@@ -25,7 +26,7 @@ const cocoFurniture = [
     {
         furnitureName: `Papel Picados`,
         price: 408,
-        image: "https://dreamlightvalleywiki.com/images/thumb/e/e7/Papel_Picados.png/180px-Papel_Picados.png",
+        image: "/images/furniture/coco/Papel_Picados.png",
         obtainedBy: "Pixar Fest Star Path",
         style: ["Cute","Traditional"],
         furnitureCategory: ["Outdoors"],
@@ -33,5 +34,16 @@ const cocoFurniture = [
         universe: "Coco",
         added: 1.0
     },
+    // {
+    //     furnitureName: ``,
+    //     price: ,
+    //     image: "/images/furniture/coco/",
+    //     obtainedBy: "",
+    //     style: [""],
+    //     furnitureCategory: [""],
+    //     color: [],
+    //     universe: "Coco",
+    //     added: 1.3
+    // },
 ]
 module.exports=cocoFurniture
