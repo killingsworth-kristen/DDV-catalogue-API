@@ -4,7 +4,7 @@ const SwordStoneFurniture =[
     {
         furnitureName: `Bag of Tricks`,
         price: 3200,
-        image: "/images/furniture/swordInTheStone/180px-Bag_of_Tricks.png",
+        image: "/images/furniture/swordInTheStone/Bag_of_Tricks.png",
         obtainedBy: "Merlin Friendship Level 2",
         style: ["Quirky","Traditional"],
         furnitureCategory: ["Study"],
@@ -15,7 +15,7 @@ const SwordStoneFurniture =[
     {
         furnitureName: `Big Pile of Books`,
         price: 6400,
-        image: "/images/furniture/swordInTheStone/134px-Big_Pile_of_Books.png",
+        image: "/images/furniture/swordInTheStone/Big_Pile_of_Books.png",
         tracked: false,
         style: ["Quirky","Traditional","Simple","Playful","Delicate","Wondrous"],
         furnitureCategory: ["Study"],
@@ -26,7 +26,7 @@ const SwordStoneFurniture =[
     {
         furnitureName: `Book Pile`,
         price: 900,
-        image: "/images/furniture/swordInTheStone/180px-Book_Pile.png",
+        image: "/images/furniture/swordInTheStone/Book_Pile.png",
         style: ["Professional","Traditional"],
         furnitureCategory: ["Bedroom","Study"],
         color: [],
@@ -47,7 +47,7 @@ const SwordStoneFurniture =[
     {
         furnitureName: `Line of Books`,
         price: 480,
-        image: "/images/furniture/swordInTheStone/180px-Line_of_Books.png",
+        image: "/images/furniture/swordInTheStone/Line_of_Books.png",
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
@@ -57,7 +57,7 @@ const SwordStoneFurniture =[
     {
         furnitureName: `Melted Candles`,
         price: 360,
-        image: "/images/furniture/swordInTheStone/165px-Melted_Candles.png",
+        image: "/images/furniture/swordInTheStone/Melted_Candles.png",
         style: ["Professional","Traditional"],
         furnitureCategory: ["Bedroom","Study"],
         color: [],
@@ -78,7 +78,7 @@ const SwordStoneFurniture =[
     {
         furnitureName: `Old Armchair`,
         price: 900,
-        image: "/images/furniture/swordInTheStone/180px-Old_Armchair.png",
+        image: "/images/furniture/swordInTheStone/Old_Armchair.png",
         tracked: false,
         style: ["Casual","Quirky"],
         furnitureCategory: ["Living Room","Rec Room","Study"],
@@ -89,7 +89,7 @@ const SwordStoneFurniture =[
     {
         furnitureName: `Open Book`,
         price: 1200,
-        image: "/images/furniture/swordInTheStone/180px-Open_Book.png",
+        image: "/images/furniture/swordInTheStone/Open_Book.png",
         style: ["Professional","Traditional"],
         furnitureCategory: ["Bedroom","Study"],
         color: [],
@@ -99,7 +99,7 @@ const SwordStoneFurniture =[
     {
         furnitureName: `Orntate Curtain`,
         price: 1200,
-        image: "/images/furniture/swordInTheStone/88px-Ornate_Curtain.png",
+        image: "/images/furniture/swordInTheStone/Ornate_Curtain.png",
         style: [],
         furnitureCategory: ["Living Room","Study"],
         color: [],
@@ -109,7 +109,7 @@ const SwordStoneFurniture =[
     {
         furnitureName: `Phial Holder`,
         price: 1200,
-        image: "/images/furniture/swordInTheStone/180px-Phial_Holder.png",
+        image: "/images/furniture/swordInTheStone/Phial_Holder.png",
         obtainedBy: "Merlin Friendship Level 5",
         style: ["Professional","Quirky","Traditional"],
         furnitureCategory: ["Rec Room","Study"],
@@ -120,7 +120,7 @@ const SwordStoneFurniture =[
     {
         furnitureName: `Potion Cupboard`,
         price: 6400,
-        image: "/images/furniture/swordInTheStone/180px-Potion_Cupboard.png",
+        image: "/images/furniture/swordInTheStone/Potion_Cupboard.png",
         obtainedBy: "Merlin Friendship Level 8",
         style: ["Quirky","Rustic","Traditional"],
         furnitureCategory: ["Rec Room","Study"],
@@ -131,7 +131,7 @@ const SwordStoneFurniture =[
     {
         furnitureName: `Round-Bottomed Flask and Holder`,
         price: 900,
-        image: "/images/furniture/swordInTheStone/180px-Round-Bottomed_Flask_and_Holder.png",
+        image: "/images/furniture/swordInTheStone/Round-Bottomed_Flask_and_Holder.png",
         style: ["Professional","Quirky"],
         furnitureCategory: ["Rec Room","Study"],
         color: [],
@@ -141,7 +141,7 @@ const SwordStoneFurniture =[
     {
         furnitureName: `Small Book Pile`,
         price: 360,
-        image: "/images/furniture/swordInTheStone/180px-Small_Book_Pile.png",
+        image: "/images/furniture/swordInTheStone/Small_Book_Pile.png",
         style: ["Professional","Traditional"],
         furnitureCategory: ["Bedroom","Study"],
         color: [],

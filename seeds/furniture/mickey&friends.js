@@ -15,7 +15,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Basic Dresser`,
         price: 1320,
-        image: "/images/furniture/mickey&friends/180px-Basic_Dresser.png",
+        image: "/images/furniture/mickey&friends/Basic_Dresser.png",
         style: ["Casual","Quirky"],
         furnitureCategory: ["Bedroom","Living Room","Tables"],
         color: [],
@@ -56,7 +56,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Blue Dining Chair`,
         price: 900,
-        image: "/images/furniture/mickey&friends/180px-Blue_Dining_Chair.png",
+        image: "/images/furniture/mickey&friends/Blue_Dining_Chair.png",
         obtainedby: `Founder's Pack: Standard Edition`,
         style: ["Modern","Casual"],
         furnitureCategory: ["Dining Room","Kitchen","Seating"],
@@ -67,7 +67,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Blue Dining Table`,
         price: 500,
-        image: "/images/furniture/mickey&friends/180px-Blue_Dining-Table.png",
+        image: "/images/furniture/mickey&friends/Blue_Dining-Table.png",
         obtainedby: `Founder's Pack: Standard Edition`,
         sstyle: ["Modern","Elegant"],
         furnitureCategory: ["Dining Room","Kitchen","Tables"],
@@ -89,7 +89,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Checker Board`,
         price: 360,
-        image: "/images/furniture/mickey&friends/180px-Checker_Board.png",
+        image: "/images/furniture/mickey&friends/Checker_Board.png",
         style: ["Cute","Casual"],
         furnitureCategory: ["Rec Room","Study","Living Room","Decor"],
         color: [],
@@ -99,7 +99,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Corner Counter`,
         price: 1320,
-        image: "/images/furniture/mickey&friends/180px-Corner_Counter.png",
+        image: "/images/furniture/mickey&friends/Corner_Counter.png",
         style: [],
         furnitureCategory: ["Tables"],
         color: [],
@@ -109,7 +109,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Counter`,
         price: 1320,
-        image: "/images/furniture/mickey&friends/180px-Counter.png",
+        image: "/images/furniture/mickey&friends/Counter.png",
         style: ["Modern","Casual"],
         furnitureCategory: ["Kitchen","Tables"],
         color: [],
@@ -119,7 +119,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Cozy Armchair`,
         price: 900,
-        image: "/images/furniture/mickey&friends/148px-Cozy_Armchair.png",
+        image: "/images/furniture/mickey&friends/Cozy_Armchair.png",
         style: ["Casual","Cute","Quirky"],
         furnitureCategory: ["Living Room","Seating"],
         color: [],
@@ -130,7 +130,7 @@ const MickeyFurniture = [
         furnitureName: `Cozy Festive Hearth`,
         price: 600,
         obtainedby: `Festive Star Path`,
-        image: "/images/furniture/mickey&friends/131px-Cozy_Festive_Hearth.png",
+        image: "/images/furniture/mickey&friends/Cozy_Festive_Hearth.png",
         style: ["Rustic", "Elegant"],
         furnitureCategory: ["Living Room","Study", "Decor"],
         color: [],
@@ -140,7 +140,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Cozy Fireplace`,
         price: 4000,
-        image: "/images/furniture/mickey&friends/180px-Cozy_Fireplace.png",
+        image: "/images/furniture/mickey&friends/Cozy_Fireplace.png",
         obtainedby: `Goofy Friendship Level 5`,
         style: ["Casual","Traditional"],
         furnitureCategory: ["Living Room","Study","Decor"],
@@ -162,7 +162,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Cute Bow Bed`,
         price: 9200,
-        image: "/images/furniture/mickey&friends/180px-Cute_Bow_Bed.png",
+        image: "/images/furniture/mickey&friends/Cute_Bow_Bed.png",
         obtainedby: `Minnie Mouse Friendship Level 8`,
         style: ["Cute","Casual"],
         furnitureCategory: ["Bedroom","Beds"],
@@ -174,7 +174,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Cute Nightstand`,
         price: 1320,
-        image: "/images/furniture/mickey&friends/180px-Cute_Nightstand.png",
+        image: "/images/furniture/mickey&friends/Cute_Nightstand.png",
         style: ["Rustic","Casual"],
         furnitureCategory: ["Bedroom","Living Room","Tables"],
         color: [],
@@ -184,7 +184,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Cute Window`,
         price: 1500,
-        image: "/images/furniture/mickey&friends/180px-Cute_Window.png",
+        image: "/images/furniture/mickey&friends/Cute_Window.png",
         style: ["Cute","Rustic"],
         furnitureCategory: ["Kitchen","Bathroom","Windows"],
         color: [],
@@ -194,7 +194,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Dark Wood Vintage Chest`,
         price: 3200,
-        image: "/images/furniture/mickey&friends/180px-Dark_Wood_Vintage_Chest.png",
+        image: "/images/furniture/mickey&friends/Dark_Wood_Vintage_Chest.png",
         obtainedby: `Player House or Scrooge's Store`,
         style: ["Tradional"],
         furnitureCategory: ["Bedroom","Study","Rec Room","Storage"],
@@ -206,7 +206,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Dartboard`,
         price: 1200,
-        image: "/images/furniture/mickey&friends/162px-Dartboard.png",
+        image: "/images/furniture/mickey&friends/Dartboard.png",
         style: ["Sporty","Casual"],
         furnitureCategory: ["Rec Room","Study","Decor"],
         color: [],
@@ -216,7 +216,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Dustbin`,
         price: 360,
-        image: "/images/furniture/mickey&friends/180px-Dustbin.png",
+        image: "/images/furniture/mickey&friends/Dustbin.png",
         style: [],
         furnitureCategory: ["Kitchen","Bathroom","Decor"],
         color: [],
@@ -226,7 +226,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Enchanted Broom`,
         price: 2400,
-        image: "/images/furniture/mickey&friends/180px-Enchanted_Broom.png",
+        image: "/images/furniture/mickey&friends/Enchanted_Broom.png",
         style: ["Cute","Casual"],
         furnitureCategory: ["Kitchen","Outdoors","Decor"],
         color: [],
@@ -236,7 +236,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Enchanting Bed`,
         price: 4600,
-        image: "/images/furniture/mickey&friends/180px-Enchanting_Bed.png",
+        image: "/images/furniture/mickey&friends/Enchanting_Bed.png",
         style: ["Casual"],
         furnitureCategory: ["Bedroom","Beds"],
         color: [],
@@ -246,7 +246,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Enchanting Fountain`,
         price: 20000,
-        image: "/images/furniture/mickey&friends/180px-Enchanting_Fountain.png",
+        image: "/images/furniture/mickey&friends/Enchanting_Fountain.png",
         obtainedby: `The Secret Door (Mickey Mouse Level 10)`,
         style: ["Elegany"],
         furnitureCategory: ["Outdoors","Decor"],
@@ -257,7 +257,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Festive Dinner Table`,
         price: 660,
-        image: "/images/furniture/mickey&friends/180px-Festive_Dinner_Table.png",
+        image: "/images/furniture/mickey&friends/Festive_Dinner_Table.png",
         obtainedby: `Festive Star Path`,
         style: ["Elegant","Traditional"],
         furnitureCategory: ["Dining Room","Tables"],
@@ -268,7 +268,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Festive Garland`,
         // price: ,
-        image: "/images/furniture/mickey&friends/180px-Festive_Garland.png",
+        image: "/images/furniture/mickey&friends/Festive_Garland.png",
         obtainedby: `Festive Star Path`,
         style: [],
         furnitureCategory: ["Decor"],
@@ -279,7 +279,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Festive Windows`,
         price: 480,
-        image: "/images/furniture/mickey&friends/115px-Festive_Windows.png",
+        image: "/images/furniture/mickey&friends/Festive_Windows.png",
         obtainedby: `Festive Star Path`,
         style: ["Traditional","Elegant"],
         furnitureCategory: ["Dining Room","Study","Windows"],
@@ -290,7 +290,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Festive Wreath Post`,
         price: 480,
-        image: "/images/furniture/mickey&friends/92px-Festive_Wreath_Post.png",
+        image: "/images/furniture/mickey&friends/Festive_Wreath_Post.png",
         obtainedby: `Festive Star Path`,
         style: ["Rustic","Elegant"],
         furnitureCategory: ["Outdoors","Lighting"],
@@ -301,7 +301,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Garb Mannequin`,
         price: 6400,
-        image: "/images/furniture/mickey&friends/180px-Garb_Mannequin.png",
+        image: "/images/furniture/mickey&friends/Garb_Mannequin.png",
         style: ["Cute"],
         furnitureCategory: ["Bedroom","Study","Decor"],
         color: [],
@@ -311,7 +311,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Grand Tree of Holiday Cheer`,
         price: 648,
-        image: "/images/furniture/mickey&friends/117px-Grand_Tree_of_Holiday_Cheer.png",
+        image: "/images/furniture/mickey&friends/Grand_Tree_of_Holiday_Cheer.png",
         obtainedby: `Festive Star Path`,
         style: ["Traditional","Elegant"],
         furnitureCategory: ["Outdoors","Decor"],
@@ -322,7 +322,7 @@ const MickeyFurniture = [
     {
         furnitureName: `L-Couch for Pals`,
         price: 6000,
-        image: "/images/furniture/mickey&friends/180px-L-Couch_for_Pals.png",
+        image: "/images/furniture/mickey&friends/L-Couch_for_Pals.png",
         obtainedby: `Founder's Pack: Standard Edition`,
         style: ["Modern"],
         furnitureCategory: ["Living Room","Seating"],
@@ -333,7 +333,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Lightwood Vintage Chest`,
         price: 3200,
-        image: "/images/furniture/mickey&friends/180px-Light_Wood_Vintage_Chest.png",
+        image: "/images/furniture/mickey&friends/Light_Wood_Vintage_Chest.png",
         obtainedby: `Player House or Scrooge's Store`,
         style: ["Traditional"],
         furnitureCategory: ["Bedroom","Study","Rec Room","Storage"],
@@ -345,7 +345,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Magnet Mania Fridge`,
         price: 3680,
-        image: "/images/furniture/mickey&friends/104px-Magnet_Mania_Fridge.png",
+        image: "/images/furniture/mickey&friends/Magnet_Mania_Fridge.png",
         style: ["Cute","Casual"],
         furnitureCategory: ["Kitchen","Decor"],
         color: [],
@@ -356,7 +356,7 @@ const MickeyFurniture = [
         furnitureName: `Mickey Mouse Ceiling Light`,
         price: 2720,
         obtainedby: "Founder's Pack: Standard Edition",
-        image: "/images/furniture/mickey&friends/180px-Mickey_Mouse_Ceiling_Light.png",
+        image: "/images/furniture/mickey&friends/Mickey_Mouse_Ceiling_Light.png",
         style: ["Modern","Cute"],
         furnitureCategory: ["Dining Room","Living Room","Bedroom","Lighting"],
         color: [],
@@ -367,7 +367,7 @@ const MickeyFurniture = [
         furnitureName: `Mickey Mouse Dresser`,
         price: 3200,
         obtainedby: "Goofy Friendship Level 8",
-        image: "/images/furniture/mickey&friends/180px-Mickey_Mouse_Dresser.png",
+        image: "/images/furniture/mickey&friends/Mickey_Mouse_Dresser.png",
         style: ["Modern","Elegant"],
         furnitureCategory: ["Living Room","Bedroom","Decor"],
         color: [],
@@ -379,7 +379,7 @@ const MickeyFurniture = [
         furnitureName: `Mickey Mouse Jack-O'-Lantern`,
         price: 431,
         obtainedby: "Villain's Star Path",
-        image: "/images/furniture/mickey&friends/180px-Mickey_Mouse_Jack-O'-Lantern.png",
+        image: "/images/furniture/mickey&friends/Mickey_Mouse_Jack-O'-Lantern.png",
         style: ["Traditional","Rustic"],
         furnitureCategory: ["Living Room","Outdoors","Decor"],
         color: [],
@@ -389,7 +389,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Mickey Mouse Mirror`,
         price: 1200,
-        image: "/images/furniture/mickey&friends/180px-Mickey_Mouse_Mirror.png",
+        image: "/images/furniture/mickey&friends/Mickey_Mouse_Mirror.png",
         style: ["Casual","Cute"],
         furnitureCategory: ["Bathroom","Bedroom","Decor"],
         color: [],
@@ -399,7 +399,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Mickey Mouse Painting`,
         price: 6800,
-        image: "/images/furniture/mickey&friends/145px-Mickey_Mouse_Painting.png",
+        image: "/images/furniture/mickey&friends/Mickey_Mouse_Painting.png",
         style: ["Modern"],
         furnitureCategory: ["Bedroom","Living Room","Dining Room","Decor"],
         color: [],
@@ -409,7 +409,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Mickey Mouse Photo Holder`,
         price: 1020,
-        image: "/images/furniture/mickey&friends/180px-Mickey_Mouse_Photo_Holder.png",
+        image: "/images/furniture/mickey&friends/Mickey_Mouse_Photo_Holder.png",
         style: ["Cute","Modern"],
         furnitureCategory: ["Bedroom","Study","Decor"],
         color: [],
@@ -419,7 +419,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Mickey Mouse Photo in Small Frame`,
         price: 306,
-        image: "/images/furniture/mickey&friends/116px-Mickey_Mouse_Photo_in_Small_Frame.png",
+        image: "/images/furniture/mickey&friends/Mickey_Mouse_Photo_in_Small_Frame.png",
         style: ["Casual","Cute"],
         furnitureCategory: ["Bedroom","Living Room","Study","Decor"],
         color: [],
@@ -430,7 +430,7 @@ const MickeyFurniture = [
         furnitureName: `Mickey Mouse Pumpkin`,
         price: 431,
         obtainedby: `"Trick or Treat" Special Task`,
-        image: "/images/furniture/mickey&friends/180px-Mickey_Mouse_Pumpkin.png",
+        image: "/images/furniture/mickey&friends/Mickey_Mouse_Pumpkin.png",
         tracked: false,
         style: ["Traditional","Rustic"],
         furnitureCategory: ["Living Room","Outdoors","Decor"],
@@ -442,7 +442,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Mickey Mouse Wall Clock`,
         price: 1200,
-        image: "/images/furniture/mickey&friends/180px-Mickey_Mouse_Wall_Clock.png",
+        image: "/images/furniture/mickey&friends/Mickey_Mouse_Wall_Clock.png",
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
@@ -452,7 +452,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Mickey Mouse Wall Sconce`,
         price: 306,
-        image: "/images/furniture/mickey&friends/157px-Mickey_Mouse_Wall_Sconce.png",
+        image: "/images/furniture/mickey&friends/Mickey_Mouse_Wall_Sconce.png",
         style: ["Rustic","Elegant"],
         furnitureCategory: ["Bathroom","Bedroom","Dining Room","Kitchen","Living Room","Lighting"],
         color: [],
@@ -463,7 +463,7 @@ const MickeyFurniture = [
         furnitureName: `Mickey Mouse's Gloves Wardrobe`,
         price: 3200,
         obtainedby: "Scrooge McDuck Friendship Level 5",
-        image: "/images/furniture/mickey&friends/180px-Mickey_Mouse's_Gloves_Wardrobe.png",
+        image: "/images/furniture/mickey&friends/Mickey_Mouse's_Gloves_Wardrobe.png",
         style: ["Cute","Casual"],
         furnitureCategory: ["Bedroom","Decor"],
         color: [],
@@ -473,7 +473,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Mickey Mouse's Photo Frame`,
         price: 306,
-        image: "/images/furniture/mickey&friends/104px-Mickey_Mouse's_Photo_Frame.png",
+        image: "/images/furniture/mickey&friends/Mickey_Mouse's_Photo_Frame.png",
         style: ["Cute","Casual"],
         furnitureCategory: ["Bedroom","Study","Living Room","Decor"],
         color: [],
@@ -484,7 +484,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Mickey Mouses's Rounded Photo Frame`,
         price: 306,
-        image: "/images/furniture/mickey&friends/135px-Mickey_Mouse's_Rounded_Photo_Frame.png",
+        image: "/images/furniture/mickey&friends/Mickey_Mouse's_Rounded_Photo_Frame.png",
         style: ["Casual","Cute"],
         furnitureCategory: ["Bedroom","Living Room","Study","Fecor"],
         color: [],
@@ -495,7 +495,7 @@ const MickeyFurniture = [
         furnitureName: `Minimalistic Armchair`,
         price: 2400,
         obtainedby: "Founder's Pack: Standard Edition",
-        image: "/images/furniture/mickey&friends/180px-Minimalistic_Armchair.png",
+        image: "/images/furniture/mickey&friends/Minimalistic_Armchair.png",
         style: ["Modern"],
         furnitureCategory: ["Living Room","Bedroom","Study","Seating"],
         color: [],
@@ -505,7 +505,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Painted Vase`,
         price: 306,
-        image: "/images/furniture/mickey&friends/119px-Painted_Vase.png",
+        image: "/images/furniture/mickey&friends/Painted_Vase.png",
         style: ["Elegant"],
         furnitureCategory: ["Dining Room","Living Room","Study"],
         color: [],
@@ -516,7 +516,7 @@ const MickeyFurniture = [
         furnitureName: `Polka Dot Armchair`,
         price: 900,
         obtainedby: "Minnie Mouse Friendship Level 5",
-        image: "/images/furniture/mickey&friends/180px-Polka_Dot_Armchair.png",
+        image: "/images/furniture/mickey&friends/Polka_Dot_Armchair.png",
         style: ["Cute","casual","Modern"],
         furnitureCategory: ["Bedroom","Living Room","Seating"],
         color: [],
@@ -526,7 +526,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Purple Oval Rug`,
         price: 480,
-        image: "/images/furniture/mickey&friends/180px-Purple_Oval_Rug.png",
+        image: "/images/furniture/mickey&friends/Purple_Oval_Rug.png",
         style: [],
         furnitureCategory: ["Rugs"],
         color: [],
@@ -536,7 +536,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Quirky Floor Lamp`,
         price: 765,
-        image: "/images/furniture/mickey&friends/60px-Quirky_Floor_Lamp.png",
+        image: "/images/furniture/mickey&friends/Quirky_Floor_Lamp.png",
         style: ["Cute","Casual"],
         furnitureCategory: ["Dining Room","Living Room","Study","Lighting"],
         color: [],
@@ -546,7 +546,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Quirky Table Lamp`,
         price: 306,
-        image: "/images/furniture/mickey&friends/180px-Quirky_Table_Lamp.png",
+        image: "/images/furniture/mickey&friends/Quirky_Table_Lamp.png",
         style: ["Cute","Casual"],
         furnitureCategory: ["Bedroom","Living Room","Dining Room","Lighting"],
         color: [],
@@ -556,7 +556,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Rectangular Coffee Table`,
         price: 1320,
-        image: "/images/furniture/mickey&friends/180px-Rectangular_Coffee_Table.png",
+        image: "/images/furniture/mickey&friends/Rectangular_Coffee_Table.png",
         style: ["Casual","Rustic"],
         furnitureCategory: ["Living Room","Study","Tables"],
         color: [],
@@ -576,7 +576,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Rectangular Rug`,
         price: 480,
-        image: "/images/furniture/mickey&friends/180px-Rectangular_Rug.png",
+        image: "/images/furniture/mickey&friends/Rectangular_Rug.png",
         style: ["Cute","Casual"],
         furnitureCategory: ["Rec Room","Living Room","Study","Bedroom","Rugs"],
         color: [],
@@ -596,7 +596,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Rounded Coffee Table`,
         price: 1320,
-        image: "/images/furniture/mickey&friends/180px-Rounded_Coffee_Table.png",
+        image: "/images/furniture/mickey&friends/Rounded_Coffee_Table.png",
         style: [],
         furnitureCategory: ["Tables"],
         color: [],
@@ -617,7 +617,7 @@ const MickeyFurniture = [
         furnitureName: `Santa's Gift-Laden Sleigh`,
         // price: ,
         obtainedby: "Festive Star Path",
-        image: "/images/furniture/mickey&friends/180px-Santa's_Gift-Laden_Sleigh.png",
+        image: "/images/furniture/mickey&friends/Santa's_Gift-Laden_Sleigh.png",
         style: [],
         furnitureCategory: ["Outdoors","Decor"],
         color: [],
@@ -628,7 +628,7 @@ const MickeyFurniture = [
         furnitureName: `Scrooge McDuck Wall Sign`,
         price: 2720,
         obtainedby: `Scrooge McDuck's Grand Re-Opening (Story Quest)`,
-        image: "/images/furniture/mickey&friends/180px-Scrooge_McDuck_Wall_Sign.png",
+        image: "/images/furniture/mickey&friends/Scrooge_McDuck_Wall_Sign.png",
         style: ["Professional"],
         furnitureCategory: ["Study","Rec Room","Decor"],
         color: [],
@@ -639,7 +639,7 @@ const MickeyFurniture = [
         furnitureName: `Scrooge McDuck's Spare Safe`,
         price: 16000,
         obtainedby: "The Treasure Hunt Part 2 (Scrooge McDuck Level 10)",
-        image: "/images/furniture/mickey&friends/163px-Scrooge_McDuck's_Spare_Safe.png",
+        image: "/images/furniture/mickey&friends/Scrooge_McDuck's_Spare_Safe.png",
         style: ["Professional","Traditional"],
         furnitureCategory: ["Study","Storage"],
         color: [],
@@ -650,7 +650,7 @@ const MickeyFurniture = [
         furnitureName: `Silly Area Rug`,
         price: 4000,
         obtainedby: "Founder's Pack: Standard Edition",
-        image: "/images/furniture/mickey&friends/180px-Silly_Area_Rug.png",
+        image: "/images/furniture/mickey&friends/Silly_Area_Rug.png",
         style: ["Cute","Modern"],
         furnitureCategory: ["Living Room","Study","Bedroom","Rugs"],
         color: [],
@@ -671,7 +671,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Simple Fridge`,
         price: 1320,
-        image: "/images/furniture/mickey&friends/105px-Simple_Fridge.png",
+        image: "/images/furniture/mickey&friends/Simple_Fridge.png",
         style: [],
         furnitureCategory: ["Decor"],
         color: [],
@@ -681,7 +681,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Sink`,
         price: 1200,
-        image: "/images/furniture/mickey&friends/169px-Sink.png",
+        image: "/images/furniture/mickey&friends/Sink.png",
         style: ["Cute","Casual"],
         furnitureCategory: ["Kitchen","Decor"],
         color: [],
@@ -691,7 +691,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Small Bedside Lamp`,
         price:306,
-        image: "/images/furniture/mickey&friends/102px-Small_Bedside_Lamp.png",
+        image: "/images/furniture/mickey&friends/Small_Bedside_Lamp.png",
         style: ["Cute","Casual"],
         furnitureCategory: ["Bedroom","Dining Room","Living Room","Lighting"],
         color: [],
@@ -701,7 +701,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Small Table`,
         price: 528,
-        image: "/images/furniture/mickey&friends/180px-Small_Table.png",
+        image: "/images/furniture/mickey&friends/Small_Table.png",
         style: [],
         furnitureCategory: ["Tables"],
         color: [],
@@ -712,7 +712,7 @@ const MickeyFurniture = [
         furnitureName: `Snowy Festive Window`,
         price: 480,
         obtainedby: "Festive Star Path",
-        image: "/images/furniture/mickey&friends/89px-Snowy_Festive_Window.png",
+        image: "/images/furniture/mickey&friends/Snowy_Festive_Window.png",
         style: ["Traditional","Elegant"],
         furnitureCategory: ["Study","Dining Room","Windows"],
         color: [],
@@ -722,7 +722,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Stove`,
         price: 1380,
-        image: "/images/furniture/mickey&friends/180px-Stove.png",
+        image: "/images/furniture/mickey&friends/Stove.png",
         style: ["Cute","Casual"],
         furnitureCategory: ["Kitchen","Decor"],
         color: [],
@@ -732,7 +732,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Sweet Abstract Painting `,
         price: 3400,
-        image: "/images/furniture/mickey&friends/158px-Sweet_Abstract_Painting.png",
+        image: "/images/furniture/mickey&friends/Sweet_Abstract_Painting.png",
         style: ["Modern"],
         furnitureCategory: ["Dining Room","Bedroom","Study","Living Room","Decor"],
         color: [],
@@ -742,7 +742,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Tall Potted Plant`,
         price: 1079,
-        image: "/images/furniture/mickey&friends/137px-Tall_Potted_Plant.png",
+        image: "/images/furniture/mickey&friends/Tall_Potted_Plant.png",
         style: ["Casual","Modern"],
         furnitureCategory: ["Kitchen","Dining Room","Living Room","Decor"],
         color: [],
@@ -752,7 +752,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Tea Kettle`,
         price: 1033,
-        image: "/images/furniture/mickey&friends/153px-Tea_Kettle.png",
+        image: "/images/furniture/mickey&friends/Tea_Kettle.png",
         style: ["Cute","Rustic"],
         furnitureCategory: ["Kitchen","Decor"],
         color: [],
@@ -762,7 +762,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Tiny Chair`,
         price: 675,
-        image: "/images/furniture/mickey&friends/108px-Tiny_Chair.png",
+        image: "/images/furniture/mickey&friends/Tiny_Chair.png",
         style: ["Cute","Casual"],
         furnitureCategory: ["Kitchen","Dining Room","Seating"],
         color: [],
@@ -772,7 +772,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Top Cupboard`,
         price: 1200,
-        image: "/images/furniture/mickey&friends/154px-Top_Cupboard.png",
+        image: "/images/furniture/mickey&friends/Top_Cupboard.png",
         style: ["Casual","Rustic"],
         furnitureCategory: ["Kitchen","Tables"],
         color: [],
@@ -783,7 +783,7 @@ const MickeyFurniture = [
         furnitureName: `Triangular Coffee Table`,
         price: 3520,
         obtainedby: "Founder's Pack: Standard Edition",
-        image: "/images/furniture/mickey&friends/180px-Triangular_Coffee_Table.png",
+        image: "/images/furniture/mickey&friends/Triangular_Coffee_Table.png",
         style: ["Modern","Cute"],
         furnitureCategory: ["Study","Living Room","Tables"],
         color: [],
@@ -793,7 +793,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Vintage Phone`,
         price: 810,
-        image: "/images/furniture/mickey&friends/180px-Vintage_Phone.png",
+        image: "/images/furniture/mickey&friends/Vintage_Phone.png",
         style: ["Modern","Cute"],
         furnitureCategory: ["Study","Kitchen","Bedroom","Decor"],
         color: [],
@@ -803,7 +803,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Wall Planter`,
         price: 810,
-        image: "/images/furniture/mickey&friends/180px-Wall_Planter.png",
+        image: "/images/furniture/mickey&friends/Wall_Planter.png",
         style: ["Casual","Elegant"],
         furnitureCategory: ["Kitchen","Living Room","Dining Room","Study","Decor"],
         color: [],
@@ -813,7 +813,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Wooden Bookshelf`,
         price: 3200,
-        image: "/images/furniture/mickey&friends/94px-Wooden_Bookshelf.png",
+        image: "/images/furniture/mickey&friends/Wooden_Bookshelf.png",
         style: ["Cute"],
         furnitureCategory: ["Living Room","Study","Decor"],
         color: [],
@@ -823,7 +823,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Wooden End Table`,
         price: 1320,
-        image: "/images/furniture/mickey&friends/180px-Wooden_End_Table.png",
+        image: "/images/furniture/mickey&friends/Wooden_End_Table.png",
         style: ["Casual","Rustic"],
         furnitureCategory: ["Bedroom","Living Room","Tables"],
         color: [],
@@ -833,7 +833,7 @@ const MickeyFurniture = [
     {
         furnitureName: `Wooden Side Table`,
         // price: ,
-        image: "/images/furniture/mickey&friends/180px-Wooden_Side_Table_(2).png",
+        image: "/images/furniture/mickey&friends/Wooden_Side_Table_(2).png",
         style: [],
         furnitureCategory: ["Tables"],
         color: [],
